@@ -6,7 +6,7 @@ Find sales opportunities that fit Isselthal Industries as an agency engagement, 
 
 ## Current Status
 
-Initial search completed on 2026-08-26. Two possible agency engagements were identified: PhD-level remote computer science R&D and temporary FinTech data science in Berlin. See the workflow record for URLs and exclusions.
+Initial search completed on 2026-08-26. One possible agency engagement was identified: PhD-level remote computer science R&D. The Berlin FinTech data-science role was excluded because the search is limited to Paris and Nuremberg. See the workflow record for URLs and exclusions.
 
 ## Next Action
 
