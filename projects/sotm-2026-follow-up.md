@@ -8,10 +8,35 @@
 
 ## High-Confidence Outreach Targets
 
-1. Federation des pros d'OpenStreetMap (FPOSM) - contact Florian Lainez and Marina Petkova. This is the clearest commercial-network target: it has 26 member companies, shares incoming commercial work, and supports joint tender responses. Ask about membership and contributing software/data-engineering capacity to France/Germany or EU public tenders. This directly follows the user's conference notes. https://fposm.fr/en/contact-us/ https://fposm.fr/en/become-a-member/
-2. Carto'Cite / SNCF Transilien - contact Antoine Riche. Carto'Cite is in FPOSM and presented an active data-maintenance/moderation pipeline for 436 Paris-area stations plus a passenger-navigation product. Propose a complementary delivery partnership around reproducible data platforms, quality/testing, observability, and product scaling. This directly follows the user's conference notes. https://2026.stateofthemap.org/sessions/CXXRXD
-3. Geodata Paris / Universite Gustave Eiffel / IGN - contact Geodata Paris research/industry relations. The conference host has around 55 permanent researchers and engineers, works with territorial digital tools, and explicitly accepts company-sponsored student projects. Pitch research-software delivery and externally funded collaboration. This directly follows the user's conference notes. https://geodata-paris.fr/
-4. FOSSGIS e.V. - contact the association about the user's specific offer to help German SMEs use FOSS GIS/OSM in public tenders, and whether a professional-network or tender-consortium route is available. This follows the user's conference notes. https://www.fossgis.de/
+### Federation des pros d'OpenStreetMap (FPOSM)
+
+- People: Florian Lainez, FPOSM president and CEO of Jungle Bus; Marina Petkova, FPOSM deputy secretary and Dynartio co-founder.
+- Contacts: contact@fposm.fr; https://www.linkedin.com/in/florianlainez/; https://www.linkedin.com/in/marinapetkova/
+- Context: attended their talk, "Making a living on OSM by nurturing the commons." FPOSM has 26 member companies, shares incoming commercial work, and supports joint tender responses.
+- Note: ask whether a person living in France with a German company can join, and how France-Germany collaboration or joint European-tender work could operate. The user wants to become more engaged with OSM volunteering and professional work.
+- Sources: https://2026.stateofthemap.org/sessions/WGMV3T https://fposm.fr/association/ https://fposm.fr/en/become-a-member/
+
+### Carto'Cite / SNCF Transilien
+
+- Person: Antoine Riche, Carto'Cite founder and OpenStreetMap consultant; FPOSM secretary.
+- Contacts: https://www.linkedin.com/in/antoine-riche-cartocite/; public contact form and phone +33 6 76 88 13 49 at https://cartocite.fr/contact/
+- Context: attended his talk, "How Carto'Cite maintains OSM data for 436 train stations efficiently using PostGIS and QGIS." The work covers an active data-maintenance and moderation pipeline plus a passenger-navigation product.
+- Note: say that the talk was compelling and ask how he entered this line of work. The user would like to turn Isselthal more toward similar work and explore whether there is a complementary route to collaborate.
+- Sources: https://2026.stateofthemap.org/sessions/CXXRXD https://cartocite.fr/
+
+### Geodata Paris / Universite Gustave Eiffel / IGN
+
+- Contact: generic contact form https://geodata-paris.fr/fr/contacts and LinkedIn https://fr.linkedin.com/school/geodata-paris/
+- Context: spoke with a recruiter at the event but did not obtain a named individual contact.
+- Note: ask about collaboration adjacent to research: teaching, attending or observing seminars, startup support, and technical support for research projects. Do not frame this as a job application.
+- Source: https://geodata-paris.fr/
+
+### FOSSGIS e.V.
+
+- Contact: Katja Haferkorn, coordinating office: info@fossgis.de; https://www.linkedin.com/company/fossgis-verein/
+- Context: after the Friday talk "National Mapping and Cadastral agencies (NMCAs) and their relationship with OSM," the user spoke with the presenter, Konstantin Kromer, BKG geoinformation project manager: https://www.linkedin.com/in/konstantin-kr%C3%B6mer-a803a3190/
+- Note: Konstantin advised contacting FOSSGIS about getting started as an SME in public tenders. Explain that this is the user's goal and ask what support, networks, training, or routes to consortia are available.
+- Source: https://2026.stateofthemap.org/sessions/H9VJ7S https://www.fossgis.de/verein/kontakt/
 
 ## Funding Lead
 
