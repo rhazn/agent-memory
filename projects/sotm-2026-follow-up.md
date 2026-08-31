@@ -27,6 +27,20 @@
 - French IGN voxelization project - an open-source modular Java tool with configurable geodata pipelines. Potential research-software support target. https://2026.stateofthemap.org/sessions/E3WQWG
 - Transitous - community-run intermodal routing across 60+ countries with accessibility and indoor-routing data challenges. Potential open-source contribution rather than a near-term client lead. https://2026.stateofthemap.org/sessions/3WLKJ9
 
+## Expanded Leads
+
+- Adrien Pavie and Christian Quest - Panoramax is an open-source, federated street-level imagery project launched by OpenStreetMap France and IGN, now forming a foundation. Ask about federation, interoperability, data processing, or operations that could benefit from outside senior engineering support. https://2026.stateofthemap.org/sessions/PCMPNK
+- Bas Bussink - Dutch public bodies are building a privacy-aware, sovereign Panoramax imagery instance. A high-value public-sector introduction for cross-border collaboration; the stated challenges include technical, organisational, legal, and privacy work. https://2026.stateofthemap.org/sessions/JBF9HX
+- Jakub Zmrzlik / Mapy.com - runs a large-scale OSM outdoor-navigation product and described production problems from incomplete network data, ambiguous tags, quality variations, and user safety. Strong exploratory product/data-quality outreach target. https://2026.stateofthemap.org/sessions/VUYNMB
+- Felix Gundling and Robin Durner - MOTIS is an open routing stack with global vector tiles, real-time public transport, sharing mobility, and low memory use. Good open-source and potential commercial routing-platform relationship. https://2026.stateofthemap.org/sessions/LT3DRY
+- Dennis Luxen - the OSRM revitalisation has a public roadmap, a lower contribution barrier, and mobile/server ambitions. Consider a contribution or grant-funded maintenance conversation, not direct sales outreach. https://2026.stateofthemap.org/sessions/ZR8RTX
+- Martijn van Exel - MapRoulette v4 has a new web/API platform used for about 700,000 mapping improvements in 2025. Potential partner for data-quality workflows such as cycling, accessibility, or public-asset challenges. https://2026.stateofthemap.org/sessions/WJFRPV
+- Yuri Astrakhan and Frank Elsinga - MapLibre announced MLT tiles and Martin tile-server progress. High-value technical community contact, likely collaboration/open-source rather than immediate agency sales. https://2026.stateofthemap.org/sessions/MKKGG9
+- Tobias Knerr - OSM2World added a web frontend, 3D tiles, glTF improvements, and library interfaces. Potential research-software or productionisation collaboration. https://2026.stateofthemap.org/sessions/XQUCJM
+- Camille Bernard and Pedro Pinheiro - research web application and methodology for distinguishing real-world OSM changes from editing artifacts. Strong research-software and public-planning support fit. https://2026.stateofthemap.org/sessions/3PBPMG
+- Yair Grinberger - empirical research on corporate OSM editing and long-term data/community effects. Good academic contact for research funding or evaluation work; not a direct sales lead. https://2026.stateofthemap.org/sessions/JC87RR
+- Victor Ademoyero and Emmanuel Jolaiya - UseOSM is a community platform with an explicit maintenance workflow, governance model, onboarding needs, and roadmap. Suitable open-source relationship and agency visibility channel. https://2026.stateofthemap.org/sessions/GSZW7S
+
 ## Research Pipeline
 
 - Read and catalogue the science-track slides/papers before outreach. Prioritize: accessibility/entrance data, transport-demand modelling, data quality, and open-data applications.
