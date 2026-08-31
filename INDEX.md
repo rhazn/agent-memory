@@ -9,6 +9,7 @@ Read this file first. Open only the linked files relevant to the task.
 ## Active Projects
 
 - [Agency opportunities](projects/agency-opportunities.md)
+- [State of the Map 2026 follow-up](projects/sotm-2026-follow-up.md)
 
 ## Active Workflows
 
