@@ -6,6 +6,10 @@ Read this file first. Open only the linked files relevant to the task.
 
 - [User profile](profile.md)
 
+## Knowledge Areas
+
+- [Isselthal Industries](knowledge/isselthal-industries.md)
+
 ## Active Projects
 
 - [Agency opportunities](projects/agency-opportunities.md)
