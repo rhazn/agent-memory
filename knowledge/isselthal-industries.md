@@ -3,7 +3,6 @@
 ## Public References
 
 - Website: https://www.isselthal.industries/
-- Medical Valley EMN: https://www.medical-valley-emn.de/en/
 - Philip Heltweg CV: https://www.heltweg.org/assets/files/cv_philip_heltweg.pdf
 - Georg Schwarz CV: https://georg-schwarz.com/cv/
 
