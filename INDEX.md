@@ -15,6 +15,7 @@ Read this file first. Open only the linked files relevant to the task.
 - [Agency opportunities](projects/agency-opportunities.md)
 - [Conjugation Invocation](projects/conjugation-invokation.md)
 - [Lizard Savehouse](projects/lizard-savehouse.md)
+- [Frigate posture benchmark](projects/frigate-posture-benchmark.md)
 - [State of the Map 2026 follow-up](projects/sotm-2026-follow-up.md)
 
 ## Active Workflows
