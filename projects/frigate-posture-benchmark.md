@@ -23,11 +23,20 @@ development and is not needed by this selected rule. This pilot is not a new
 full benchmark winner. Its test split is retrospective because these videos
 influenced historical experiments; scene/actor independence is not established.
 
+Frozen validation on all remaining 10,800 clips completed on 2026-09-29 using
+the new MediaPipe-only mode. Mean F0.5 is 0.7730 versus frozen matched baseline
+0.6954, with no retuning. Sitting F0.5: 0.7142 vs 0.7005. Laying F0.5: 0.8318
+vs 0.6903; precision: 0.8629 vs 0.7071; recall: 0.7267 vs 0.6304. Laying false
+positives fall from 887 to 392 while true positives rise from 2141 to 2468.
+Coverage, video exclusion, clip alignment, and frozen input hashes all passed.
+This remains retrospective synthetic-data validation, not external validation.
+
 The first full temporal geometry run stopped before final report writes,
 losing in-memory predictions. The runner now saves atomic progress reports
-every 25 clips and resumes the same command. Next: validate the frozen pilot
-rules on the remaining 10,800 clips, ideally with a MediaPipe-only mode, then
-investigate temporal Pose Landmarker sitting. Do not retune on pilot test clips.
+every 25 clips and resumes the same command. Next: investigate temporal Pose
+Landmarker sitting with a clearly separate development protocol. Preserve the
+frozen validation result; both the pilot test and remaining validation clips
+have now been observed.
 
 ## Decisions
 
@@ -49,7 +58,9 @@ investigate temporal Pose Landmarker sitting. Do not retune on pilot test clips.
 - `evaluation/posture/LAB_NOTES.md` is the detailed handoff and result record.
 - `evaluation/posture/temporal_geometry_evaluate.py`
 - `evaluation/posture/temporal_geometry_study.py`
+- `evaluation/posture/temporal_frozen_validate.py`
 - Local ignored reports: `evaluation/posture/results/temporal-geometry-pilot-study/`
+- Frozen validation reports: `evaluation/posture/results/temporal-frozen-validation/`
 - `evaluation/posture/evaluate.py`
 - `evaluation/posture/calibrate.py`
 - `evaluation/posture/ensemble_reports.py`
