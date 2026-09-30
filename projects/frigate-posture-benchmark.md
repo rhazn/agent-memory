@@ -27,6 +27,24 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 user vocabulary clarification: keep the main comparison simple with
+two paths: boxes into AVA, and boxes into skeletons into geometry rules.
+Landmarks/keypoints are the skeleton's joint points; skeleton connections do
+not add another model stage. MediaPipe includes person localization internally,
+while RTMPose uses an explicit detector. Updated HUMAN_EXPLANATION and scoped
+AGENTS to use this framing; preserve silhouette/CLIP and rule variants as history.
+
+License source check: PyTorchVideo code is Apache-2.0; Google's AVA download
+page states CC BY 4.0 for its datasets. Neither establishes asset-specific
+Meta checkpoint terms or all underlying video rights. Exact pretrained-weight
+commercial clearance remains open; no demonstrated AVA NC restriction found.
+HumanArt README explicitly limits dataset authorization to non-commercial use;
+the tested YOLOX-m detector's training provenance remains a concern. Do not
+assert that dataset NC automatically bans all trained-model inference.
+Boxes into AVA itself creates no special license restriction. Frigate boxes
+can avoid the HumanArt detector dependency but need their own terms and quality
+check. Sources and distinctions are recorded in LAB_NOTES and HUMAN_EXPLANATION.
+
 2026-09-30 documentation requirement: user requested a plain-English explanation
 of all tested approaches, grouped into a few high-level categories. Added
 `evaluation/posture/HUMAN_EXPLANATION.md`: landmarks plus geometry, shape plus
