@@ -27,6 +27,49 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 COMPLETED runtime-bounded comparison. User rejected multi-hour runs:
+target about 30 minutes, absolute maximum one hour. Keep all 652 Charades clips;
+prepare a reproducible random 600-video OmniFall benchmark with source-like
+distribution. This supersedes the earlier 12,000-video request. The previous
+supervisor 45940 and all five workers stopped; their partial progress remains.
+
+`prepare.py` now defaults to 600 OmniFall videos, seed `omnifall-benchmark-v1`.
+`prepare_omnifall.select_benchmark` stratifies by action-family folder and static
+sitting/lying/both/neither labels, allocates proportionally with largest
+remainders, and uses seeded SHA-256 ordering within strata. Keeps all clips of
+each video, immutable labels, and all Charades clips. OmniFall: 600 videos/clips,
+135 sitting positives (22.50% vs source 22.53%), 189 lying (31.50% vs 31.41%).
+Source archive remains. Selected manifest at `data/omnifall/checkpoints-benchmark.jsonl`;
+selection list/counts/hashes at `benchmark-selection.json`; combined 1,252 clips
+at `data/checkpoints-benchmark.jsonl`. Selection manifest SHA-256:
+7f7b038457b083315cf44841f582499eb9e1d01759e58333a5f5168dab6f7665.
+
+`run_complete_paths.sh` now delegates to `run_complete_paths.py`: one worker per
+dataset, owned process groups, 3,600-second deadline, graceful stop/progress,
+automatic exact-coverage report. SIGTERM handlers support cleanup/resumption.
+Restart supervisor 52086 / workers 52108,52109 all exited successfully.
+Elapsed 1,412 seconds (23m32s), including preparation and report. Resumed 130
+Charades clips from the cancelled attempt, so not a fresh-start timing claim.
+
+Fixed COMPLETE approach scores on every prepared clip:
+- Charades 652: Frigate/AVA mean F0.5 0.7147 (sit 0.7038, lie 0.7257);
+  Frigate/RTMPose/geometry 0.5552 (sit 0.6791, lie 0.4312).
+- OmniFall 600: Frigate/AVA 0.7390 (sit 0.6584, lie 0.8197);
+  Frigate/RTMPose/geometry 0.6422 (sit 0.5459, lie 0.7386).
+AVA wins these fixed configurations on both sources. Charades lying TP/FP:
+109/15 vs skeleton 42/16; AVA lying recall still only 0.4275. No calibration
+or development/test filtering. Annotation-reference/retrospective caveats and
+offline Frigate-model-versus-actual-NVR boundary remain.
+
+Final reports `results/complete-paths-benchmark/{summary.json,comparison.md}` and
+`{charades,omnifall}/{ava,skeleton}.json`; status file says completed. Exact full
+prepared coverage, selection hash/list, fixed protocol, and decision checks passed.
+All 69 tests, changed-code Ruff, compilation, shell syntax, and doc link checks
+passed. HUMAN_EXPLANATION/README/LAB_NOTES/AGENTS now record results and budget.
+No benchmark from this comparison remains active. Next: public full-clip error
+review and targeted complete-path changes within the same budget, preserving
+this fixed representative selection and historical results.
+
 2026-09-30 ACTIVE WHOLE-DATASET RUN: user returned, requested the big next
 step, then clarified two requirements: compare complete Frigate/AVA versus
 complete Frigate/skeleton/geometry paths (not box-source effects), and score
