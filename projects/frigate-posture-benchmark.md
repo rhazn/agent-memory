@@ -27,6 +27,45 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 ACTIVE WHOLE-DATASET RUN: user returned, requested the big next
+step, then clarified two requirements: compare complete Frigate/AVA versus
+complete Frigate/skeleton/geometry paths (not box-source effects), and score
+the entire available datasets (not agent-created development/test subsets).
+No new training/calibration in this run. Earlier development groups were only
+threshold-selection subsets. Preserve earlier scoped results as history.
+
+Started `caffeinate -i bash evaluation/posture/run_complete_paths.sh` in the
+background. Supervisor PID at startup/current check: 45940. One worker covers
+all 652 Charades clips; four workers cover all 12,000 OmniFall clips in offsets
+0/3000/6000/9000 with limit 3000. No pilot/sample limit. Both paths consume
+the same offline Frigate CPU boxes at the three AVA proposal frames.
+
+Fixed protocol in `complete_paths.json`: AVA sitting max >= 0.74, lying min
+>= 0.02; RTMPose-m geometry sitting min >= 0.05, lying second >= 0.09. These
+are predeclared configurations from prior tested variants, not a claim to
+globally optimize each family. RTMPose runs only on Frigate boxes, never its
+whole-frame fallback when boxes are absent. AVA sees window video; geometry
+sees proposal-frame skeletons. No silhouette/hybrid branch in this comparison.
+
+Runtime: Torch 2.8.0 MPS with CPU fallback for unsupported pooling; detector
+LiteRT 1.2.0 and skeleton RTMLib 0.0.16 run on CPU. Sequential decoding of
+needed frames matched seek-based pixels/timestamps in a public-clip check.
+All 65 tests, changed-code Ruff, compilation, and shell syntax passed.
+
+Outputs: `results/complete-charades-full.{json,progress.json,log}` and
+`results/batches/complete-omnifall-{offset}.{json,progress.json,log}`.
+Supervisor log `results/complete-paths-run.log`. After all workers finish,
+`complete_paths_report.py` automatically checks exact full coverage, inputs,
+protocol/configuration hashes, and decision reproduction, then writes
+`results/complete-paths-full/{summary.json,comparison.md}` and per-path reports.
+At the 4:52 elapsed check: Charades 50/652 saved; OmniFall 40/30/40/30 saved
+in the four batches. Expect several hours under load. No final scores yet.
+Do not start duplicate workers or edit protocol/geometry code during the run.
+If interrupted, repeat the supervisor command to resume matching progress.
+Next agent: monitor actual logs/errors, check final artifacts, record whole
+scores in LAB_NOTES/HUMAN_EXPLANATION. Both currently record the active run;
+the earlier pause no longer blocks this explicitly authorized inference.
+
 2026-09-30 offline Frigate box-source handover: user again requested no more
 runs and a handover for laptop closure. The 12-clip check and tests finished
 before that request; no full/new long run started. Check readiness before
