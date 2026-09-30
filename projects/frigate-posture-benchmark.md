@@ -27,6 +27,29 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 AVA continuation: completed CPU SlowFast R50 Detection inference on
+all 652 Charades clips and a fixed hash-selected 240-video OmniFall pilot.
+Reports: `results/ava-charades.json`, `ava-omnifall-pilot240.json`, studies
+under `results/ava-study/{charades,omnifall}/`. No training. Three causal
+32-frame windows per clip, public YOLOX-m proposals, Torch 2.8.0/Torchvision
+0.23.0/PyTorchVideo 0.1.5/RTMLib 0.0.16. MPS pooling unsupported; runs used CPU.
+
+Charades test (same 205 clips): historical frozen 0.5440, previous optimized
+geometry 0.6180, development-selected AVA standalone 0.7895, development-selected
+AVA/geometry pipeline 0.7442. Standalone sitting uses second-highest >= 0.49;
+lying uses max >= 0.09. Combined selection adds mean AVA sitting >= 0.21 AND
+RTMPose min >= 0.05; its sitting gate loses on test. Do not promote standalone
+by hindsight test selection. Lying standalone test precision 0.9516, recall
+0.6782. OmniFall test is only 78 clips: frozen 0.7346, AVA standalone 0.7974,
+combined 0.7949. All remain retrospective annotation-reference comparisons.
+
+Paused at the user's request to close the laptop and avoid more long/heavy
+runs. All launched workers had completed and exited. Check readiness before
+another long run. Seven new targeted tests and changed-code Ruff passed;
+full regressions, compilation, README reproduction commands, sampled-coverage
+verification, and proposal-coverage analysis remain pending. LAB_NOTES.md has
+the detailed handoff and frozen rules.
+
 2026-09-30 continuation: added `temporal_transfer_study.py` and
 `PRETRAINED_RESEARCH.md`. A source-verified search identified AVA SlowFast
 detectors with static `sit` (11) and `lie/sleep` (8) heads and free public
