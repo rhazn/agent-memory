@@ -27,6 +27,31 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 resumed verification: all 55 tests passed with the pinned Torch
+overlay; all six AVA Python files pass Ruff and compilation. README now has
+download/inference/study/review commands. `ava_review.py` verifies input hashes,
+exact recorded hash sampling, causal frames, and reproduction of recorded
+standalone/selected metrics. All checks passed. No new inference runs launched.
+
+Proposal coverage: Charades has boxes in 1,811/1,956 windows; all 262 sitting
+positives and 247/255 lying positives have at least one proposed box. OmniFall
+240 pilot has boxes in 719/720 windows and every clip. This is any-box coverage,
+not measured person-detector recall or an annotation audit.
+
+Frozen transfer confirms standalone AVA transfers better than geometry-gated
+pipelines: OmniFall-to-Charades test 0.7057 standalone vs 0.5373 combined;
+Charades-to-OmniFall pilot test 0.7581 standalone vs 0.6930 combined.
+A shared AVA-only rule set selected from both sources' development clips
+(maximize minimum source F0.5 per label) uses sitting max >= 0.74 and lying
+min >= 0.02. Separate test mean F0.5: Charades 0.7355 vs geometry 0.6180;
+OmniFall pilot 0.7756 vs geometry 0.7346. It sacrifices source-specific AVA
+quality for a common configuration and is not a new full benchmark winner.
+New reports: `evaluation/posture/results/ava-review/`, including summary,
+comparison, shared/transfer predictions, all development candidates, and hashes.
+The previous pause's verification/documentation tasks are now complete.
+Next priority: independent public real-footage validation and full-clip error/
+annotation review of frozen AVA rules; do not retune on observed test clips.
+
 2026-09-30 AVA continuation: completed CPU SlowFast R50 Detection inference on
 all 652 Charades clips and a fixed hash-selected 240-video OmniFall pilot.
 Reports: `results/ava-charades.json`, `ava-omnifall-pilot240.json`, studies
