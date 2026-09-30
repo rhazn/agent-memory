@@ -1,5 +1,30 @@
 # Frigate Posture Benchmark
 
+## Evaluation Contract And Model Policy
+
+User clarification, 2026-09-30:
+
+- Evaluate posture-recognition quality for later Frigate integration, not the
+  full production system. Frigate supplies person boxes/crops and handles alerts.
+- Input remains a causal five-second clip. Any frames, crops, or video sequence
+  inside it may be used. Output is two booleans: any sitting person and any
+  lying person anywhere in the clip, possibly different people.
+- Tracking, persistent identity, person association, transition recognition,
+  alerting, and Frigate integration are not benchmark prerequisites or goals.
+- Never use sensitive production data for training, fine-tuning, or benchmark
+  evaluation. Existing pretrained classifiers are valid without new training.
+- Quality first; model weights must be obtainable/downloadable for free.
+  No paid model access/API requirement. Do not exclude models by license type
+  during evaluation. Review licenses after quality identifies deployment
+  candidates. This supersedes earlier permissive-only/YOLO/VideoMAE exclusions.
+- Next model-search priority: freely downloadable pretrained static-posture
+  classifiers for images/crops, RGB clips, or skeleton sequences. RTMPose is
+  already tested, but its landmark outputs use our geometry rules; YOLO Pose
+  likewise is not a ready-made sitting/lying classifier.
+- Research roadmap in LAB_NOTES.md also covers full-frame/multi-crop inputs,
+  pooling/ensembles, SAM 2/OWLv2/context models, label auditing, and fresh
+  public-data splits. Continue separate OmniFall and Charades scores.
+
 ## Current Status
 
 As of 2026-09-29, OmniFall has 12,000 causal five-second clips. Independent
@@ -28,8 +53,9 @@ test descriptions mention sitting in 77 and lying in 18 videos without the
 corresponding static label. A 12-clip assistant visual spot-check found nine
 apparently consistent and three uncertain cases; no labels changed. Do not
 claim label completeness or promote this as definitive false-alarm evaluation.
-Priority is now real-footage label auditing and low-recall error analysis,
-with fresh evaluation splits rather than more synthetic-only tuning.
+Pair the pretrained-classifier search with real-footage label auditing and
+low-recall error analysis, using fresh evaluation splits rather than more
+synthetic-only tuning.
 
 The current full any-point baseline is MediaPipe Heavy with three frames and
 top-2 score means: F0.5 0.7065, calibrated on the full manifest.
@@ -67,9 +93,10 @@ have now been observed.
 - RTMPose is permitted for internal deployment. The default detector is trained
   on HumanArt, whose dataset access is non-commercial, so record this
   provenance risk before external commercial redistribution.
-- Reject landmark cropping, image-plane geometry, lower-complexity MediaPipe
-  models, bilateral landmark gating, detector-box geometry, whole-frame CLIP,
-  and RTMPose-x based on benchmark results.
+- Historical tests rejected particular landmark-crop, image-plane geometry,
+  lower-complexity MediaPipe, bilateral gate, detector-box geometry, whole-frame
+  CLIP, and RTMPose-x configurations. These are not blanket rejections of every
+  crop method or classifier using those model families.
 - Historical endpoint silhouette geometry was weak alone, but temporal 2-of-3
   silhouette scoring is the strongest laying-down branch in the current pilot.
 - Evaluation supports resumable video ranges and report merging because a
