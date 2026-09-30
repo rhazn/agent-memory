@@ -27,6 +27,21 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 documentation requirement: user requested a plain-English explanation
+of all tested approaches, grouped into a few high-level categories. Added
+`evaluation/posture/HUMAN_EXPLANATION.md`: landmarks plus geometry, shape plus
+geometry, learned appearance models (CLIP and AVA), and temporal/composite rules.
+It explains that standalone AVA does not use our posture geometry rules, while
+person boxes, score thresholds, and temporal pooling remain part of the method.
+It records tested variants, results, limitations, researched-only candidates,
+and next steps. README and LAB_NOTES link to it.
+
+User requirement: keep this explanation up to date with new research. Scoped
+`evaluation/posture/AGENTS.md` makes updates mandatory when experiments, findings,
+conclusions, or scope/policy change. Future researchers must read README,
+LAB_NOTES, and HUMAN_EXPLANATION before work. Local-link, formatting, and
+approach-coverage checks passed; no inference or code changes in this task.
+
 2026-09-30 resumed verification: all 55 tests passed with the pinned Torch
 overlay; all six AVA Python files pass Ruff and compilation. README now has
 download/inference/study/review commands. `ava_review.py` verifies input hashes,
