@@ -27,6 +27,31 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 continuation: added `temporal_transfer_study.py` and
+`PRETRAINED_RESEARCH.md`. A source-verified search identified AVA SlowFast
+detectors with static `sit` (11) and `lie/sleep` (8) heads and free public
+checkpoints in MMAction2 and PyTorchVideo. New models are not yet benchmarked.
+Next inference priority is an AVA head with public-detector person proposals
+and strictly within-five-second windows; verify each builder's label indexing.
+
+Cached optimization uses the original video hash split, not a fresh external
+test. Charades has 84 development videos / 447 clips and 36 test videos / 205
+clips. On matching test clips, frozen mean F0.5 is 0.5440, threshold-only
+recalibration is 0.5532, and development-selected backend/pooling is 0.6180.
+Selected: RTMPose sitting min >= 0.05 (all three frames); silhouette lying max
+>= 0.80 (any frame). Lying precision falls while recall rises; negatives remain
+annotation disagreements. Charades rules transfer poorly to OmniFall pilot
+test (0.6796 vs original 0.7500), so no universal replacement is established.
+The original OmniFall development search selects its historical rules again.
+All 44 tests, changed-code Ruff, and compilation passed.
+
+Of the frozen Charades misses, 70 sitting and 63 lying clips have zero primary
+posture score across all samples; another 65 sitting and 68 lying misses have
+only one nonzero frame. These are rule-score coverage diagnostics, not measured
+person-detector recall. Threshold-only tuning cannot recover zero-score cases.
+Artifacts: `evaluation/posture/results/temporal-transfer-study/`, including
+input hashes, development candidates, miss partitions, and per-clip outputs.
+
 As of 2026-09-29, OmniFall has 12,000 causal five-second clips. Independent
 `sitting` and `laying-down` labels mean the static posture occurs anywhere in
 the clip. The primary metric is mean F0.5. Endpoint results are historical and
