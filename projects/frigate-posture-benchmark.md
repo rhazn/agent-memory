@@ -27,6 +27,35 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-09-30 offline Frigate box-source handover: user again requested no more
+runs and a handover for laptop closure. The 12-clip check and tests finished
+before that request; no full/new long run started. Check readiness before
+future inference. Latest detailed handover is in LAB_NOTES; README has commands.
+
+Local Frigate config uses CPU default model. Local image is 0.17.2-3d4dd3a,
+digest d4351369984d4a9e2a49ac59736f6490856a7ea11f7790040746d21496967010.
+Copied `/cpu_model.tflite` from a temporary never-started container and removed
+the container. Model file is `evaluation/posture/models/frigate_cpu_model.tflite`;
+SHA-256 90bb33a634e041914cc1819aa5df99818e6c396c4d2db952c0fd7a9cffc4724f.
+This is Google Coral SSD Lite MobileDet COCO, not the HumanArt detector.
+
+New `frigate_boxes.py` runs it with ai-edge-litert 1.2.0. `ava_evaluate.py`
+supports `--detector frigate-cpu`. Uses RGB uint8 320x320, static whole-frame
+square padded right/bottom, person class 0, raw score floor 0.4, cutoff 0.5.
+It does not reproduce Frigate motion regions, YUV decode, camera resizing,
+tracking, masks, or tracked-score history. Call it offline Frigate-model boxes,
+not exact Frigate event boxes or proven production-model parity.
+
+`compare_ava_boxes.py` checks identical AVA inputs and applies frozen standalone
+rules without calibration. First two Charades videos yielded 12 clips: frozen
+mean F0.5 0.8410 for Frigate-model boxes vs 0.9005 for YOLOX; 25/36 vs 34/36
+windows have proposals. This is execution evidence only, not general quality.
+Detector confidence differs (0.5 vs 0.3); posture thresholds remain identical.
+Artifacts: `results/ava-frigate-charades-smoke.json` and corresponding comparison
+directory. All 61 tests, changed-code Ruff, and compilation passed. Larger
+matched public-data comparison, region-fidelity discussion if needed, and exact
+commercial-weight clearance remain open. HUMAN_EXPLANATION includes this state.
+
 2026-09-30 user vocabulary clarification: keep the main comparison simple with
 two paths: boxes into AVA, and boxes into skeletons into geometry rules.
 Landmarks/keypoints are the skeleton's joint points; skeleton connections do
