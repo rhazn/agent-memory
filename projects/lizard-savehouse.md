@@ -10,6 +10,8 @@ Infrastructure repository at `/Users/pheltweg/development/projects/lizard-saveho
 - Pi preferences: light theme, medium thinking, hidden thinking blocks, and no Linear extension or local models.
 - Pi 1.0.0 migration (2026-10-02): default `openai-codex/gpt-6.1-sol`; cycling matches OpenCode's six models (`gpt-5.6-terra`, `gpt-5.6-sol`, `gpt-5.6-luna`, `gpt-6-luna`, `gpt-6-astra`, `gpt-6.1-sol`). The user explicitly chose to keep the existing Codex login and use native MCP instead of the old adapter. `pi-web-access` is pinned to 0.35.0. All models are built in, so `models.json` stays empty. MCP servers/credentials stay local; none are declared by the repository. Restore tests and isolated Pi 1.0.0 model-resolution/native-MCP/web-extension loading checks passed without model requests.
 
+- Plan mode added (2026-10-02): `npm:@milanglacier/pi-plan-mode@0.7.2` is pinned in Pi settings. `/plan` or `Alt+P` enters planning in the main conversation, with persistent plan files and native clarification dialogs; no subagents. It is prompt-guided, not enforced read-only: existing edit, shell, and MCP tools remain enabled. README documents usage and this limit. Restore tests and loading the published npm extension in Pi 1.0.0 passed without model requests.
+
 ## Hosts
 
 - `agent-box` is a private NixOS development VM for OpenCode. It currently runs as an ARM VM on an Apple Silicon Mac. Its configuration is in `agent-box/`. When a request refers to the Agent Box, perform the work against this VM configuration, not the local macOS workspace.
