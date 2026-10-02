@@ -7,7 +7,8 @@ Infrastructure repository at `/Users/pheltweg/development/projects/lizard-saveho
 - Pi's Git-managed source of truth is `agentic-coding/pi/` (lowercase, as requested). The user wants all Pi-specific configuration work there.
 - `pi/scripts/restore` links settings, models, keybindings, instructions, extensions, prompts, themes, and Pi-only skills into the live agent directory, with backups for conflicts. Credentials and sessions remain local.
 - Shared instructions and skills still use `agentic-coding/scripts/sync`; the Pi README documents restore and OpenCode parity recommendations.
-- Pi preferences: light theme, only `openai-codex/gpt-6-astra` for startup/model cycling, medium thinking, hidden thinking blocks, and no Linear extension. The user no longer needs the Linear integration; its extension was removed. The user no longer wants local models; custom provider definitions were removed.
+- Pi preferences: light theme, medium thinking, hidden thinking blocks, and no Linear extension or local models.
+- Pi 1.0.0 migration (2026-10-02): default `openai-codex/gpt-6.1-sol`; cycling matches OpenCode's six models (`gpt-5.6-terra`, `gpt-5.6-sol`, `gpt-5.6-luna`, `gpt-6-luna`, `gpt-6-astra`, `gpt-6.1-sol`). The user explicitly chose to keep the existing Codex login and use native MCP instead of the old adapter. `pi-web-access` is pinned to 0.35.0. All models are built in, so `models.json` stays empty. MCP servers/credentials stay local; none are declared by the repository. Restore tests and isolated Pi 1.0.0 model-resolution/native-MCP/web-extension loading checks passed without model requests.
 
 ## Hosts
 
