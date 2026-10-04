@@ -27,3 +27,8 @@ Infrastructure repository at `/Users/pheltweg/development/projects/lizard-saveho
 - Restart restores Agent Box's private OpenCode route, or Selfhost Box's existing Plane/Plane MCP stacks and Komodo/Plane/Plane MCP routes. Verified both forced-restart paths by suspending their real QEMU processes with SIGSTOP, then running the manual restart commands; both recovered and all three web endpoints returned HTTPS 200.
 - Runtime logs and disks remain under `~/.local/state/<box>/`. Both boxes remain unavailable while the Mac sleeps or is powered off. Run manual restart after wake if access does not recover.
 - Synced all 13 shared skills, agent instructions/documentation, and OpenCode configuration to Agent Box with `agentic-coding/scripts/sync --target agent-box`; checksum dry runs confirmed matching files. Agent Box, Komodo, and Plane returned HTTPS 200, and Plane MCP authenticated successfully.
+
+## Selfhost Box recovery (2026-10-04)
+
+- Plane timed out while QEMU remained running and forwarded SSH timed out during banner exchange. `selfhost-box/scripts/vm restart` recovered the VM using its forced-stop fallback and restored the existing service stacks and Tailscale routes.
+- Verified Plane web and `/api/instances/`, plus Komodo, returned HTTPS 200. Plane containers were running, and there were no failed systemd units. No infrastructure configuration changes were needed.
