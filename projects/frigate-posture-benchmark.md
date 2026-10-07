@@ -41,8 +41,9 @@ or manual Frigate alerts. Output is QoS-1 non-retained `frigate/posture/events`;
 external `notifier/` sends independent sitting/lying Slack transitions and
 deduplicates result/label pairs. First trigger collects the following five
 seconds, later triggers use the preceding five seconds; default recording delay
-15 seconds, bounded queue/history/retries. Sparse MQTT limits stationary coverage.
-99 tests passed (35 plugin, 19 notifier, 45 evaluator), lint/compilation/Compose
+15 seconds, bounded queue/history/retries. Pending cameras retain the latest
+qualifying MQTT trigger for one follow-up. Sparse MQTT limits stationary coverage.
+100 tests passed (36 plugin, 19 notifier, 45 evaluator), lint/compilation/Compose
 validation and both Linux ARM64 images built. Exact-model offline inference and
 three-window inference on MMAction2's public demo video passed in the image.
 Services were not started/restarted; live Frigate-to-Slack operation remains
