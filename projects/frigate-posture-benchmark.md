@@ -27,6 +27,27 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-10-07: Replaced `extensions/pose-enricher` with self-contained AVA SlowFast
+R50 inference: exact verified checkpoint, three 32-frame windows in five seconds,
+sitting max >= 0.74, lying min >= 0.02. User requires no connection between plugin
+and evaluator, including comments/docs. Plugin has its own code, dependencies,
+weights downloader and tests; legacy geometry and Python environment now live
+under `evaluation/posture`, with no remaining plugin imports/project references.
+Frigate MQTT `frigate/events` is the only trigger; read-only HTTP supplies camera
+dimensions, recording metadata and video. Timestamped Frigate boxes are reused
+with <=5-second freshness; missing proposals/media skip clips without clearing
+state. No extra detector, direct camera stream, recurring timer, sub-label writes
+or manual Frigate alerts. Output is QoS-1 non-retained `frigate/posture/events`;
+external `notifier/` sends independent sitting/lying Slack transitions and
+deduplicates result/label pairs. First trigger collects the following five
+seconds, later triggers use the preceding five seconds; default recording delay
+15 seconds, bounded queue/history/retries. Sparse MQTT limits stationary coverage.
+99 tests passed (35 plugin, 19 notifier, 45 evaluator), lint/compilation/Compose
+validation and both Linux ARM64 images built. Exact-model offline inference and
+three-window inference on MMAction2's public demo video passed in the image.
+Services were not started/restarted; live Frigate-to-Slack operation remains
+unverified. Enable with POSE_ENRICHER_ENABLED=1 and rebuild when deploying.
+
 2026-09-30 COMPLETED runtime-bounded comparison. User rejected multi-hour runs:
 target about 30 minutes, absolute maximum one hour. Keep all 652 Charades clips;
 prepare a reproducible random 600-video OmniFall benchmark with source-like
