@@ -48,15 +48,34 @@ resizes before buffering; 0 disables it. Final AVA resize is framewise, with exa
 preprocessing-parity test, avoiding full-resolution floating-point video tensors.
 Separate QoS-1/non-retained output; notifier retries Slack once after one second,
 with no cross-downtime persistence. Empty-zone Compose substitution and POSIX
-launcher argument handling fixed. 82 plugin/notifier tests pass locally and in
-Linux ARM64 image; Ruff, compilation, notifier mypy, Compose override checks pass.
+launcher argument handling fixed. 120 plugin/notifier tests pass locally; all 60
+notifier tests pass in the new ARM64 image. Ruff, compilation, notifier mypy and
+Compose configuration checks pass.
 ARM64/AMD64 plugin images and ARM64 notifier image built. Detector inference works
 on both architectures; AVA real synthetic-input inference works on ARM64 and exact
 weights load on AMD64. Five-second notification target remains UNMET: three-window
 CPU inference measured ~10s at four threads, ~7.5s at eight, ~820 MiB peak process
 RSS (excluding camera buffers). README records limitation; do not change evaluated
-decision rules silently. No services started/restarted and no production media
-used. Live Frigate-to-Slack path still unverified. Enable and rebuild for deployment.
+decision rules silently. User started local webcam/Frigate and verified standing
+(no posture notification), sitting, lying, and a repeat sitting visit (one Slack
+each positive test). Frigate stayed near 5 FPS with zero skipped FPS in snapshots.
+User-confirmed MacBook M4, 48 GB RAM. README baseline is intentionally only six
+rows: hardware, Docker/Linux ARM64/CPU runtime, 720p maximum height, inference
+~10s, sitting/lying notifications ~10-20s, no negative impact observed on Frigate.
+User canceled screenshot and cooldown additions; do not implement them.
+`notifier/frigate_alerts.py` now creates real manual events for positive posture
+transitions, labeled `posture-sitting`/`posture-laying-down`, with score, a 30s
+duration and recording. Uses private `FRIGATE_API_URL`; notifier remains active with Slack
+disabled. Returns associated `/review?id=...` link, or `/explore?event_id=...`
+while review publication is pending. Bounded per-result/label creation cache
+prevents duplicate events on Slack retries; ambiguous POST failures are logged
+and never blindly repeated, with Slack fallback. Mixed-review filtering uses
+camera alert labels/zones to prevent duplicate/false-loitering notifications
+without suppressing independently qualifying tracked alerts. HTTP contract and
+recording/alert prerequisites checked read-only against running Frigate 0.17.2.
+New notifier image built/tested, but running services NOT restarted by agent.
+Native-alert path still needs user rebuilding notifier and another live test.
+No production media used. Enable and rebuild for deployment.
 User clarified that full temporal coverage is NOT a requirement. The plugin README
 now has a top-level Open questions section: inference longer than five seconds
 skips intervening video, increasingly so as processing slows, and can miss brief
