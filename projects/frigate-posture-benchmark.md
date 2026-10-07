@@ -57,6 +57,12 @@ CPU inference measured ~10s at four threads, ~7.5s at eight, ~820 MiB peak proce
 RSS (excluding camera buffers). README records limitation; do not change evaluated
 decision rules silently. No services started/restarted and no production media
 used. Live Frigate-to-Slack path still unverified. Enable and rebuild for deployment.
+User clarified that full temporal coverage is NOT a requirement. The plugin README
+now has a top-level Open questions section: inference longer than five seconds
+skips intervening video, increasingly so as processing slows, and can miss brief
+postures. Native Mac mini execution outside Docker for GPU acceleration is an
+unverified option requiring compatibility, throughput and latency measurements;
+do not treat it as an approved runtime change or an established solution.
 
 2026-09-30 COMPLETED runtime-bounded comparison. User rejected multi-hour runs:
 target about 30 minutes, absolute maximum one hour. Keep all 652 Charades clips;
