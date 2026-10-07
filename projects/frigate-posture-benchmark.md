@@ -27,27 +27,36 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
-2026-10-07: Replaced `extensions/pose-enricher` with self-contained AVA SlowFast
-R50 inference: exact verified checkpoint, three 32-frame windows in five seconds,
-sitting max >= 0.74, lying min >= 0.02. User requires no connection between plugin
-and evaluator, including comments/docs. Plugin has its own code, dependencies,
-weights downloader and tests; legacy geometry and Python environment now live
-under `evaluation/posture`, with no remaining plugin imports/project references.
-Frigate MQTT `frigate/events` is the only trigger; read-only HTTP supplies camera
-dimensions, recording metadata and video. Timestamped Frigate boxes are reused
-with <=5-second freshness; missing proposals/media skip clips without clearing
-state. No extra detector, direct camera stream, recurring timer, sub-label writes
-or manual Frigate alerts. Output is QoS-1 non-retained `frigate/posture/events`;
-external `notifier/` sends independent sitting/lying Slack transitions and
-deduplicates result/label pairs. First trigger collects the following five
-seconds, later triggers use the preceding five seconds; default recording delay
-15 seconds, bounded queue/history/retries. Pending cameras retain the latest
-qualifying MQTT trigger for one follow-up. Sparse MQTT limits stationary coverage.
-100 tests passed (36 plugin, 19 notifier, 45 evaluator), lint/compilation/Compose
-validation and both Linux ARM64 images built. Exact-model offline inference and
-three-window inference on MMAction2's public demo video passed in the image.
-Services were not started/restarted; live Frigate-to-Slack operation remains
-unverified. Enable with POSE_ENRICHER_ENABLED=1 and rebuild when deploying.
+2026-10-07: User approved replacing per-MQTT-message recording jobs with live
+occupancy-driven sessions. MQTT activates capture; fresh sidecar detections keep
+it active until `POSE_IDLE_TIMEOUT_SECONDS` without eligible people, default 30.
+Uses Frigate go2rtc restream when configured, clean MJPEG fallback otherwise;
+never reads original camera URLs. Recording pre-roll is best-effort and does not
+block live analysis. New visits reset state at track/zone boundaries or after
+one second of detected absence. One inference worker, eight active-camera limit,
+six-second/192-frame buffers, latest-video processing without an inference backlog.
+Plugin remains completely independent of evaluator code, dependencies and docs.
+Both checkpoints are independently downloaded and checksum verified. Fresh boxes
+use Frigate's default MobileDet CPU checkpoint, full-frame square preprocessing,
+0.5 cutoff and bottom-center zone filtering, not Frigate's tracking/motion regions.
+LiteRT pinned to 1.4.0 because the 1.2.0 AMD64 wheel cannot load on Debian's newer
+glibc (executable-stack error). AVA SlowFast R50 checkpoint and rules unchanged:
+three 32-frame windows in five seconds, sitting max >= 0.74, lying min >= 0.02.
+Missing boxes contribute zero scores; missing video/model errors remain unknown.
+`POSE_VIDEO_MAX_HEIGHT=720`, immediately below enable flag in `.env.example`,
+resizes before buffering; 0 disables it. Final AVA resize is framewise, with exact
+preprocessing-parity test, avoiding full-resolution floating-point video tensors.
+Separate QoS-1/non-retained output; notifier retries Slack once after one second,
+with no cross-downtime persistence. Empty-zone Compose substitution and POSIX
+launcher argument handling fixed. 82 plugin/notifier tests pass locally and in
+Linux ARM64 image; Ruff, compilation, notifier mypy, Compose override checks pass.
+ARM64/AMD64 plugin images and ARM64 notifier image built. Detector inference works
+on both architectures; AVA real synthetic-input inference works on ARM64 and exact
+weights load on AMD64. Five-second notification target remains UNMET: three-window
+CPU inference measured ~10s at four threads, ~7.5s at eight, ~820 MiB peak process
+RSS (excluding camera buffers). README records limitation; do not change evaluated
+decision rules silently. No services started/restarted and no production media
+used. Live Frigate-to-Slack path still unverified. Enable and rebuild for deployment.
 
 2026-09-30 COMPLETED runtime-bounded comparison. User rejected multi-hour runs:
 target about 30 minutes, absolute maximum one hour. Keep all 652 Charades clips;
