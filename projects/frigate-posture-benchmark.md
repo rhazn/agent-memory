@@ -27,6 +27,23 @@ User clarification, 2026-09-30:
 
 ## Current Status
 
+2026-10-08: Reviewed plugin/notifier, then implemented user-approved minimal fixes.
+Detector exceptions now check idle expiry while preserving unknown posture state;
+expiry rechecks current occupancy under the session lock. Full track history prunes
+inactive entries older than the accepted two-minute MQTT window, retaining active
+tracks and recent tombstones. Malformed review IDs/cameras/severities are rejected.
+Notifier review allowlist: person, bicycle, suitcase, handbag, backpack; verified
+suffixes normalize to base labels. Unknown labels do not alert or become loitering.
+Posture allowlist remains sitting and laying-down. Slack now says e.g. "Person
+sitting at [clip_end in UTC] (alert may be delayed)". Existing event/review link
+remains; the message time is the analyzed interval end, not notification time.
+User declined complex exact-time playback linking and mixed-review per-object zone
+lookups; do not add either without approval. Other review findings (MJPEG freshness,
+MQTT callback blocking, queued duplicate publishes, creation-failure caching) remain
+unfixed and unapproved for implementation. All 168 tests pass (66 plugin, 102
+notifier), changed-code Ruff, notifier mypy and compilation pass. Both ARM64 images
+built successfully. Running services were not restarted; user must load new images.
+
 2026-10-07: User approved replacing per-MQTT-message recording jobs with live
 occupancy-driven sessions. MQTT activates capture; fresh sidecar detections keep
 it active until `POSE_IDLE_TIMEOUT_SECONDS` without eligible people, default 30.
