@@ -14,6 +14,14 @@ Infrastructure repository at `/Users/pheltweg/development/projects/lizard-saveho
 
 - Permissions (2026-10-02): user requested `pi-permission-system` and a port of repository `agentic-coding/opencode.json`. Package pinned to 0.8.0; Git-managed `pi/pi-permissions.jsonc` is linked by restore. Preserves permissive OpenCode shell/tool/MCP/skill defaults, explicit `git *: allow`, external-directory approval with trusted paths expanded for Mac and Agent Box, and default direct-read `.env` denial with `.env.example` exception. Not a shell sandbox: whole-string matching, no shell path inspection, and reserved doom_loop key has no automatic detector in this release. Restore/config regression tests and isolated actual-tool-hook checks passed with Pi 1.0.0, without model requests or shell execution. Restart Pi to activate the installed extension.
 
+## OpenCode V2 migration (2026-10-15)
+
+- User approved migration of `agentic-coding/` shared OpenCode config and the NixOS Agent Box to V2. Keep only OpenAI (`openai`) and Z.ai Coding Plan (`zai-coding-plan`) providers visible through provider policies; do not filter models.
+- Remove Plane/Linear MCPs and `plane-use`; keep Context7, tinquiete-pas, Twenty, and both Agent Box browser MCPs. Do not uninstall Selfhost Box services. Move Twenty's existing header to passphrase-encrypted age storage without rotating it.
+- Back up credentials/config only; no session or extra VM-image backup requested. User accepts migration breakage and will do most manual validation.
+- Repository changes prepared: V2 native config; v2.0.29 Nix pin/lock and upstream dependency hashes; systemd `serve --service` for persistent authentication/discovery; remote CLI uses discovery; config-only backup helper; docs and Pi permission regression test updated. Static/shell checks and Pi restore/permission tests pass. Nix build/deployment not run: Docker Desktop is stopped and guest SSH timed out.
+- Local config/credential backup: `~/.local/state/agent-box/migration-v2-20261015-105847`. Existing Twenty header extracted privately to `~/.config/twenty/mcp-authorization` with mode 0600. User must encrypt it to `agentic-coding/secrets/.config/twenty/mcp-authorization.age` using `age -p` and their existing passphrase. Sync intentionally refuses to proceed until this file exists. Local live config and Agent Box remain unchanged pending encryption and deployment.
+
 ## Hosts
 
 - `agent-box` is a private NixOS development VM for OpenCode. It currently runs as an ARM VM on an Apple Silicon Mac. Its configuration is in `agent-box/`. When a request refers to the Agent Box, perform the work against this VM configuration, not the local macOS workspace.
