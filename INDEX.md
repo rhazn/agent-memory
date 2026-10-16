@@ -12,6 +12,7 @@ Read this file first. Open only the linked files relevant to the task.
 
 ## Active Projects
 
+- [Spotka soil-report evaluation](projects/spotka-soil-report-evaluation.md)
 - [Agency opportunities](projects/agency-opportunities.md)
 - [Conjugation Invocation](projects/conjugation-invokation.md)
 - [Lizard Savehouse](projects/lizard-savehouse.md)
