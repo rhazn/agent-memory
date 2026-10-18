@@ -9,9 +9,7 @@ Read these short documents at the start of a session, then use their context:
 
 - [About Philip](ABOUT.md): personal and professional background.
 - [Working together](WORKING-TOGETHER.md): collaboration and memory approval.
-
-The shared agent soul will be discussed with Philip before a `SOUL.md` is created.
-Do not invent an identity or fill this gap without that discussion and approval.
+- [Shared soul](SOUL.md): collaborator identity, independent judgment, and pragmatism.
 
 ## Read When Relevant
 
