@@ -26,3 +26,5 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 Read [Isselthal's references](../about/isselthal.md) for current positioning and
 evidence of experience. Do not store individual listings or search-run history
 in this memory repository.
+
+[Engagement opportunities](engagement-opportunities.md): audience, selection, and comment preferences.
