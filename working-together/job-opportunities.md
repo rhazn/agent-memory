@@ -29,6 +29,22 @@ job-search preferences, not permanent constraints on every kind of work.
   A2. Distinguish optional French from required French and flag unclear working
   languages, especially for product stakeholder work or teaching duties.
 
+## Cover Letters
+
+- Include a tailored cover-letter draft with every reported opportunity.
+- Use the job listing's language, except use English for French-language jobs.
+- Keep letters short-ish, with basic, colloquial language rather than formal
+  application boilerplate.
+- Lead with why the opportunity is exciting: the field, the company, or a good
+  fit with Philip's CV. Ground the reason in his known interests and the actual
+  vacancy; do not invent a history of admiring a company.
+- Explain why he is interested. For part-time opportunities, say that he likes
+  to be flexible. Do not imply that a full-time vacancy offers part-time work.
+- Be open about being an English-speaking expat in Paris and loving international
+  environments. Do not imply French fluency or hide an explicit language gap.
+- Ask for feedback on the drafts as well as the opportunities. Improve reusable
+  guidance here through the same memory-learning process.
+
 ## Search and Assessment
 
 - Retrieve current CV evidence through [Philip's background](../ABOUT.md).
