@@ -50,7 +50,8 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   the signature.
 
 Read [Isselthal's references](../about/isselthal.md) for current positioning and
-evidence of experience. Do not store individual listings or search-run history
-in this memory repository.
+evidence of experience. Read and maintain the agency section of
+[opportunity search history](opportunity-search-history.md) to avoid repeats.
+Keep only that bounded record, not full listings or a search-run archive.
 
 [Engagement opportunities](engagement-opportunities.md): audience, selection, and comment preferences.

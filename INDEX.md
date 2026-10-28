@@ -21,6 +21,9 @@ Read these short documents at the start of a session, then use their context:
 - [Personal job opportunities](working-together/job-opportunities.md): finding
   employment for Philip, including contracts, hours, location, language, and roles.
 - [Engagement opportunities](working-together/engagement-opportunities.md): audience, selection, and comment preferences.
+- [Opportunity search history](working-together/opportunity-search-history.md):
+  read before any of the three opportunity searches; update the last-run time
+  and rolling ten shown opportunities per skill after each search.
 
 Read the relevant detail before asking Philip for information already recorded.
 Do not load every detail file for unrelated tasks. Add further detail files only
@@ -38,5 +41,7 @@ Revise existing understanding rather than accumulating duplicate rules. Keep
 confirmed facts distinct from tentative interpretations. Never record credentials
 or unnecessary sensitive information. Keep implementation history, session
 summaries, test counts, and workflow checkpoints out of this repository.
+The bounded opportunity-search record linked above is an explicit exception:
+store only last-run metadata and the ten most recently shown items per skill.
 
 Use the `agent-memory` skill for checkout locations and synchronization rules.

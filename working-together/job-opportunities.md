@@ -57,6 +57,9 @@ job-search preferences, not permanent constraints on every kind of work.
 - Keep personal employment criteria separate from
   [agency engagement criteria](business-development.md). Do not inherit agency
   engagement signals or agency-specific interview exclusions.
-- Store reusable preferences and feedback here, not individual vacancies,
-  application histories, or search-run logs. Follow `agent-memory` for candidate
-  and confirmed learnings when feedback provides meaningful new guidance.
+- Read and maintain the personal-job section of
+  [opportunity search history](opportunity-search-history.md) to avoid repeats.
+- Store reusable preferences and feedback here. Keep individual vacancy
+  identifiers only in that bounded record, not application histories or a
+  search-run archive. Follow `agent-memory` for candidate and confirmed learnings
+  when feedback provides meaningful new guidance.

@@ -35,7 +35,10 @@
 Philip delegates management of engagement-search feedback and this file to the
 agents. Add, revise, summarize, consolidate, or remove preferences and learnings without
 asking for approval each time. Keep explicit preferences distinct from tentative
-inferences. Do not store individual posts, comments, third-party personal data,
-search history, or task logs. This permission includes focused commits and pushes
+inferences. Read and maintain the engagement section of
+[opportunity search history](opportunity-search-history.md) to avoid repeats.
+That bounded record is the only exception to the rule against storing individual
+posts or search history. Do not store comment bodies, third-party personal data,
+or task logs. This permission includes focused commits and pushes
 of these memory updates. Other memory maintenance follows the general delegation
 in `WORKING-TOGETHER.md`; platform actions still need explicit permission.
