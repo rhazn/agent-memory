@@ -18,6 +18,8 @@ Read these short documents at the start of a session, then use their context:
 - [Coding](working-together/coding.md): implementation scope and dependency choices.
 - [Business development](working-together/business-development.md): assessing
   engagements, locations, expertise, and interview requirements.
+- [Personal job opportunities](working-together/job-opportunities.md): finding
+  employment for Philip, including contracts, hours, location, language, and roles.
 - [Engagement opportunities](working-together/engagement-opportunities.md): audience, selection, and comment preferences.
 
 Read the relevant detail before asking Philip for information already recorded.
