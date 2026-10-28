@@ -34,7 +34,9 @@ job-search preferences, not permanent constraints on every kind of work.
 - Include a tailored cover-letter draft with every reported opportunity.
 - Use the job listing's language, except use English for French-language jobs.
 - Keep letters short-ish, with basic, colloquial language rather than formal
-  application boilerplate.
+  application boilerplate. The current conversational style works well; allow
+  roughly one to three additional sentences for useful, tailored detail.
+- End every draft with "Best," followed by "Philip Heltweg" on the next line.
 - Lead with why the opportunity is exciting: the field, the company, or a good
   fit with Philip's CV. Ground the reason in his known interests and the actual
   vacancy; do not invent a history of admiring a company.
@@ -47,6 +49,9 @@ job-search preferences, not permanent constraints on every kind of work.
 
 ## Search and Assessment
 
+- Surface published pay bands directly in each opportunity's summary. Include
+  the currency and pay period, and distinguish full-time-equivalent pay from
+  actual part-time pay. State when pay is not published; do not invent a range.
 - Retrieve current CV evidence through [Philip's background](../ABOUT.md).
   Do not invent expertise, salary expectations, availability, or eligibility.
 - Verify employment filters each time. The same portals are used for agency
