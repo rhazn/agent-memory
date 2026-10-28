@@ -45,11 +45,18 @@ Coverage: Unknown.
 
 ## find-job-opportunities
 
-Last run: Not recorded.
-Coverage: Unknown.
+Last run: 2026-10-28T12:22:29+01:00.
+Coverage: Partial. Checked LinkedIn product, data/AI, research, remote engineering,
+and part-time result pages; screened all 85 France/computer-science EURAXESS
+results; checked Welcome to the Jungle employment preferences in experienced
+and early-career passes and the first ten Seen listings. Fully reviewed 14
+distinct vacancies. Portal searches and Seen pagination were not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-10-28T12:22:29+01:00 | Filigran - Senior Software Engineer, AI-Native Engineering (XTM Foundation) | https://jobs.ashbyhq.com/filigran/078b3281-6e64-4c52-82c9-c20a73dcb2fa |
+| 2026-10-28T12:22:29+01:00 | Mistral AI - Data Scientist | https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/data-scientist_paris_MA_wZLPoxR |
+| 2026-10-28T12:22:29+01:00 | Inria - Machine Learning Engineer, DYNASTY / SIERRA | https://jobs.inria.fr/public/classic/en/offres/2026-10601 |
 
 ## find-engagement-opportunities
 
