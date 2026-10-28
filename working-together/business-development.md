@@ -37,6 +37,18 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Exclude opportunities requiring an AI interview or an extensive, multi-round
   job-style interview process.
 
+## Agency Pitches and Cover Letters
+
+- Lead with Isselthal's offer and the client outcome the agency can own, not
+  personal introductions or two CV summaries. Use Philip's and Georg's verified
+  experience as supporting evidence of the agency's strengths.
+- Search the current Isselthal website for similar projects and customer case
+  studies. Read matching references and link them directly in application
+  letters. For AI integration work, look for actual comparable AI projects.
+  Discover references afresh rather than maintaining a fixed list of examples.
+- Use plain names in body text, without academic titles. Titles may appear in
+  the signature.
+
 Read [Isselthal's references](../about/isselthal.md) for current positioning and
 evidence of experience. Do not store individual listings or search-run history
 in this memory repository.
