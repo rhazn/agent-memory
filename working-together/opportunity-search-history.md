@@ -45,15 +45,20 @@ Coverage: Unknown.
 
 ## find-job-opportunities
 
-Last run: 2026-10-28T12:22:29+01:00.
-Coverage: Partial. Checked LinkedIn product, data/AI, research, remote engineering,
-and part-time result pages; screened all 85 France/computer-science EURAXESS
-results; checked Welcome to the Jungle employment preferences in experienced
-and early-career passes and the first ten Seen listings. Fully reviewed 14
-distinct vacancies. Portal searches and Seen pagination were not exhaustive.
+Last run: 2026-10-29T13:06:18+01:00.
+Coverage: Partial. Checked LinkedIn product, English-language product, data,
+Qonto, and part-time engineering result pages; screened all 89 France/computer-
+science EURAXESS results; checked Welcome to the Jungle employment preferences
+in experienced and early-career passes and both Seen pages (17 listings).
+Fully reviewed 20 distinct vacancies, including employer-page checks for Maze
+and Qonto. LinkedIn and broader portal searches were not exhaustive. No suitable
+part-time role found in the reviewed results.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-10-29T13:06:18+01:00 | Mistral AI - Research Software Engineer | https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/research-software-engineer_paris |
+| 2026-10-29T13:06:18+01:00 | Dashdoc - Software Engineer, Shippers Team | https://www.welcometothejungle.com/en/companies/dashdoc/jobs/software-engineer |
+| 2026-10-29T13:06:18+01:00 | Qonto - Staff Product Manager, Loans | https://jobs.ashbyhq.com/qonto/661f1548-8720-483d-b606-5bf58409448f |
 | 2026-10-28T12:22:29+01:00 | Filigran - Senior Software Engineer, AI-Native Engineering (XTM Foundation) | https://jobs.ashbyhq.com/filigran/078b3281-6e64-4c52-82c9-c20a73dcb2fa |
 | 2026-10-28T12:22:29+01:00 | Mistral AI - Data Scientist | https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/data-scientist_paris_MA_wZLPoxR |
 | 2026-10-28T12:22:29+01:00 | Inria - Machine Learning Engineer, DYNASTY / SIERRA | https://jobs.inria.fr/public/classic/en/offres/2026-10601 |
