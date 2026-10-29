@@ -29,6 +29,13 @@ job-search preferences, not permanent constraints on every kind of work.
   A2. Distinguish optional French from required French and flag unclear working
   languages, especially for product stakeholder work or teaching duties.
 
+## Temporary Employer Constraint
+
+- On 29 October 2026, Philip reported reaching Mistral AI's limit of three
+  applications per 90 days. Pause new Mistral recommendations for roughly 30 days,
+  then recheck eligibility before resuming. The exact reopening date is unknown.
+  Be especially selective: Mistral opportunities must be a strong fit.
+
 ## Cover Letters
 
 - Include a tailored cover-letter draft with every reported opportunity.
