@@ -6,9 +6,11 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 - Seek direct customer agency engagements, not individual placements,
   intermediary talent pools, or subcontracting for another agency.
-- Require an explicit freelance, external consulting, B2B, or agency engagement
-  signal. Prefer B2B and agency-enabled projects over individual freelancer
-  placements. Exclude permanent employee roles, including interesting roles that
+- Require concrete agency-compatible procurement evidence. A freelance label
+  alone does not qualify. On LinkedIn, inspect reporting lines,
+  individual-capacity wording, CV requirements, and application processes.
+  Reject individual placements even when the technical work fits.
+- Exclude permanent employee roles, including interesting roles that
   could only hypothetically become consulting work. A fixed-term employment
   contract is not a freelance signal.
 - Before each agency search, inspect, set, and verify the portal filters. Philip
@@ -20,6 +22,8 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   (`https://www.freelancermap.de/projekte`), as well as the other current skill
   sources. On Freelancermap, configure and verify useful filters before reviewing
   the project results. Do not assume a project portal excludes intermediaries.
+- Welcome to the Jungle is essential. Start at its homepage and navigate through
+  the site. If sign-in is required, notify Philip and abort the search.
 - For Philip individually, regular office attendance is acceptable only in Paris.
 - For an Isselthal partnership with Georg Schwarz, Nuremberg (Nürnberg) is also
   acceptable. Georg is a collaborator, not a co-owner.
@@ -36,6 +40,9 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   projects remain eligible.
 - Exclude opportunities requiring an AI interview or an extensive, multi-round
   job-style interview process.
+- Exclude developer-relations and developer-advocacy work.
+- Strongly deprioritize past-start listings unless current evidence confirms the
+  engagement remains open.
 
 ## Agency Pitches and Cover Letters
 
@@ -46,8 +53,10 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   studies. Read matching references and link them directly in application
   letters. For AI integration work, look for actual comparable AI projects.
   Discover references afresh rather than maintaining a fixed list of examples.
-- Use plain names in body text, without academic titles. Titles may appear in
-  the signature.
+- Use plain names in body text, without academic titles.
+- Include a tailored cover letter with every recommendation. Letters must be
+  plain text with explicit reference URLs, signed “Philip Heltweg” without an
+  agency-name signature line.
 
 Read [Isselthal's references](../about/isselthal.md) for current positioning and
 evidence of experience. Read and maintain the agency section of
