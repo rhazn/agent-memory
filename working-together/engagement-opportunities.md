@@ -3,13 +3,17 @@
 ## Goals and Audience
 
 - Seek organic professional visibility through honest conversation, not reaction farming or disguised sales pitches.
-- Favor domain experts, researchers, and small or medium-sized businesses discussing concrete problems relevant to Isselthal.
+- Prioritize founders, company operators, and domain experts in companies discussing concrete problems that software can solve, especially in small or medium-sized businesses. Favor these audiences over researchers and fellow technical consultants.
+- Treat Philip primarily as a software engineer who also builds data pipelines, not primarily as an open-data researcher. Build visibility for his professional services through useful contributions, not pitches.
 - A person's company and its relevance to Isselthal can strengthen the fit, but the topic must also be genuinely interesting.
-- Open data, open standards, and European collaboration are topics of interest.
+- Seek process improvement and digitalization problems: connecting systems, cleaning data, building data pipelines, and adapting software to domain needs, including laboratories.
+- Relevant topics include software architecture, deployment, servers, Kubernetes, open-source adoption, hosting and customization, useful open data sources, and practical AI integration for specific tasks.
+- Open data, research, open standards, and European collaboration remain topics of interest, but do not default to research-heavy or data-heavy discussions.
 
 ## Post Selection
 
 - Select posts from the past week. Prefer more recent posts.
+- Prefer short, ordinary LinkedIn posts and questions over long articles or blog-style posts that require substantial reading before joining the conversation.
 - Favor some existing engagement and room for a meaningful exchange. Avoid crowded threads with hundreds of comments and announcements with no discussion or engagement. Do not impose fixed engagement thresholds.
 - Avoid engagement bait and authors whose visible activity is predominantly engagement bait.
 - Topic relevance is not enough. Look for a substantive discussion rather than a product announcement with little room to respond.
@@ -18,7 +22,9 @@
 ## Comment Voice
 
 - Use plain, natural language and few specialist terms.
+- Keep proposed comments short and conversational. A focused question, a relevant experience, or a simple observation can be enough; do not try to demonstrate expertise in every reply.
 - Favor genuine curiosity, a focused question, a relevant observation, or a supported personal example.
+- Allow genuine uncertainty and informal language. Do not replace a natural exchange with polished expert advice.
 - Appreciation and thanks are welcome when sincere.
 - Do not default to unsolicited tips or instructions. Share an idea as part of a conversation, not as a drive-by expert intervention.
 - Do not force every comment into a question or a fixed template.
