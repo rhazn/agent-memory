@@ -4,8 +4,9 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 ## Engagement and Location
 
-- Seek direct customer agency engagements, not individual placements,
-  intermediary talent pools, or subcontracting for another agency.
+- Seek agency project engagements, including subcontracting for other agencies.
+  Continue to exclude individual placements and intermediary talent pools.
+  Unverified direct-client status alone is not grounds for exclusion.
 - Require concrete agency-compatible procurement evidence. A freelance label
   alone does not qualify. On LinkedIn, inspect reporting lines,
   individual-capacity wording, CV requirements, and application processes.
@@ -37,6 +38,13 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Favor product-focused software engineering and qualitative or quantitative
   software-engineering research. Do not recommend roles requiring strong
   algorithmic-theory or C++ expertise.
+- Assume Philip and Georg can learn unfamiliar backend APIs and data models
+  when documentation is publicly available or accessible for the project. Flag
+  gaps and ask targeted questions rather than requiring an exact prior reference.
+  Exclude genuinely non-negotiable specialist requirements they cannot meet.
+  Never claim experience they do not have.
+- Favor substantive projects with an AI component when they also strengthen
+  Isselthal's portfolio.
 - Exclude low-value AI-output review, rating, annotation, improvement, and
   AI-training-data or low-level content tasks. Substantive, well-paid AI-lab
   projects remain eligible.
