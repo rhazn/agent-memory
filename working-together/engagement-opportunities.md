@@ -10,6 +10,14 @@
 - Relevant topics include software architecture, deployment, servers, Kubernetes, open-source adoption, hosting and customization, useful open data sources, and practical AI integration for specific tasks.
 - Open data, research, open standards, and European collaboration remain topics of interest, but do not default to research-heavy or data-heavy discussions.
 
+## Search Directions
+
+- Cover three distinct directions each run:
+  1. Software engineering and operations: architecture, technical debt, self-hosting, digitalization and SME processes.
+  2. Data engineering: pipelines, integration, data quality and cleaning.
+  3. Research and laboratory data: practical workflows, systems and data management.
+- In the next engagement search, ask Philip again whether these search directions fit and whether to extend them. Treat this set as a starting point, not a closed list.
+
 ## Post Selection
 
 - Select posts from the past week. Prefer more recent posts.
@@ -32,6 +40,8 @@
 
 ## Opportunity Summaries
 
+- Write longer post summaries, at least twice the length of the earlier one- or two-sentence summaries. Explain the situation, decisions and tensions, and highlight concrete questions or other hooks for responding.
+- Omit descriptions of existing replies and statements about what was read. Keep those checks behind the scenes.
 - Briefly explain any project, working group, standard, or initiative needed to understand the discussion.
 - Base these explanations on the post and relevant linked sources. Read those sources rather than guessing from names.
 - State missing context or access limits clearly.
