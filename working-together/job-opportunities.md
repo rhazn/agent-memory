@@ -22,6 +22,9 @@ job-search preferences, not permanent constraints on every kind of work.
 - Lower-entry roles are also acceptable in data engineering, open data, data
   science, and AI. Do not apply the usual intermediate-plus threshold to these
   tracks. Gaining substantive AI experience for the CV is a positive goal.
+- Give extra weight to technical product management roles in AI, including AI
+  inference: they build on Philip's product experience while adding substantive
+  AI experience to his CV. Keep the other role tracks in the search.
 - Prefer opportunities where the PhD opens doors or provides a meaningful
   advantage. It is not a requirement for every suitable role.
 - French is A2. English is very good. Favor roles compatible with these skills.
