@@ -32,6 +32,8 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 ## Fit and Screening
 
+- Exclude tiny engagements of only a few hours. Their contracting overhead,
+  particularly an NDA, is not worthwhile.
 - Favor product-focused software engineering and qualitative or quantitative
   software-engineering research. Do not recommend roles requiring strong
   algorithmic-theory or C++ expertise.
