@@ -2,6 +2,7 @@
 
 - Isselthal is a German UG, headquartered in Raesfeld, established in 2019.
 - Philip Heltweg is the sole owner (100%). The company has no employees.
+- Neither Philip nor Georg is employed by Isselthal.
 - Georg Schwarz collaborates with Philip for Isselthal but is not a co-owner.
 
 ## Current Information and References

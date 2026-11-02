@@ -35,6 +35,13 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 - Exclude tiny engagements of only a few hours. Their contracting overhead,
   particularly an NDA, is not worthwhile.
+- A EUR 5,000 fixed-price budget can be acceptable currently, including for larger
+  projects. Consider discussing implementation scope rather than excluding on
+  budget alone.
+- Requirements that could be met through company changes, such as employing
+  Philip, are ranking disadvantages rather than automatic exclusions. Include
+  otherwise relevant opportunities when stronger leads are absent, without
+  assuming willingness to make those changes.
 - Favor product-focused software engineering and qualitative or quantitative
   software-engineering research. Do not recommend roles requiring strong
   algorithmic-theory or C++ expertise.
@@ -53,6 +60,16 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Exclude developer-relations and developer-advocacy work.
 - Strongly deprioritize past-start listings unless current evidence confirms the
   engagement remains open.
+- Check application status before presenting new leads. Do not present already
+  sent applications as new opportunities.
+
+## Search Reports
+
+- Give every notable finding a direct listing link, including excluded leads and
+  already-sent applications, so Philip can check it himself.
+- For notable excluded findings, include a one-sentence work summary and the
+  blocker so Philip can reassess the judgment. Already-sent applications need no
+  expanded explanation.
 
 ## Agency Pitches and Cover Letters
 
