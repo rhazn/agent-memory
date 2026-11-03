@@ -70,8 +70,15 @@ exhaustive; supplementary web searches were cancelled and returned no results.
 
 ## find-engagement-opportunities
 
-Last run: Not recorded.
-Coverage: Unknown.
+Last run: 2026-11-03T10:01:50+01:00.
+Coverage: Partial. Screened 54 post results across eight queries covering software
+operations, data integration, laboratory workflows, and exploratory technical due
+diligence. Fully inspected three direct post threads, one linked article, and
+three author profiles. Excluded the self-hosting thread already commented on by
+Philip. Returned one process discussion and one exploratory AI diligence discussion;
+the process post had no visible engagement yet. Searches were not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-03T10:01:50+01:00 | Process workarounds - Bitte nicht noch ein Flussdiagramm | https://www.linkedin.com/posts/florian-fink-25912a17a_bitte-nicht-noch-ein-flussdiagramm-das-share-7523285849271259136-22rh/ |
+| 2026-11-03T10:01:50+01:00 | AI due diligence beyond the demo | https://www.linkedin.com/posts/hugo-carreira-31b18a29_ai-duediligence-privateequity-share-7522693726809530368-kMgv/ |
