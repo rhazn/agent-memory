@@ -30,6 +30,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 | Software engineering and operations | `technical debt`; `"self hosting"`; `Excel Prozesse` | Explicit feedback: the self-hosting discussion was interesting. Privacy and customer trust provided a useful contribution angle. Keep exploring; the other queries have not received specific feedback. |
 | Data engineering | `"data integration"`; `"data quality"` | Explicit feedback: the data-governance suggestion was acceptable but too blog-like. Favor concrete conversational posts over teaching-style explanations. This does not reject the broader direction. |
 | Research and laboratory workflows | `laboratory data`; `LIMS`; `lab manual` | No negative topic feedback. The initial results did not yield a strong recommendation. Refine towards practical workflow discussions; continue to exclude posts Philip cannot comment on. |
+| Technical due diligence | `"software" "due diligence"` | Explicit preference: keep as a secondary search direction, especially working with VCs and private equity on technical evaluation of teams and tools. Philip does not want to go deeply into broader due-diligence work. |
 
 ## Post Selection
 
@@ -44,6 +45,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 
 ## Comment Voice
 
+- Use plain ASCII punctuation in comment drafts: straight apostrophes (`'`), straight double quotes (`"`), and hyphens (`-`). Never use curly quotes, typographic apostrophes, en dashes, or em dashes. Preserve language-specific letters such as umlauts.
 - Use plain, natural language and few specialist terms.
 - Write somewhat longer, conversational comments with enough context to develop the point. Do not default to a terse one- or two-sentence question. Add substance, not filler; do not try to demonstrate expertise in every reply or impose a fixed length.
 - Favor genuine curiosity, a focused question, a relevant observation, or a supported personal example.

@@ -39,6 +39,11 @@ can change. Do not silently change agreed requirements.
 Write short, direct prose. Remove filler, stock phrases, unnecessary summaries,
 and other LLM mannerisms.
 
+Use plain ASCII punctuation in writing for Philip: straight apostrophes (`'`),
+straight double quotes (`"`), and hyphens (`-`). Do not use curly quotes,
+typographic apostrophes, en dashes, or em dashes. This is a punctuation preference,
+not a restriction on language-specific letters such as umlauts.
+
 Strongly favor the `asd-ste100` skill for communication with Philip. Use plain
 words, active voice, and short sentences. Keep technical precision; simple
 language does not mean introductory explanations.
