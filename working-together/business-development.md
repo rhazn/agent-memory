@@ -5,12 +5,19 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 ## Engagement and Location
 
 - Seek agency project engagements, including subcontracting for other agencies.
-  Continue to exclude individual placements and intermediary talent pools.
+  Continue to exclude pure staff augmentation/body leasing and intermediary
+  talent pools.
   Unverified direct-client status alone is not grounds for exclusion.
-- Require concrete agency-compatible procurement evidence. A freelance label
-  alone does not qualify. On LinkedIn, inspect reporting lines,
-  individual-capacity wording, CV requirements, and application processes.
-  Reject individual placements even when the technical work fits.
+- Prefer concrete agency-compatible procurement evidence. When stronger leads
+  are absent, also consider briefs seeking a freelancer to implement a concrete
+  project or deliverable. Isselthal's small-company model can support a
+  freelancer-style engagement; an explicit request for an agency is not required.
+  Distinguish project delivery from selling ongoing individual capacity within
+  a client team. Technical relevance alone does not justify body leasing.
+- "No agencies or intermediaries" is a caveat to highlight, not an automatic
+  exclusion. As a very small company, Isselthal may be able to offer the work
+  directly through the individual who delivers it. Do not assume acceptance or
+  conceal the contracting entity.
 - Exclude permanent employee roles, including interesting roles that
   could only hypothetically become consulting work. A fixed-term employment
   contract is not a freelance signal.
@@ -45,6 +52,8 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Favor product-focused software engineering and qualitative or quantitative
   software-engineering research. Do not recommend roles requiring strong
   algorithmic-theory or C++ expertise.
+- Exclude Windows-focused work, including Windows Server/IIS migrations. Philip
+  does not want to work with Windows; relevant migration expertise is also absent.
 - Assume Philip and Georg can learn unfamiliar backend APIs and data models
   when documentation is publicly available or accessible for the project. Flag
   gaps and ask targeted questions rather than requiring an exact prior reference.
@@ -61,15 +70,16 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Strongly deprioritize past-start listings unless current evidence confirms the
   engagement remains open.
 - Check application status before presenting new leads. Do not present already
-  sent applications as new opportunities.
+  sent applications as new opportunities. Skip known applications without
+  rechecking their listings or including them as notable findings, unless Philip
+  asks to revisit them.
 
 ## Search Reports
 
-- Give every notable finding a direct listing link, including excluded leads and
-  already-sent applications, so Philip can check it himself.
+- Give every notable finding a direct listing link, including excluded leads,
+  so Philip can check it himself. Omit already-sent applications.
 - For notable excluded findings, include a one-sentence work summary and the
-  blocker so Philip can reassess the judgment. Already-sent applications need no
-  expanded explanation.
+  blocker so Philip can reassess the judgment.
 
 ## Agency Pitches and Cover Letters
 
