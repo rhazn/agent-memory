@@ -38,6 +38,22 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Fully remote engagements are acceptable. Travel elsewhere is acceptable only
   for initial setup or another exceptional event, at most once per year.
 
+## Search Directions
+
+- Keep the main agency search, then test one additional direction on every run,
+  especially when no new leads qualify. Choose it from Philip's background and
+  prior direction feedback rather than restricting searches to development work.
+- Candidate directions include technical consulting, open-source software
+  evaluation, data engineering or data science, and research engagements. These
+  are options to test, not a requirement to search all of them each time.
+- Report the exploratory direction, queries, reason for fit, and results
+  separately. If nothing qualifies, explain that rather than padding the report.
+  Ask whether to keep, refine, or drop the direction for future searches.
+- Maintain a compact, consolidated record here as directions are tried: direction,
+  queries, explicit feedback, tentative interpretations, and next approach. Do not
+  store individual listings or a chronological run log. Do not treat an unreviewed
+  experiment as an approved standing preference.
+
 ## Fit and Screening
 
 - Exclude tiny engagements of only a few hours. Their contracting overhead,
