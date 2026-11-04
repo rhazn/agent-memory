@@ -111,6 +111,12 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   as his small boutique agency and explain that he can deliver with his colleague
   Georg. Use "I" for Philip's experience and proposal, and "we" for shared
   capabilities and delivery. Avoid corporate-sounding narration.
+- Lead with Philip's industry experience and hands-on software delivery. He
+  worked in industry before his doctorate and continued working as a professional
+  software engineer throughout his time in academia. Present that period as
+  continued software engineering, not a break from practical development. Give
+  the doctorate and academic credentials prominence only when directly relevant
+  to the work; otherwise emphasize the software he developed and delivered.
 - Cover letters should focus on demonstrating Isselthal's ability to deliver.
   Use verified experience, relevant references, and a concrete approach. Ask
   questions only about material ambiguities. When the brief is sufficiently
