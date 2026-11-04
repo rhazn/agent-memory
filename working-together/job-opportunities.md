@@ -45,13 +45,15 @@ job-search preferences, not permanent constraints on every kind of work.
 - Start every cover letter with a greeting. Address the hiring manager by
   verified name when available; otherwise address the team.
 - Use the job listing's language, except use English for French-language jobs.
-- Keep letters short-ish, with basic, colloquial language rather than formal
-  application boilerplate. The current conversational style works well; allow
-  roughly one to three additional sentences for useful, tailored detail.
+- Use basic, colloquial language rather than formal application boilerplate.
+  Aim for three to four short body paragraphs, with room to develop the motivation
+  rather than compress it into a brief opening. Add substance, not filler.
 - End every draft with "Best," followed by "Philip Heltweg" on the next line.
-- Lead with why the opportunity is exciting: the field, the company, or a good
-  fit with Philip's CV. Ground the reason in his known interests and the actual
-  vacancy; do not invent a history of admiring a company.
+- Focus on why this specific company and vacancy interest Philip: what excites
+  him, why he wants this work, and how it connects to his interests and background.
+  Mention verified experience where it explains that motivation and hints at fit.
+  Do not recap the CV or make proving his qualifications the main purpose. Ground
+  the motivation in the actual vacancy; do not invent a history of admiring a company.
 - Explain why he is interested. For part-time opportunities, say that he likes
   to be flexible. Do not imply that a full-time vacancy offers part-time work.
 - Mention Paris and international-team fit when useful. Do not routinely
@@ -61,6 +63,11 @@ job-search preferences, not permanent constraints on every kind of work.
 
 ## Search and Assessment
 
+- Keep the established search process without a mandatory extra exploratory pass.
+  When an unfamiliar role type emerges during a search and looks relevant, mention
+  it as a possible direction. Explain how its responsibilities connect to Philip's
+  background and which role names could help him describe and find that work.
+  Do not silently add it to the standing search criteria.
 - Surface published pay bands directly in each opportunity's summary. Include
   the currency and pay period, and distinguish full-time-equivalent pay from
   actual part-time pay. State when pay is not published; do not invent a range.
