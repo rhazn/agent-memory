@@ -107,6 +107,10 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   letters. For AI integration work, look for actual comparable AI projects.
   Discover references afresh rather than maintaining a fixed list of examples.
 - Use plain names in body text, without academic titles.
+- Write all cover letters in Philip's personal voice. Clearly present Isselthal
+  as his small boutique agency and explain that he can deliver with his colleague
+  Georg. Use "I" for Philip's experience and proposal, and "we" for shared
+  capabilities and delivery. Avoid corporate-sounding narration.
 - Cover letters should focus on demonstrating Isselthal's ability to deliver.
   Use verified experience, relevant references, and a concrete approach. Ask
   questions only about material ambiguities. When the brief is sufficiently
