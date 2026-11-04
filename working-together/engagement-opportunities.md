@@ -10,6 +10,7 @@
 - A person's company and its relevance to Isselthal can strengthen the fit, but the topic must also be genuinely interesting.
 - Seek process improvement and digitalization problems: connecting systems, cleaning data, building data pipelines, and adapting software to domain needs, including laboratories.
 - Relevant topics include software architecture, deployment, servers, Kubernetes, open-source adoption, hosting and customization, useful open data sources, and practical AI integration for specific tasks.
+- Philip explicitly likes the supporting infrastructure that makes AI useful in practice: running and operating AI, building and maintaining knowledge bases, testing and evaluating AI, and preparing data so AI can use it. Treat this as a broad interest, not just internal documentation maintenance or generic AI promotion.
 - Open data, research, open standards, and European collaboration remain topics of interest, but do not default to research-heavy or data-heavy discussions.
 
 ## Search Directions
@@ -33,7 +34,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 | Data engineering | `"data integration"`; `"data quality"`; `"data pipeline" "broke"` | Explicit feedback: a concrete account of automating finance pipelines was good. Implementation details and how human judgment fits into the workflow are useful openings. Generic data-governance teaching was too blog-like. Favor working accounts over general frameworks; a substantive linked article can still qualify. |
 | Research and laboratory workflows | `laboratory data`; `LIMS`; `lab manual`; `laboratory manual workflow` | Explicit feedback: an apparently human-written lab discussion about practical AI use was very good: interesting subject and a genuine invitation to exchange ideas. Continue with workflow problems and inspectable outputs, without inventing laboratory compliance expertise. |
 | Technical due diligence | `"software" "due diligence"` | Explicit preference: keep as a secondary search direction, especially working with VCs and private equity on technical evaluation of teams and tools. Philip does not want to go deeply into broader due-diligence work. |
-| Internal knowledge maintenance for AI | `"AI" "evaluation" "customers"` | Explicit feedback: an honest product launch arising from missing or outdated internal knowledge was good; connecting with relevant product builders is valuable. This was a new exploratory direction, though the actual query was broader than the direction. Refine future searches toward internal knowledge bases, missing knowledge and document maintenance. Connect to Philip's Morsel background when relevant, without treating all AI launches as suitable. |
+| Supporting infrastructure for practical AI | `"AI" "evaluation" "customers"` | Explicit preference: keep and broaden beyond internal knowledge maintenance. Cover running AI, knowledge-base construction and maintenance, testing and evaluation, and making data useful for AI. The query tried was broad; use concrete problem-specific queries within these areas. An honest launch grounded in a knowledge-quality problem was a good fit, as was connecting with a relevant product builder. Connect to Philip's Morsel background when relevant, without treating all AI launches as suitable. |
 
 ## Post Selection
 
