@@ -107,6 +107,10 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   letters. For AI integration work, look for actual comparable AI projects.
   Discover references afresh rather than maintaining a fixed list of examples.
 - Use plain names in body text, without academic titles.
+- Cover letters should focus on demonstrating Isselthal's ability to deliver.
+  Use verified experience, relevant references, and a concrete approach. Ask
+  questions only about material ambiguities. When the brief is sufficiently
+  clear, present the offer confidently without engagement-bait questions.
 - Include a tailored cover letter with every recommendation. Letters must be
   plain text with explicit reference URLs, signed “Philip Heltweg” without an
   agency-name signature line.
