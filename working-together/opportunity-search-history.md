@@ -45,28 +45,30 @@ Coverage: Unknown.
 
 ## find-job-opportunities
 
-Last run: 2026-10-30T12:53:41+01:00.
-Coverage: Partial. Checked the first LinkedIn result pages for product, data/AI,
-French-language data/research terms, and part-time software/data/product/research.
-Screened all 95 France/computer-science EURAXESS results across ten pages.
-Corrected Welcome to the Jungle freelance-only filters to permanent, part-time,
-and temporary employment; checked experienced and early-career matching passes
-and both Seen pages (19 listings). Fully reviewed 11 distinct vacancies,
-including employer-page checks for Scaleway and Nuitee. Nuitee has a LinkedIn
-part-time label but no employer-confirmed hours. Portal searches were not
-exhaustive; supplementary web searches were cancelled and returned no results.
+Last run: 2026-11-04T11:17:02+01:00.
+Coverage: Partial. Checked first LinkedIn result pages for AI product, data and
+research engineering, part-time roles, and French-language data/research terms.
+LinkedIn AI search did not reliably retain employment-type filters, so actual
+vacancy terms took precedence. Corrected Welcome to the Jungle freelance-only
+preferences to permanent, part-time and temporary employment; checked experienced
+matches, both Seen pages (18 listings), and the first early-career data/AI page.
+Screened all 81 France/computer-science EURAXESS results across nine pages.
+Fully reviewed 16 distinct plausible vacancies, with employer-page checks for
+PayFit and the ENS-PSL part-time research assistant role. The latter requires
+current Master's enrollment and was excluded. Search was not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-04T11:17:02+01:00 | Joko - Product Manager, AI Platform | https://www.linkedin.com/jobs/view/4459689758/ |
+| 2026-11-04T11:17:02+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
+| 2026-11-04T11:17:02+01:00 | Modash - Senior Software Engineer, Data Search | https://www.linkedin.com/jobs/view/4474766269/ |
+| 2026-11-04T11:17:02+01:00 | AQEMIA - Senior Data Engineer | https://www.linkedin.com/jobs/view/4480757003/ |
+| 2026-11-04T11:17:02+01:00 | Ledger - Data Scientist & Analytics Engineer | https://www.welcometothejungle.com/en/companies/ledger/jobs/analytics-engineer_paris |
 | 2026-10-30T12:53:41+01:00 | Scaleway - Product Manager, AI Inference | https://jobs.lever.co/scaleway/a00c86ba-e7b1-4e46-a023-d98d89ca3eb2 |
 | 2026-10-30T12:53:41+01:00 | Syntrace - Software Engineer | https://www.linkedin.com/jobs/view/4481450969/ |
 | 2026-10-30T12:53:41+01:00 | Nuitee - Senior Product Manager, Customer Operations | https://job-boards.eu.greenhouse.io/nuitee/jobs/5015803101 |
 | 2026-10-29T13:06:18+01:00 | Mistral AI - Research Software Engineer | https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/research-software-engineer_paris |
 | 2026-10-29T13:06:18+01:00 | Dashdoc - Software Engineer, Shippers Team | https://www.welcometothejungle.com/en/companies/dashdoc/jobs/software-engineer |
-| 2026-10-29T13:06:18+01:00 | Qonto - Staff Product Manager, Loans | https://jobs.ashbyhq.com/qonto/661f1548-8720-483d-b606-5bf58409448f |
-| 2026-10-28T12:22:29+01:00 | Filigran - Senior Software Engineer, AI-Native Engineering (XTM Foundation) | https://jobs.ashbyhq.com/filigran/078b3281-6e64-4c52-82c9-c20a73dcb2fa |
-| 2026-10-28T12:22:29+01:00 | Mistral AI - Data Scientist | https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/data-scientist_paris_MA_wZLPoxR |
-| 2026-10-28T12:22:29+01:00 | Inria - Machine Learning Engineer, DYNASTY / SIERRA | https://jobs.inria.fr/public/classic/en/offres/2026-10601 |
 
 ## find-engagement-opportunities
 
