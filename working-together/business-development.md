@@ -30,6 +30,10 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   (`https://www.freelancermap.de/projekte`), as well as the other current skill
   sources. On Freelancermap, configure and verify useful filters before reviewing
   the project results. Do not assume a project portal excludes intermediaries.
+- On Freelancermap, favor direct-client projects with independent, bounded
+  deliverables. Intermediary projects need a compelling reason to warrant a
+  limited application slot; technical relevance alone is insufficient. Prefer
+  fewer strong recommendations and a short non-recommended watchlist.
 - Welcome to the Jungle is essential. Start at its homepage and navigate through
   the site. If sign-in is required, notify Philip and abort the search.
 - For Philip individually, regular office attendance is acceptable only in Paris.
