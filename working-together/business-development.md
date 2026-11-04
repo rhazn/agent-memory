@@ -103,9 +103,13 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   personal introductions or two CV summaries. Use Philip's and Georg's verified
   experience as supporting evidence of the agency's strengths.
 - Search the current Isselthal website for similar projects and customer case
-  studies. Read matching references and link them directly in application
-  letters. For AI integration work, look for actual comparable AI projects.
+  studies. Read matching references for evidence. For AI integration work, look
+  for actual comparable AI projects.
   Discover references afresh rather than maintaining a fixed list of examples.
+- Describe one or two relevant projects in the letter itself. For each, explain
+  the customer's business and what Philip or Isselthal delivered in one or two
+  sentences. Link only to https://isselthal.com rather than individual project
+  pages.
 - Use plain names in body text, without academic titles.
 - Write all cover letters in Philip's personal voice. Clearly present Isselthal
   as his small boutique agency and explain that he can deliver with his colleague
@@ -122,8 +126,12 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   questions only about material ambiguities. When the brief is sufficiently
   clear, present the offer confidently without engagement-bait questions.
 - Include a tailored cover letter with every recommendation. Letters must be
-  plain text with explicit reference URLs, signed “Philip Heltweg” without an
-  agency-name signature line.
+  plain text with an explicit website URL.
+- Briefly describe the collaborative, agile delivery approach: regularly deliver
+  working software or artifacts and adapt throughout the project. Close with a
+  personal invitation to a call for mutual introduction and project discussion,
+  then a suitable greeting and "Philip Heltweg", without an agency-name signature
+  line.
 
 Read [Isselthal's references](../about/isselthal.md) for current positioning and
 evidence of experience. Read and maintain the agency section of
