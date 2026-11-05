@@ -37,11 +37,23 @@ learnings in their existing domain files, not here.
 
 ## find-agency-opportunities
 
-Last run: Not recorded.
-Coverage: Unknown.
+Last run: 2026-11-05T08:33:39+01:00.
+Coverage: Partial. Verified Welcome to the Jungle freelance preferences, checked
+new matches (none) and all three Seen pages (29 cards). Screened both pages of
+the Freelancermap saved direct-client search (40 unapplied results), then the
+first three broader direct-client pages and an architecture/audit query without
+the direct-client filter. Checked LinkedIn software-delivery and architecture
+assessment result pages; contract filtering did not work reliably. Read 16 full
+listings across the three sources. Returned one possible Linux-management
+delivery lead and four non-recommended leads. Search was not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-05T08:33:39+01:00 | DEK Telecom - Central Linux-management platform | https://www.freelancermap.de/projekt/konzeption-und-implementierung-einer-zentralen-linux-management-plattform-suse-umgebung |
+| 2026-11-05T08:33:39+01:00 | Skapa Agency - Agentic SDLC platform validation | https://www.linkedin.com/jobs/view/4485747758/ |
+| 2026-11-05T08:33:39+01:00 | amnia digital - API integration and AI development workflows | https://www.freelancermap.de/projekt/backend-entwickler-fuer-api-anbindung-und-ki-integration-gesucht |
+| 2026-11-05T08:33:39+01:00 | Ticket Tickers - Ticketing platform work packages | https://www.freelancermap.de/projekt/senior-full-stack-entwickler-in-next-js-supabase-stripe-ticketing-plattform-teilzeit-remote |
+| 2026-11-05T08:33:39+01:00 | Simon - SaaS marketing and outbound automation | https://www.freelancermap.de/projekt/automation-gtm-engineer-n8n-clay-llm-apis-komplettes-marketing-und-outbound-system-fuer-b2b-saas |
 
 ## find-job-opportunities
 
