@@ -57,30 +57,31 @@ delivery lead and four non-recommended leads. Search was not exhaustive.
 
 ## find-job-opportunities
 
-Last run: 2026-11-04T11:17:02+01:00.
-Coverage: Partial. Checked first LinkedIn result pages for AI product, data and
-research engineering, part-time roles, and French-language data/research terms.
-LinkedIn AI search did not reliably retain employment-type filters, so actual
-vacancy terms took precedence. Corrected Welcome to the Jungle freelance-only
-preferences to permanent, part-time and temporary employment; checked experienced
-matches, both Seen pages (18 listings), and the first early-career data/AI page.
-Screened all 81 France/computer-science EURAXESS results across nine pages.
-Fully reviewed 16 distinct plausible vacancies, with employer-page checks for
-PayFit and the ENS-PSL part-time research assistant role. The latter requires
-current Master's enrollment and was excluded. Search was not exhaustive.
+Last run: 2026-11-05T08:34:18+01:00.
+Coverage: Partial. Checked first LinkedIn result pages for AI product, software/
+data/AI engineering, part-time work, and French-language research/data terms.
+Employment-type filters did not persist reliably; actual vacancy terms took
+precedence. Corrected Welcome to the Jungle freelance-only preferences to
+permanent, part-time and temporary employment, verified them, checked the empty
+new-matches view and first Seen page, and included junior-level eligibility.
+Screened the first 20 of 81 France/computer-science EURAXESS results. Read 13
+distinct full vacancies, plus one incomplete syndicated description. Verified
+all five reported vacancies on employer pages. No suitable explicit part-time
+employment found. Current AI's salary body and footer disagree on the upper
+bound. Search was not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-05T08:34:18+01:00 | Brevo - AI Native Product Engineer | https://jobs.lever.co/brevo/13cc40a9-97ed-46e5-a7ac-2e0b1aa99654 |
+| 2026-11-05T08:34:18+01:00 | Click&Boat - Data Product Manager | https://clickboat.teamtailor.com/jobs/8456791-data-product-manager |
+| 2026-11-05T08:34:18+01:00 | Current AI - Product Manager: Partnerships | https://aicurrent.bamboohr.com/careers/38 |
+| 2026-11-05T08:34:18+01:00 | Scaleway - Product Manager, Storage | https://jobs.lever.co/scaleway/12086374-35bc-49e4-9fa3-63b9df97da0b |
+| 2026-11-05T08:34:18+01:00 | Beamy - Applied AI Engineer | https://jobs.lever.co/Beamy/5defdfbe-8ec1-4279-94d7-279c840c2c29 |
 | 2026-11-04T11:17:02+01:00 | Joko - Product Manager, AI Platform | https://www.linkedin.com/jobs/view/4459689758/ |
 | 2026-11-04T11:17:02+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
 | 2026-11-04T11:17:02+01:00 | Modash - Senior Software Engineer, Data Search | https://www.linkedin.com/jobs/view/4474766269/ |
 | 2026-11-04T11:17:02+01:00 | AQEMIA - Senior Data Engineer | https://www.linkedin.com/jobs/view/4480757003/ |
 | 2026-11-04T11:17:02+01:00 | Ledger - Data Scientist & Analytics Engineer | https://www.welcometothejungle.com/en/companies/ledger/jobs/analytics-engineer_paris |
-| 2026-10-30T12:53:41+01:00 | Scaleway - Product Manager, AI Inference | https://jobs.lever.co/scaleway/a00c86ba-e7b1-4e46-a023-d98d89ca3eb2 |
-| 2026-10-30T12:53:41+01:00 | Syntrace - Software Engineer | https://www.linkedin.com/jobs/view/4481450969/ |
-| 2026-10-30T12:53:41+01:00 | Nuitee - Senior Product Manager, Customer Operations | https://job-boards.eu.greenhouse.io/nuitee/jobs/5015803101 |
-| 2026-10-29T13:06:18+01:00 | Mistral AI - Research Software Engineer | https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/research-software-engineer_paris |
-| 2026-10-29T13:06:18+01:00 | Dashdoc - Software Engineer, Shippers Team | https://www.welcometothejungle.com/en/companies/dashdoc/jobs/software-engineer |
 
 ## find-engagement-opportunities
 
