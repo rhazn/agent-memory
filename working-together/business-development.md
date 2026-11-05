@@ -14,6 +14,11 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   freelancer-style engagement; an explicit request for an agency is not required.
   Distinguish project delivery from selling ongoing individual capacity within
   a client team. Technical relevance alone does not justify body leasing.
+- Strongly favor early-stage startups and small companies where Philip can work
+  directly with the founder and deliver clearly bounded work packages. This is a
+  particularly attractive delivery model, not staff augmentation merely because
+  the founder remains hands-on. Assess freshness, project size, and explicit
+  application requirements separately from this positive engagement fit.
 - "No agencies or intermediaries" is a caveat to highlight, not an automatic
   exclusion. As a very small company, Isselthal may be able to offer the work
   directly through the individual who delivers it. Do not assume acceptance or
@@ -50,6 +55,13 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Candidate directions include technical consulting, open-source software
   evaluation, data engineering or data science, and research engagements. These
   are options to test, not a requirement to search all of them each time.
+- Keep technical evaluation and architecture assessment as an approved search
+  direction. Focus on engineering judgment, architecture, robustness, and
+  technical validation, not legal or compliance-led consulting. Initial searches
+  used architecture/audit terms on Freelancermap and freelance architecture
+  assessment/audit terms on LinkedIn. The direction fits Philip's interests;
+  next searches should seek engineering-led assessments that can be delivered
+  in German or English, including startup and small-company engagements.
 - Report the exploratory direction, queries, reason for fit, and results
   separately. If nothing qualifies, explain that rather than padding the report.
   Ask whether to keep, refine, or drop the direction for future searches.
@@ -74,11 +86,30 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   algorithmic-theory or C++ expertise.
 - Exclude Windows-focused work, including Windows Server/IIS migrations. Philip
   does not want to work with Windows; relevant migration expertise is also absent.
+- Exclude low-level server administration, distribution-specific Linux management,
+  and server patch-management engagements. Neither Philip nor Georg has the
+  specialist SUSE/Linux-management knowledge for that work. For infrastructure,
+  favor work higher up the stack, such as Kubernetes, Docker, and platform
+  engineering. General Linux experience does not establish specialist server
+  administration expertise or make those projects a good recommendation.
 - Assume Philip and Georg can learn unfamiliar backend APIs and data models
   when documentation is publicly available or accessible for the project. Flag
   gaps and ask targeted questions rather than requiring an exact prior reference.
   Exclude genuinely non-negotiable specialist requirements they cannot meet.
   Never claim experience they do not have.
+- Be more flexible about unfamiliar technology stacks in early-stage startup and
+  small-company delivery projects than in large enterprise contracts. Philip and
+  Georg can get into a small company's stack quickly. An exact stack match is
+  not necessary for strong fit, but explicitly required production references
+  remain an application caveat; never invent them or assume they can be waived.
+- Exclude actual marketing work, including technical-marketer/GTM roles that own
+  campaigns, content, prospect-database scraping, lead generation, or outbound
+  execution. A close technical stack does not offset this exclusion. Building
+  software for marketers to use is acceptable when the engagement is engineering
+  delivery rather than responsibility for doing the marketing.
+- Exclude engagements requiring fluent or professional French. French-language
+  requirements are a hard blocker, including for otherwise attractive technical
+  assessments; do not confuse a French-written listing with such a requirement.
 - Favor substantive projects with an AI component when they also strengthen
   Isselthal's portfolio.
 - Exclude low-value AI-output review, rating, annotation, improvement, and

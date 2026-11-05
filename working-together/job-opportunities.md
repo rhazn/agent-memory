@@ -27,6 +27,12 @@ job-search preferences, not permanent constraints on every kind of work.
   AI experience to his CV. Keep the other role tracks in the search.
 - Prefer opportunities where the PhD opens doors or provides a meaningful
   advantage. It is not a requirement for every suitable role.
+- Exclude community-building, developer relations, sales, sales-adjacent work,
+  and outbound outreach responsibilities. Philip prefers limited interaction
+  rather than responsibility for cultivating a community or partner pipeline.
+  Do not reject a partnership title automatically: translating inbound partner
+  needs into technical specifications and engineering delivery can be a very
+  good fit when another team owns the inbound funnel and relationship sourcing.
 - French is A2. English is very good. Favor roles compatible with these skills.
   Exclude mandatory French fluency or another explicitly required level above
   A2. Distinguish optional French from required French and flag unclear working
@@ -39,9 +45,25 @@ job-search preferences, not permanent constraints on every kind of work.
   then recheck eligibility before resuming. The exact reopening date is unknown.
   Be especially selective: Mistral opportunities must be a strong fit.
 
-## Cover Letters
+## Known Vacancy Exclusions
 
-- Include a tailored cover-letter draft with every reported opportunity.
+- Philip explicitly requested retaining these exclusions, an exception to the
+  usual rule against keeping individual application outcomes in this page.
+- [Click&Boat - Data Product Manager](https://clickboat.teamtailor.com/jobs/8456791-data-product-manager):
+  already applied and rejected, reported on 5 November 2026 as about three weeks
+  earlier. Do not recommend again unless Philip asks to revisit it.
+- [Beamy - Applied AI Engineer](https://jobs.lever.co/Beamy/5defdfbe-8ec1-4279-94d7-279c840c2c29):
+  Philip reports that the application form requires fluent French. Exclude;
+  the absence of this requirement from the vacancy text does not make it suitable.
+
+## Application Drafts and Cover Letters
+
+- Inspect the application questions before choosing the draft format. When the
+  employer asks substantive questions, draft answers to those questions instead
+  of a generic cover letter. Follow the exact prompts and word or character
+  limits. Otherwise include a tailored cover-letter draft with each opportunity.
+- The greeting, paragraph structure, and sign-off rules below apply to cover
+  letters, not individual application-form answers.
 - Start every cover letter with a greeting. Address the hiring manager by
   verified name when available; otherwise address the team.
 - Use the job listing's language, except use English for French-language jobs.
@@ -75,6 +97,12 @@ job-search preferences, not permanent constraints on every kind of work.
   Do not invent expertise, salary expectations, availability, or eligibility.
 - Philip's Java experience is older, and he has no GPU-scale infrastructure
   experience. Do not treat these as current strengths.
+- Infrastructure as a service is not Philip's area of expertise, including IaaS
+  storage products. Do not infer this expertise from general infrastructure,
+  software engineering, or data-pipeline work. Deprioritize roles that require
+  established IaaS product expertise.
+- Background checks are not a concern for Philip. Mention a required check as
+  a factual condition when useful, not as a reason to lower a role's ranking.
 - Deprioritize roles requiring existing expertise or independent ownership of
   regulatory approvals. Consider an otherwise attractive role as a stretch,
   with the gap stated clearly.
@@ -83,12 +111,26 @@ job-search preferences, not permanent constraints on every kind of work.
 - Check actual contract terms, hours, language requirements, and remote-country
   eligibility in the full vacancy. Do not infer part-time availability or an
   English-speaking workplace from a title or listing language.
+- Before recommending a vacancy, open its Apply link and inspect the follow-up
+  page and any visible application questions for additional requirements,
+  particularly mandatory languages. Opening a form is allowed; do not submit,
+  upload a CV, populate fields, or trigger an application or external contact.
+  If inspecting the questions requires such an action, stop and flag the gap.
 - Keep personal employment criteria separate from
   [agency engagement criteria](business-development.md). Do not inherit agency
   engagement signals or agency-specific interview exclusions.
 - Read and maintain the personal-job section of
   [opportunity search history](opportunity-search-history.md) to avoid repeats.
-- Store reusable preferences and feedback here. Keep individual vacancy
-  identifiers only in that bounded record, not application histories or a
-  search-run archive. Follow `agent-memory` for candidate and confirmed learnings
+- Store reusable preferences and feedback here. Except for the explicitly
+  requested known exclusions above, keep individual vacancy identifiers only in
+  that bounded record, not application histories or a search-run archive.
+  Follow `agent-memory` for candidate and confirmed learnings
   when feedback provides meaningful new guidance.
+
+## Candidate Learnings
+
+- Tentative: AI-native product engineering roles that combine problem definition,
+  hands-on implementation, and critical evaluation of coding-agent output may
+  be especially attractive. Scope: personal engineering/product searches.
+  Support: positive feedback on a role combining these responsibilities; do not
+  use this single example to narrow the established role tracks.
