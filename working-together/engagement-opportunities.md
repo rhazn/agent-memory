@@ -6,6 +6,7 @@
 - Prioritize founders, company operators, and domain experts in companies discussing concrete problems that software can solve, especially in small or medium-sized businesses. Favor these audiences over researchers and fellow technical consultants.
 - Strongly deprioritize other agency people as an audience: Philip generally does not see them as potential customers. Topic relevance alone does not compensate for that audience mismatch. Do not generalize this to all consultants or product founders; he explicitly liked a process-optimization discussion by a consultant and connecting with a founder building a relevant product.
 - Connecting with other product builders is valuable in its own right, including through honest accounts of launches, customer discovery and implementation problems. Do not assess every connection solely as an immediate customer prospect.
+- Personal-interest discussions can be worthwhile without a business angle.
 - Treat Philip primarily as a software engineer who also builds data pipelines, not primarily as an open-data researcher. Build visibility for his professional services through useful contributions, not pitches.
 - A person's company and its relevance to Isselthal can strengthen the fit, but the topic must also be genuinely interesting.
 - Seek process improvement and digitalization problems: connecting systems, cleaning data, building data pipelines, and adapting software to domain needs, including laboratories.
@@ -68,7 +69,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 - Bring relevant outside knowledge from software engineering into a domain discussion when it adds a useful analogy or fresh perspective. Do not restate the post in more technical language or present a rule of thumb as a universal law.
 - Appreciation and thanks are welcome when sincere.
 - Do not default to unsolicited tips or instructions. Share an idea as part of a conversation, not as a drive-by expert intervention.
-- Do not force every comment into a question or a fixed template.
+- Comments should react naturally, not try to elicit engagement. Share relevant knowledge, cross-field connections, supported personal experience, or simple appreciation. Ask a question only when Philip has a genuine question. Do not force comments into a fixed template.
 - Never invent experience, opinions, or familiarity.
 
 ## Supported Background and Contribution Angles
