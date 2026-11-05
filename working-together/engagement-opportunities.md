@@ -15,10 +15,11 @@
 
 ## Search Directions
 
-- Cover three distinct directions each run:
+- Cover four distinct directions each run:
   1. Software engineering and operations: architecture, technical debt, self-hosting, digitalization and SME processes.
   2. Data engineering: pipelines, integration, data quality and cleaning.
   3. Research and laboratory data: practical workflows, systems and data management.
+  4. Esports: software engineering, data, analytics, data science and AI. This is a standing direction, supported by Philip's strong and uncommon esports background. Do not restrict it to data workflows.
 - Treat these directions as a starting point, not a closed list.
 - After the main search, revisit Philip's background and the directions already tried. Test one new direction that could reach people he cares about, even when the main search yields fewer than three suitable posts.
 - Present the exploratory direction separately: explain the query, audience and fit, and include its strongest qualifying opportunity with a proposed comment. Do not pad with a weak result if none qualifies; explain the shortfall instead.
@@ -35,6 +36,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 | Research and laboratory workflows | `laboratory data`; `LIMS`; `lab manual`; `laboratory manual workflow` | Explicit feedback: an apparently human-written lab discussion about practical AI use was very good: interesting subject and a genuine invitation to exchange ideas. Continue with workflow problems and inspectable outputs, without inventing laboratory compliance expertise. |
 | Technical due diligence | `"software" "due diligence"` | Explicit preference: keep as a secondary search direction, especially working with VCs and private equity on technical evaluation of teams and tools. Philip does not want to go deeply into broader due-diligence work. |
 | Supporting infrastructure for practical AI | `"AI" "evaluation" "customers"` | Explicit preference: keep and broaden beyond internal knowledge maintenance. Cover running AI, knowledge-base construction and maintenance, testing and evaluation, and making data useful for AI. The query tried was broad; use concrete problem-specific queries within these areas. An honest launch grounded in a knowledge-quality problem was a good fit, as was connecting with a relevant product builder. Connect to Philip's Morsel background when relevant, without treating all AI launches as suitable. |
+| Esports software, data and AI | `esports data` | Explicit preference: promote to a standing direction on every run. Philip values esports software engineering, analytics, data science and AI, not just data workflows, and has a strong and uncommon background in esports. Broaden future queries across these topics; the initial broad query produced no qualifying discussion. |
 
 ## Post Selection
 
