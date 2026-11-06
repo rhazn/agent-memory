@@ -19,7 +19,7 @@
 - Cover four distinct directions each run:
   1. Software engineering and operations: architecture, technical debt, self-hosting, digitalization and SME processes.
   2. Data engineering: pipelines, integration, data quality and cleaning.
-  3. Research and laboratory data: practical workflows, systems and data management.
+  3. Research and laboratory data: practical workflows, systems and data management. Include instrument APIs, automation, simulation and integration reliability, not only laboratory data management.
   4. Esports: software engineering, data, analytics, data science and AI. This is a standing direction, supported by Philip's strong and uncommon esports background. Do not restrict it to data workflows.
 - Treat these directions as a starting point, not a closed list.
 - After the main search, revisit Philip's background and the directions already tried. Test one new direction that could reach people he cares about, even when the main search yields fewer than three suitable posts.
@@ -38,7 +38,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 | Technical due diligence | `"software" "due diligence"` | Explicit preference: keep as a secondary search direction, especially working with VCs and private equity on technical evaluation of teams and tools. Philip does not want to go deeply into broader due-diligence work. |
 | Supporting infrastructure for practical AI | `"AI" "evaluation" "customers"` | Explicit preference: keep and broaden beyond internal knowledge maintenance. Cover running AI, knowledge-base construction and maintenance, testing and evaluation, and making data useful for AI. The query tried was broad; use concrete problem-specific queries within these areas. An honest launch grounded in a knowledge-quality problem was a good fit, as was connecting with a relevant product builder. Connect to Philip's Morsel background when relevant, without treating all AI launches as suitable. |
 | Esports software, data and AI | `esports data` | Explicit preference: promote to a standing direction on every run. Philip values esports software engineering, analytics, data science and AI, not just data workflows, and has a strong and uncommon background in esports. Broaden future queries across these topics; the initial broad query produced no qualifying discussion. |
-| European open-source rollouts and user adoption | `"open source" "migration"`; `"open source" "adoption"` | Exploratory, no user feedback yet. Intended audience: public-sector adopters and operators moving from proprietary systems. Initial results were mostly announcements or promotional posts, with no strong discussion selected. If retained, narrow toward first-hand migration and user-adoption problems rather than ecosystem announcements. |
+| Open-source migration and adoption in businesses | `"open source" "migration"`; `"open source" "adoption"` | Explicit preference: keep this direction, targeting businesses rather than public-sector adopters. Search for concrete problems: rising software fees, vendor lock-in, difficult exports, customer-data privacy, sending sensitive data to AI providers, and requirements to keep data on company infrastructure. Do not require authors to mention open source or assume it is the best solution. Initial solution-led queries mostly returned announcements or promotion; next use problem-led queries rather than ecosystem announcements. |
 
 ## Post Selection
 
@@ -71,11 +71,14 @@ Keep this as a consolidated record of approaches, not a chronological search log
 - Appreciation and thanks are welcome when sincere.
 - Do not default to unsolicited tips or instructions. Share an idea as part of a conversation, not as a drive-by expert intervention.
 - Comments should react naturally, not try to elicit engagement. Share relevant knowledge, cross-field connections, supported personal experience, or simple appreciation. Ask a question only when Philip has a genuine question. Do not force comments into a fixed template.
+- When Philip lacks domain experience, express honest interest or ask for a follow-up rather than manufacture a specialist contribution. A simple question about an available framework can be sufficient.
+- Favor warm, conversational reactions grounded in the actual work. Use familiar examples to explain cross-domain engineering connections. Do not force every comment into an observation-plus-question pattern.
 - Never invent experience, opinions, or familiarity.
 
 ## Supported Background and Contribution Angles
 
 - Philip's practical AI mindset is to let AI help build tools that produce outputs, rather than ask AI to produce the final outputs directly. For suitable repeatable data transformations, he favors small inspectable scripts, reproducibility and code review over generating results and merely spot-checking them. Do not overstate this: scripts can still contain bugs, and code generation does not guarantee correctness.
+- Philip finds fully AI-generated applications less satisfying when he has not explored the approach first. For learning, he favors discussing approaches, mechanisms and the meaning of the data before implementing a chosen approach.
 - Philip reports that documentation built for agents can also help educate humans. Reuse of internal AI-facing documentation is a useful side effect, not a solution to unclear responsibility; he thinks AI can make responsibility problems worse.
 - Through Morsel, Philip explored improving and maintaining technical documentation. His assessment was that it was hard to develop a compelling sales story because companies often treated documentation as a cost center. He sees internal knowledge bases as a potentially better direction. Use this as his experience and assessment, not as proof of market demand or a claim that Morsel achieved results not recorded here.
 - Personal project experience can support candid peer conversation about product positioning and customer problems. Avoid turning that experience into a researched sales pitch or assuming familiarity with the author's company.
@@ -84,6 +87,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 
 - Tentative: a detailed implementation account may outweigh the usual preference for short standalone posts when a company operator describes real failures, decisions and tradeoffs. Supported by positive feedback on a finance automation account with a linked article; this does not establish a general preference for long articles.
 - Tentative: cross-domain engineering analogies may be especially effective for process-optimization discussions when they add a little humor and a genuinely new idea. Supported by Philip's explicit appreciation of that contribution style; do not force analogies into unrelated discussions.
+- Tentative: concrete technical demonstrations and announcements can qualify when they reach relevant domain practitioners and leave room for a useful engineering contribution. An honest, interesting discussion can occasionally outweigh an agency-audience mismatch; agencies remain deprioritized. Supported by positive feedback on a laboratory automation demonstration and an honest laboratory workflow discussion despite the author's agency-audience mismatch.
 
 ## Opportunity Summaries
 
