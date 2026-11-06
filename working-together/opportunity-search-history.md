@@ -37,18 +37,28 @@ learnings in their existing domain files, not here.
 
 ## find-agency-opportunities
 
-Last run: 2026-11-05T08:33:39+01:00.
-Coverage: Partial. Verified Welcome to the Jungle freelance preferences, checked
-new matches (none) and all three Seen pages (29 cards). Screened both pages of
-the Freelancermap saved direct-client search (40 unapplied results), then the
-first three broader direct-client pages and an architecture/audit query without
-the direct-client filter. Checked LinkedIn software-delivery and architecture
-assessment result pages; contract filtering did not work reliably. Read 16 full
-listings across the three sources. Returned one possible Linux-management
-delivery lead and four non-recommended leads. Search was not exhaustive.
+Last run: 2026-11-06 (exact run timestamp not recorded).
+Coverage: Partial. Checked Welcome to the Jungle's freelance preferences, empty
+new matches and all three Seen pages (28 cards). Screened all five pages of the
+Freelancermap direct-client remote software search and all four pages of a
+delivery-model query. Checked LinkedIn software-delivery and architecture
+searches, plus research/open-data queries on Freelancermap and LinkedIn.
+Read 32 full listings across the three sources. Returned two prospects and three
+non-recommended leads. Search was not exhaustive.
+
+User-reported application status, confirmed 2026-11-06:
+- Fiedler Consulting, ElevenLabs training portal: Philip applied.
+- usd AG, AI-enabled Security Intelligence PoC: rejected; Philip did not apply.
+  Do not resurface either as a new lead. General fit guidance is in
+  `business-development.md`.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-06 (exact time not recorded) | Fiedler Consulting - ElevenLabs training portal | https://www.freelancermap.de/projekt/web-portal-um-fertige-elevenlabs-sprachagenten-festpreis-je-baustein |
+| 2026-11-06 (exact time not recorded) | usd AG - AI-enabled Security Intelligence PoC | https://www.freelancermap.de/projekt/proof-of-concept-for-an-ai-enabled-security-intelligence-platform |
+| 2026-11-06 (exact time not recorded) | COS GmbH - Fleet-management software work packages | https://www.freelancermap.de/projekt/freelancer-fuer-zuarbeiten-an-fuhrparkverwaltungs-software-gesucht |
+| 2026-11-06 (exact time not recorded) | MAVI - Agency tooling and AI-agent setup | https://www.freelancermap.de/projekt/agentur-setup-fuer-vibe-coder-llm-erstellen |
+| 2026-11-06 (exact time not recorded) | INTRIK - Prototype-to-production work packages | https://www.linkedin.com/jobs/view/4485352871/ |
 | 2026-11-05T08:33:39+01:00 | DEK Telecom - Central Linux-management platform | https://www.freelancermap.de/projekt/konzeption-und-implementierung-einer-zentralen-linux-management-plattform-suse-umgebung |
 | 2026-11-05T08:33:39+01:00 | Skapa Agency - Agentic SDLC platform validation | https://www.linkedin.com/jobs/view/4485747758/ |
 | 2026-11-05T08:33:39+01:00 | amnia digital - API integration and AI development workflows | https://www.freelancermap.de/projekt/backend-entwickler-fuer-api-anbindung-und-ki-integration-gesucht |

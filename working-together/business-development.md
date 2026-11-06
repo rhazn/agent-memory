@@ -15,9 +15,10 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   Distinguish project delivery from selling ongoing individual capacity within
   a client team. Technical relevance alone does not justify body leasing.
 - Strongly favor early-stage startups and small companies where Philip can work
-  directly with the founder and deliver clearly bounded work packages. This is a
-  particularly attractive delivery model, not staff augmentation merely because
-  the founder remains hands-on. Assess freshness, project size, and explicit
+  directly with the founder and deliver clearly bounded work packages. Helping an
+  individual owner build or improve their product is an especially strong fit.
+  This is a particularly attractive delivery model, not staff augmentation merely
+  because the founder remains hands-on. Assess freshness, project size, and explicit
   application requirements separately from this positive engagement fit.
 - "No agencies or intermediaries" is a caveat to highlight, not an automatic
   exclusion. As a very small company, Isselthal may be able to offer the work
@@ -62,6 +63,15 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   assessment/audit terms on LinkedIn. The direction fits Philip's interests;
   next searches should seek engineering-led assessments that can be delivered
   in German or English, including startup and small-company engagements.
+- Keep research-data and open-data delivery as an approved search direction.
+  Queries tried on Freelancermap and LinkedIn include `Forschungsdaten`,
+  `"Research Data"`, `"Open Data"`, and freelance research/open-data terms. Philip
+  likes this direction. Next searches should include substantive research-data
+  engineering, consulting, and teaching engagements, not only development roles.
+- Surface genuine teaching and training engagements, including teaching people
+  about AI, and technical consulting. Philip previously taught and enjoyed it.
+  Distinguish human education from AI-training-data tasks, output rating, or
+  annotation; the latter remain subject to the exclusions below.
 - Report the exploratory direction, queries, reason for fit, and results
   separately. If nothing qualifies, explain that rather than padding the report.
   Ask whether to keep, refine, or drop the direction for future searches.
@@ -74,6 +84,8 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 - Exclude tiny engagements of only a few hours. Their contracting overhead,
   particularly an NDA, is not worthwhile.
+- An NDA is a disadvantage, not a no-go for an otherwise strong product-delivery
+  engagement. Assess it separately from the project's size and fit.
 - A EUR 5,000 fixed-price budget can be acceptable currently, including for larger
   projects. Consider discussing implementation scope rather than excluding on
   budget alone.
@@ -97,6 +109,12 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   gaps and ask targeted questions rather than requiring an exact prior reference.
   Exclude genuinely non-negotiable specialist requirements they cannot meet.
   Never claim experience they do not have.
+- Philip does not have extensive lakehouse implementation experience or concrete
+  implementation experience with Power BI, Metabase, or Databricks. Dashboard
+  work itself can be suitable, but it does not establish lakehouse expertise.
+  Exclude projects with strong mandatory requirements for extensive lakehouse
+  experience rather than presenting them as conditional recommendations based
+  only on adjacent data-engineering or dashboard skills.
 - Be more flexible about unfamiliar technology stacks in early-stage startup and
   small-company delivery projects than in large enterprise contracts. Philip and
   Georg can get into a small company's stack quickly. An exact stack match is
