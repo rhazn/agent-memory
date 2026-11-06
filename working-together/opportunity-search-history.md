@@ -85,15 +85,20 @@ exhaustive.
 
 ## find-engagement-opportunities
 
-Last run: 2026-11-03T10:01:50+01:00.
-Coverage: Partial. Screened 54 post results across eight queries covering software
-operations, data integration, laboratory workflows, and exploratory technical due
-diligence. Fully inspected three direct post threads, one linked article, and
-three author profiles. Excluded the self-hosting thread already commented on by
-Philip. Returned one process discussion and one exploratory AI diligence discussion;
-the process post had no visible engagement yet. Searches were not exhaustive.
+Last run: 2026-11-06T08:45:14+01:00.
+Coverage: Partial. Screened 64 post results across eleven queries with the past-week
+filter, covering software operations, data engineering, laboratory workflows,
+esports software/data/AI, and exploratory European open-source rollout/adoption.
+Read five direct post threads, four author profiles and one company activity page.
+Returned five opportunities. The exploratory direction produced no strong match;
+results were mainly announcements or promotional posts. Searches were not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-06T08:45:14+01:00 | Arabhardware - Live fantasy league built in one week | https://www.linkedin.com/posts/mirnaihab_ahwesports-pubgmobile-pmgo2026-ugcPost-7523777821224194048-V-Dn/ |
+| 2026-11-06T08:45:14+01:00 | LabMODO - Tracking method detection limits | https://www.linkedin.com/posts/michaelgaumer_lab-managers-and-qa-professionals-how-are-share-7523435188966662146-ysPK/ |
+| 2026-11-06T08:45:14+01:00 | Wolters Kluwer - Technical debt with AI-assisted development | https://www.linkedin.com/posts/morettilorenzo_safe-agenticai-safe-ugcPost-7523631166806016000-ph19/ |
+| 2026-11-06T08:45:14+01:00 | Benchmark Scientific - Simulation and instrument APIs for lab automation | https://www.linkedin.com/posts/labautomation-robotics-accurisinstruments-ugcPost-7523417674270584832-zTPH/ |
+| 2026-11-06T08:45:14+01:00 | Smash Bros analytics - AI-assisted building and learning | https://www.linkedin.com/posts/jsavaryn_i-vibe-coded-my-first-project-it-was-really-share-7522290767143526402-NVHK/ |
 | 2026-11-03T10:01:50+01:00 | Process workarounds - Bitte nicht noch ein Flussdiagramm | https://www.linkedin.com/posts/florian-fink-25912a17a_bitte-nicht-noch-ein-flussdiagramm-das-share-7523285849271259136-22rh/ |
 | 2026-11-03T10:01:50+01:00 | AI due diligence beyond the demo | https://www.linkedin.com/posts/hugo-carreira-31b18a29_ai-duediligence-privateequity-share-7522693726809530368-kMgv/ |
