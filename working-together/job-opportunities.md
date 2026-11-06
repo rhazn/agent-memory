@@ -16,6 +16,12 @@ job-search preferences, not permanent constraints on every kind of work.
 - Seek technical product management, software engineering, R&D, researcher,
   postdoc, and research-adjacent positions. Data engineering, open data, data
   science, and AI-related work are also exciting directions.
+- Give extra weight to work with data and data-driven products. Philip is
+  particularly interested in turning data exploration into useful product
+  features, not only maintaining data infrastructure.
+- Inria is a particularly attractive employer. Keep suitable Inria research
+  engineering and related roles in the search. A decision not to apply to one
+  vacancy for unrelated reasons is not negative feedback on this direction.
 - Target intermediate and more experienced roles appropriate to Philip's
   professional background. Assess research roles by their responsibilities and
   eligibility, not by industry seniority labels alone.
@@ -97,6 +103,11 @@ job-search preferences, not permanent constraints on every kind of work.
   Do not invent expertise, salary expectations, availability, or eligibility.
 - Philip's Java experience is older, and he has no GPU-scale infrastructure
   experience. Do not treat these as current strengths.
+- Philip does not currently have strong SQL skills. He has some Python
+  experience and limited PyTorch experience. Keep otherwise suitable roles
+  requiring SQL or PyTorch in the search: he is willing to learn and prepare,
+  including getting familiar with PyTorch before applying. State the gaps
+  accurately; do not claim established expertise in application drafts.
 - Infrastructure as a service is not Philip's area of expertise, including IaaS
   storage products. Do not infer this expertise from general infrastructure,
   software engineering, or data-pipeline work. Deprioritize roles that require
@@ -132,5 +143,6 @@ job-search preferences, not permanent constraints on every kind of work.
 - Tentative: AI-native product engineering roles that combine problem definition,
   hands-on implementation, and critical evaluation of coding-agent output may
   be especially attractive. Scope: personal engineering/product searches.
-  Support: positive feedback on a role combining these responsibilities; do not
-  use this single example to narrow the established role tracks.
+  Support: positive feedback on separate roles combining these responsibilities.
+  Keep the established role tracks; the feedback does not establish which of
+  these responsibilities drives the preference.
