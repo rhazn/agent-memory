@@ -57,31 +57,31 @@ delivery lead and four non-recommended leads. Search was not exhaustive.
 
 ## find-job-opportunities
 
-Last run: 2026-11-05T08:34:18+01:00.
-Coverage: Partial. Checked first LinkedIn result pages for AI product, software/
-data/AI engineering, part-time work, and French-language research/data terms.
-Employment-type filters did not persist reliably; actual vacancy terms took
-precedence. Corrected Welcome to the Jungle freelance-only preferences to
-permanent, part-time and temporary employment, verified them, checked the empty
-new-matches view and first Seen page, and included junior-level eligibility.
-Screened the first 20 of 81 France/computer-science EURAXESS results. Read 13
-distinct full vacancies, plus one incomplete syndicated description. Verified
-all five reported vacancies on employer pages. No suitable explicit part-time
-employment found. Current AI's salary body and footer disagree on the upper
-bound. Search was not exhaustive.
+Last run: 2026-11-06T08:40:10+01:00.
+Coverage: Partial. Checked three first LinkedIn result pages covering AI product,
+software/data/AI engineering, and French research/data/part-time terms. Employment
+filters did not persist; verified terms in vacancies instead. Verified Welcome
+to the Jungle permanent/part-time/temporary, Paris, remote and junior-to-senior
+preferences, expanded role titles to personal-job tracks, checked empty new
+matches and ten Seen cards. Targeted search led to the matching landing page.
+Screened EURAXESS France/computer-science results 1-10 and 21-60 of 83. Read 12
+full vacancies plus one incomplete syndicated listing. Verified all five shown
+roles on employer pages and inspected four application forms; Inria's form
+requires sign-in. No suitable explicit part-time role found. Search was not
+exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-06T08:40:10+01:00 | Dotfile - Senior Fullstack Engineer | https://jobs.ashbyhq.com/dotfile/bb5e660f-3b60-4d72-9e44-986f0850afc5 |
+| 2026-11-06T08:40:10+01:00 | Swile - Senior Data Platform Engineer | https://jobs.lever.co/swile/2883d123-bbd8-4cce-93b3-04b8e387bca8 |
+| 2026-11-06T08:40:10+01:00 | Alan - Product Builder, Mo AI health companion | https://jobs.ashbyhq.com/alan/3c8dfcd2-822e-419e-8c06-1cae00e08aa2 |
+| 2026-11-06T08:40:10+01:00 | Inria - Machine Learning Engineer, DYNASTY | https://jobs.inria.fr/public/classic/en/offres/2026-10601 |
+| 2026-11-06T08:40:10+01:00 | amo - Location Data engineer | https://jobs.ashbyhq.com/amo/6cb7a130-d790-4712-b098-953515c2eb2d |
 | 2026-11-05T08:34:18+01:00 | Brevo - AI Native Product Engineer | https://jobs.lever.co/brevo/13cc40a9-97ed-46e5-a7ac-2e0b1aa99654 |
 | 2026-11-05T08:34:18+01:00 | Click&Boat - Data Product Manager | https://clickboat.teamtailor.com/jobs/8456791-data-product-manager |
 | 2026-11-05T08:34:18+01:00 | Current AI - Product Manager: Partnerships | https://aicurrent.bamboohr.com/careers/38 |
 | 2026-11-05T08:34:18+01:00 | Scaleway - Product Manager, Storage | https://jobs.lever.co/scaleway/12086374-35bc-49e4-9fa3-63b9df97da0b |
 | 2026-11-05T08:34:18+01:00 | Beamy - Applied AI Engineer | https://jobs.lever.co/Beamy/5defdfbe-8ec1-4279-94d7-279c840c2c29 |
-| 2026-11-04T11:17:02+01:00 | Joko - Product Manager, AI Platform | https://www.linkedin.com/jobs/view/4459689758/ |
-| 2026-11-04T11:17:02+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
-| 2026-11-04T11:17:02+01:00 | Modash - Senior Software Engineer, Data Search | https://www.linkedin.com/jobs/view/4474766269/ |
-| 2026-11-04T11:17:02+01:00 | AQEMIA - Senior Data Engineer | https://www.linkedin.com/jobs/view/4480757003/ |
-| 2026-11-04T11:17:02+01:00 | Ledger - Data Scientist & Analytics Engineer | https://www.welcometothejungle.com/en/companies/ledger/jobs/analytics-engineer_paris |
 
 ## find-engagement-opportunities
 
