@@ -4,6 +4,8 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 ## Engagement and Location
 
+- Philip's current agency rate is EUR 90-110 per hour, depending on the amount
+  of commitment.
 - Seek agency project engagements, including subcontracting for other agencies.
   Continue to exclude pure staff augmentation/body leasing and intermediary
   talent pools.
@@ -68,10 +70,15 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   `"Research Data"`, `"Open Data"`, and freelance research/open-data terms. Philip
   likes this direction. Next searches should include substantive research-data
   engineering, consulting, and teaching engagements, not only development roles.
-- Surface genuine teaching and training engagements, including teaching people
+- Keep technical teaching and training as an approved agency-search direction.
+  Include bounded Kubernetes and data-engineering courses, not only development
+  projects.
+  Surface genuine teaching and training engagements, including teaching people
   about AI, and technical consulting. Philip previously taught and enjoyed it.
   Distinguish human education from AI-training-data tasks, output rating, or
   annotation; the latter remain subject to the exclusions below.
+- Georg has extensive university teaching experience with very favourable
+  reviews. He has not previously prepared people for certification exams.
 - Report the exploratory direction, queries, reason for fit, and results
   separately. If nothing qualifies, explain that rather than padding the report.
   Ask whether to keep, refine, or drop the direction for future searches.
