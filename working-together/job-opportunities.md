@@ -25,6 +25,11 @@ job-search preferences, not permanent constraints on every kind of work.
 - Target intermediate and more experienced roles appropriate to Philip's
   professional background. Assess research roles by their responsibilities and
   eligibility, not by industry seniority labels alone.
+- Calibrate product-management seniority separately from overall engineering
+  and research experience. Philip considers Staff-level product roles a stretch
+  given his product experience. Do not make them default shortlist recommendations;
+  prefer roles with a closer match to his demonstrated product responsibilities.
+  Keep unusually relevant Staff product roles clearly labelled as stretch options.
 - Lower-entry roles are also acceptable in data engineering, open data, data
   science, and AI. Do not apply the usual intermediate-plus threshold to these
   tracks. Gaining substantive AI experience for the CV is a positive goal.
@@ -64,6 +69,9 @@ job-search preferences, not permanent constraints on every kind of work.
 - [PayFit - Senior AI Product Engineer](https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer):
   Philip reports that he already applied previously. Do not recommend again
   unless Philip asks to revisit it. The application date and outcome are unknown.
+- [Joko - Lead Product Manager, AI Platform](https://jobs.ashbyhq.com/joko/ad0f0110-4081-4242-9a18-cfcc91a98bde):
+  Philip reports that he applied. Do not recommend again unless Philip asks to
+  revisit it. The application date and outcome are unknown.
 
 ## Application Drafts and Cover Letters
 
