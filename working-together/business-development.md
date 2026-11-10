@@ -4,8 +4,6 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 
 ## Engagement and Location
 
-- Philip's current agency rate is EUR 90-110 per hour, depending on the amount
-  of commitment.
 - Seek agency project engagements, including subcontracting for other agencies.
   Continue to exclude pure staff augmentation/body leasing and intermediary
   talent pools.
