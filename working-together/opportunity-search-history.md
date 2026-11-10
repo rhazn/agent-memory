@@ -67,21 +67,24 @@ User-reported application status, confirmed 2026-11-06:
 
 ## find-job-opportunities
 
-Last run: 2026-11-06T08:40:10+01:00.
-Coverage: Partial. Checked three first LinkedIn result pages covering AI product,
-software/data/AI engineering, and French research/data/part-time terms. Employment
-filters did not persist; verified terms in vacancies instead. Verified Welcome
-to the Jungle permanent/part-time/temporary, Paris, remote and junior-to-senior
-preferences, expanded role titles to personal-job tracks, checked empty new
-matches and ten Seen cards. Targeted search led to the matching landing page.
-Screened EURAXESS France/computer-science results 1-10 and 21-60 of 83. Read 12
-full vacancies plus one incomplete syndicated listing. Verified all five shown
-roles on employer pages and inspected four application forms; Inria's form
-requires sign-in. No suitable explicit part-time role found. Search was not
-exhaustive.
+Last run: 2026-11-10T14:55:46+01:00.
+Coverage: Partial. Screened three first LinkedIn result pages for AI product,
+software/data/AI engineering, and French research/data/part-time terms. LinkedIn
+employment filters did not persist reliably; checked vacancy terms individually.
+Replaced Welcome to the Jungle freelance-only preferences with permanent,
+part-time and temporary employment; verified Paris, all remote arrangements,
+junior-to-senior roles and no salary minimum. Checked empty new matches and ten
+Seen cards. Screened all 82 EURAXESS France/computer-science job offers across
+nine pages. Read eight new full vacancies, plus a known excluded repeat.
+Verified the three shown roles on employer sites and inspected all three forms.
+No suitable confirmed part-time employment found. CDI status and some working
+language requirements remain unconfirmed. Search was not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-10T14:55:46+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
+| 2026-11-10T14:55:46+01:00 | Joko - Lead Product Manager, AI Platform | https://jobs.ashbyhq.com/joko/ad0f0110-4081-4242-9a18-cfcc91a98bde |
+| 2026-11-10T14:55:46+01:00 | Overstory - Staff Product Manager, Machine Learning | https://jobs.ashbyhq.com/overstory/11d1c613-10f4-44a8-8973-44f2f1f710b0 |
 | 2026-11-06T08:40:10+01:00 | Dotfile - Senior Fullstack Engineer | https://jobs.ashbyhq.com/dotfile/bb5e660f-3b60-4d72-9e44-986f0850afc5 |
 | 2026-11-06T08:40:10+01:00 | Swile - Senior Data Platform Engineer | https://jobs.lever.co/swile/2883d123-bbd8-4cce-93b3-04b8e387bca8 |
 | 2026-11-06T08:40:10+01:00 | Alan - Product Builder, Mo AI health companion | https://jobs.ashbyhq.com/alan/3c8dfcd2-822e-419e-8c06-1cae00e08aa2 |
@@ -89,9 +92,6 @@ exhaustive.
 | 2026-11-06T08:40:10+01:00 | amo - Location Data engineer | https://jobs.ashbyhq.com/amo/6cb7a130-d790-4712-b098-953515c2eb2d |
 | 2026-11-05T08:34:18+01:00 | Brevo - AI Native Product Engineer | https://jobs.lever.co/brevo/13cc40a9-97ed-46e5-a7ac-2e0b1aa99654 |
 | 2026-11-05T08:34:18+01:00 | Click&Boat - Data Product Manager | https://clickboat.teamtailor.com/jobs/8456791-data-product-manager |
-| 2026-11-05T08:34:18+01:00 | Current AI - Product Manager: Partnerships | https://aicurrent.bamboohr.com/careers/38 |
-| 2026-11-05T08:34:18+01:00 | Scaleway - Product Manager, Storage | https://jobs.lever.co/scaleway/12086374-35bc-49e4-9fa3-63b9df97da0b |
-| 2026-11-05T08:34:18+01:00 | Beamy - Applied AI Engineer | https://jobs.lever.co/Beamy/5defdfbe-8ec1-4279-94d7-279c840c2c29 |
 
 ## find-engagement-opportunities
 
