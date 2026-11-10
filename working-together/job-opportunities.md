@@ -61,13 +61,18 @@ job-search preferences, not permanent constraints on every kind of work.
 - [Beamy - Applied AI Engineer](https://jobs.lever.co/Beamy/5defdfbe-8ec1-4279-94d7-279c840c2c29):
   Philip reports that the application form requires fluent French. Exclude;
   the absence of this requirement from the vacancy text does not make it suitable.
+- [PayFit - Senior AI Product Engineer](https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer):
+  Philip reports that he already applied previously. Do not recommend again
+  unless Philip asks to revisit it. The application date and outcome are unknown.
 
 ## Application Drafts and Cover Letters
 
 - Inspect the application questions before choosing the draft format. When the
-  employer asks substantive questions, draft answers to those questions instead
-  of a generic cover letter. Follow the exact prompts and word or character
-  limits. Otherwise include a tailored cover-letter draft with each opportunity.
+  employer asks substantive questions, draft answers to those questions. Follow
+  the exact prompts and word or character limits. If the form also includes a
+  cover-letter field, draft a tailored cover letter as well, even if optional.
+  Application questions do not replace a separate cover letter. Otherwise,
+  include a tailored cover-letter draft when there are no substantive questions.
 - The greeting, paragraph structure, and sign-off rules below apply to cover
   letters, not individual application-form answers.
 - Start every cover letter with a greeting. Address the hiring manager by
