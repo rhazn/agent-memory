@@ -11,6 +11,8 @@
   particular priorities. Agree the period and sample with him.
 - CV publication was a valid example to highlight. Philip did not want a change
   for that incident; do not exclude similar evidence from future reviews.
+- End with an explicit message that the review is over. Summarize what was
+  discussed and decided, applied changes, and commit/push status.
 
 ## Latest audit
 
@@ -32,7 +34,8 @@ Applied and synced locally:
 - Corrected stale Pi documentation. Configuration and shared-memory changes were
   committed and pushed. Configuration commit permission was task-specific.
 - Clarified this review skill's personal, cross-project scope after meeting
-  feedback. No new handoff procedure or deployment-verification requirement.
+  feedback and added an explicit completion summary. No new handoff procedure
+  or deployment-verification requirement.
 
 ## Check at the next review
 
