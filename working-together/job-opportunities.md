@@ -49,6 +49,20 @@ job-search preferences, not permanent constraints on every kind of work.
   A2. Distinguish optional French from required French and flag unclear working
   languages, especially for product stakeholder work or teaching duties.
 
+## Salary context and suggested answers
+
+- Read the [Paris salary benchmarks](job-salary-benchmarks.md) when giving
+  feedback on a role's pay or drafting answers to salary-expectation questions.
+  They map agreed job titles and levels to market bands, not a personal valuation.
+- Use them for context only. Never use them to exclude or hide roles, set salary
+  filters, or infer Philip's minimum or stated salary expectations.
+- When suggesting a salary answer, remind Philip of the usual band and its pay
+  basis. Explain why the suggestion sits within or outside that band. Keep the
+  employer's published pay separate from the benchmark and distinguish base,
+  bonus, equity, and total compensation. Do not submit answers.
+- The reference concerns full-time Paris roles, not a change to the standing
+  hours or location preferences. Refresh dated evidence before consequential use.
+
 ## Temporary Employer Constraint
 
 - On 29 October 2026, Philip reported reaching Mistral AI's limit of three
