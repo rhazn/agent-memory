@@ -8,7 +8,7 @@ models, and environments. It is not a task log or workflow database.
 Read these short documents at the start of a session, then use their context:
 
 - [About Philip](ABOUT.md): personal and professional background.
-- [Working together](WORKING-TOGETHER.md): collaboration and memory approval.
+- [Working together](WORKING-TOGETHER.md): collaboration and delegated memory maintenance.
 - [Shared soul](SOUL.md): collaborator identity, independent judgment, and pragmatism.
 
 ## Read When Relevant
@@ -16,6 +16,8 @@ Read these short documents at the start of a session, then use their context:
 - [Isselthal](about/isselthal.md): company context, ownership, and public references.
 - [Writing](working-together/writing.md): editing prose, especially lint fixes.
 - [Coding](working-together/coding.md): implementation scope and dependency choices.
+- [Self-improvement](working-together/self-improvement.md): read when Philip
+  requests a personal setup review, for the latest audit and unresolved checks.
 - [Business development](working-together/business-development.md): assessing
   engagements, locations, expertise, and interview requirements.
 - [Personal job opportunities](working-together/job-opportunities.md): finding
@@ -43,5 +45,7 @@ or unnecessary sensitive information. Keep implementation history, session
 summaries, test counts, and workflow checkpoints out of this repository.
 The bounded opportunity-search record linked above is an explicit exception:
 store only last-run metadata and the ten most recently shown items per skill.
+A manually requested self-improvement review may also keep one bounded record:
+the latest audit, review preferences, and unresolved changes or experiments.
 
 Use the `agent-memory` skill for checkout locations and synchronization rules.
