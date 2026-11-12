@@ -45,8 +45,17 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - For Philip individually, regular office attendance is acceptable only in Paris.
 - For an Isselthal partnership with Georg Schwarz, Nuremberg (Nürnberg) is also
   acceptable. Georg is a collaborator, not a co-owner.
-- Fully remote engagements are acceptable. Travel elsewhere is acceptable only
-  for initial setup or another exceptional event, at most once per year.
+- Fully remote engagements are acceptable. Philip can also make regular short
+  trips from Paris to nearby destinations, including London, for client meetings.
+  Do not exclude UK clients by default or apply the once-per-year travel limit
+  to these meetings. Distinguish meetings from performing contracted work or
+  delivering training in the UK; check the actual delivery and legal requirements
+  rather than assuming all business travel permits the same activities.
+- For workshops, favor in-person delivery in Paris, remote delivery, or short
+  trips near Paris, including London where the activity is permitted. This is not
+  permission to assume regular overseas office attendance or unrestricted
+  in-person UK delivery. For other destinations, retain the exceptional-travel
+  limit of initial setup or another exceptional event, at most once per year.
 
 ## Search Directions
 
@@ -56,6 +65,10 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Candidate directions include technical consulting, open-source software
   evaluation, data engineering or data science, and research engagements. These
   are options to test, not a requirement to search all of them each time.
+- Include software-engineering consulting, technical product-management
+  consulting, and research-to-startup or research-to-technology consulting.
+  Philip explicitly confirms these capabilities. Do not narrow the search to
+  implementation or teaching engagements.
 - Keep technical evaluation and architecture assessment as an approved search
   direction. Focus on engineering judgment, architecture, robustness, and
   technical validation, not legal or compliance-led consulting. Initial searches
@@ -77,15 +90,16 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   annotation; the latter remain subject to the exclusions below.
 - Georg has extensive university teaching experience with very favourable
   reviews. He has not previously prepared people for certification exams.
-- Within the approved teaching direction, tested practical AI-tool and workflow
-  workshops. Queries included `(Dozent OR Trainer OR Workshop) AND (KI OR LLM
+- Keep practical AI-tool and automation workshops as an explicitly approved
+  secondary direction, not the main agency focus. Philip values the independent,
+  project-based workshop delivery model. Queries included
+  `(Dozent OR Trainer OR Workshop) AND (KI OR LLM
   OR Softwareentwicklung)` on Freelancermap and `freelance AI coding trainer
-  workshop remote Europe` on LinkedIn. Some briefs offer genuine session-based
-  delivery, but language, UK-only delivery, specialist Microsoft experience,
-  marketing expertise, and certification requirements limited fit. No feedback
-  on this refinement yet. Next approach: seek English/German engineering-led
-  workshops that accept delivery from France or Germany, rather than generic
-  AI-trainer searches dominated by model-rating work.
+  workshop remote Europe` on LinkedIn. Next approach: seek English/German
+  engineering-led workshops with remote or Paris-area delivery and check nearby
+  travel options individually. UK-only performance requirements and Portuguese
+  fluency were valid blockers, not reasons to reject the workshop direction.
+  Avoid generic AI-trainer searches dominated by model-rating work.
 - Report the exploratory direction, queries, reason for fit, and results
   separately. If nothing qualifies, explain that rather than padding the report.
   Ask whether to keep, refine, or drop the direction for future searches.
@@ -110,6 +124,17 @@ Read this when finding or assessing engagements for Philip or Isselthal.
 - Favor product-focused software engineering and qualitative or quantitative
   software-engineering research. Do not recommend roles requiring strong
   algorithmic-theory or C++ expertise.
+- Philip is not a visual designer and has not built design systems. Exclude
+  design-system creation, detailed visual-design work, and pixel-perfect
+  implementation of screenshots or designs from external tools. This is a
+  capability mismatch, not merely a missing-reference caveat. UX work on how a
+  product is used and feels is suitable, as is general website/product delivery
+  where he can choose an attractive appearance rather than reproduce an exact
+  visual specification.
+- Assess course preparation as well as paid teaching hours. A bounded, attractive
+  teaching setup can still be unsuitable when creating or preparing the course
+  requires too much time. Georg has declined a certification course for this
+  reason; do not infer that he rejects teaching generally.
 - Exclude Windows-focused work, including Windows Server/IIS migrations. Philip
   does not want to work with Windows; relevant migration expertise is also absent.
 - Exclude low-level server administration, distribution-specific Linux management,
