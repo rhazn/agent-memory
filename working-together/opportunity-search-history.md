@@ -95,16 +95,20 @@ language requirements remain unconfirmed. Search was not exhaustive.
 
 ## find-engagement-opportunities
 
-Last run: 2026-11-06T08:45:14+01:00.
-Coverage: Partial. Screened 64 post results across eleven queries with the past-week
-filter, covering software operations, data engineering, laboratory workflows,
-esports software/data/AI, and exploratory European open-source rollout/adoption.
-Read five direct post threads, four author profiles and one company activity page.
-Returned five opportunities. The exploratory direction produced no strong match;
-results were mainly announcements or promotional posts. Searches were not exhaustive.
+Last run: 2026-11-12T10:01:22+01:00.
+Coverage: Partial. Screened 54 post-result cards across nine queries with the
+past-week filter, covering software operations, data engineering, laboratory
+workflows, esports software/data/AI, and exploratory parking/mobility data
+integration. Read three direct post threads, three author profiles and one linked
+article. Returned three opportunities, including a newer migration account found
+through an author's profile. No strong esports or exploratory parking match.
+Searches were not exhaustive.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-12T10:01:22+01:00 | PHABIOC - Automation exposes manual workflow adjustments | https://www.linkedin.com/feed/update/urn:li:activity:7525869914562207744/ |
+| 2026-11-12T10:01:22+01:00 | ClearFeed - Self-hosted agent investigates production alerts | https://www.linkedin.com/feed/update/urn:li:activity:7524399250961666048/ |
+| 2026-11-12T10:01:22+01:00 | Nordstrom - Pipeline migration exposes silent errors and short vendor retention | https://www.linkedin.com/feed/update/urn:li:activity:7525683040375885824/ |
 | 2026-11-06T08:45:14+01:00 | Arabhardware - Live fantasy league built in one week | https://www.linkedin.com/posts/mirnaihab_ahwesports-pubgmobile-pmgo2026-ugcPost-7523777821224194048-V-Dn/ |
 | 2026-11-06T08:45:14+01:00 | LabMODO - Tracking method detection limits | https://www.linkedin.com/posts/michaelgaumer_lab-managers-and-qa-professionals-how-are-share-7523435188966662146-ysPK/ |
 | 2026-11-06T08:45:14+01:00 | Wolters Kluwer - Technical debt with AI-assisted development | https://www.linkedin.com/posts/morettilorenzo_safe-agenticai-safe-ugcPost-7523631166806016000-ph19/ |
