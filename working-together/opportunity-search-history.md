@@ -76,8 +76,7 @@ filters did not persist reliably; checked vacancy terms individually. Welcome
 to the Jungle's shared preferences changed during the search, limiting coverage.
 Screened all 80 EURAXESS France/computer-science job offers across eight pages.
 Read seven full vacancies and three accessible application forms. Inria's Apply
-link stopped at a login gate; the search did not pause for login. Future searches
-must follow the skill's authentication preflight and stop-and-wait rule.
+link stopped at a login gate, so its application questions were not inspected.
 No confirmed part-time recommendation. Search was not exhaustive. This record
 was saved after the report because that turn was read-only.
 

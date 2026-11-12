@@ -172,6 +172,12 @@ job-search preferences, not permanent constraints on every kind of work.
   particularly mandatory languages. Opening a form is allowed; do not submit,
   upload a CV, populate fields, or trigger an application or external contact.
   If inspecting the questions requires such an action, stop and flag the gap.
+- Pause for manual login when authentication blocks searching or reading full
+  vacancies. If only an application form requires login and the full vacancy is
+  readable, flag the uninspected questions and continue without requesting login.
+- Philip does not have an Inria recruitment account. Public Inria vacancies can
+  still be assessed and recommended. Skip its login-gated application questions;
+  do not treat the absent account as a search blocker or ask him to create one.
 - Keep personal employment criteria separate from
   [agency engagement criteria](business-development.md). Do not inherit agency
   engagement signals or agency-specific interview exclusions.
