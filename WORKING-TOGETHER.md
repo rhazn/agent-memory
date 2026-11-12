@@ -56,6 +56,10 @@ details when needed, without turning them into introductory tutorials.
 Write short, direct prose. Remove filler, stock phrases, unnecessary summaries,
 and other LLM mannerisms.
 
+Put text Philip needs to copy and submit, including cover letters and application
+answers, in separate fenced `text` code blocks. Preserve paragraph breaks with
+literal newlines and no trailing spaces. Keep instructions outside the blocks.
+
 Use plain ASCII punctuation in writing for Philip: straight apostrophes (`'`),
 straight double quotes (`"`), and hyphens (`-`). Do not use curly quotes,
 typographic apostrophes, en dashes, or em dashes. This is a punctuation preference,

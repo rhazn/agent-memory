@@ -37,7 +37,10 @@ job-search preferences, not permanent constraints on every kind of work.
   inference: they build on Philip's product experience while adding substantive
   AI experience to his CV. Keep the other role tracks in the search.
 - Prefer opportunities where the PhD opens doors or provides a meaningful
-  advantage. It is not a requirement for every suitable role.
+  advantage. A hands-on technical/product engineering role with substantive AI
+  exposure and an explicit PhD requirement is an especially strong fit. The
+  application domain need not itself be a major personal interest. A PhD is not
+  a requirement for every suitable role.
 - Exclude community-building, developer relations, sales, sales-adjacent work,
   and outbound outreach responsibilities. Philip prefers limited interaction
   rather than responsibility for cultivating a community or partner pipeline.
@@ -86,6 +89,12 @@ job-search preferences, not permanent constraints on every kind of work.
 - [Joko - Lead Product Manager, AI Platform](https://jobs.ashbyhq.com/joko/ad0f0110-4081-4242-9a18-cfcc91a98bde):
   Philip reports that he applied. Do not recommend again unless Philip asks to
   revisit it. The application date and outcome are unknown.
+- [Akur8 - Product Engineer](https://jobs.ashbyhq.com/akur8/bd289e12-03cd-4fc2-96ec-698adc490b3a):
+  Philip reports that he applied, confirmed 12 November 2026. Do not recommend
+  again unless he asks to revisit it. The outcome is unknown.
+- [Cozycozy - AI Product Builder](https://jobs.cozycozy.com/o/ai-product-builder):
+  Philip reports that he applied, confirmed 12 November 2026. Do not recommend
+  again unless he asks to revisit it. The outcome is unknown.
 
 ## Application Drafts and Cover Letters
 
@@ -103,7 +112,12 @@ job-search preferences, not permanent constraints on every kind of work.
 - Use basic, colloquial language rather than formal application boilerplate.
   Aim for three to four short body paragraphs, with room to develop the motivation
   rather than compress it into a brief opening. Add substance, not filler.
-- End every draft with "Best," followed by "Philip Heltweg" on the next line.
+- End every cover letter with "Best," followed by "Philip Heltweg" on the next
+  line. Use a literal newline, not two trailing spaces or other Markdown
+  hard-break syntax.
+- Put each cover letter and every other submission-ready answer in a separate
+  fenced `text` code block so copying from the console preserves newlines. Keep
+  prompts, caveats, and other commentary outside the blocks.
 - Focus on why this specific company and vacancy interest Philip: what excites
   him, why he wants this work, and how it connects to his interests and background.
   Mention verified experience where it explains that motivation and hints at fit.
@@ -111,8 +125,10 @@ job-search preferences, not permanent constraints on every kind of work.
   the motivation in the actual vacancy; do not invent a history of admiring a company.
 - Explain why he is interested. For part-time opportunities, say that he likes
   to be flexible. Do not imply that a full-time vacancy offers part-time work.
-- Mention Paris and international-team fit when useful. Do not routinely
-  highlight limited French when French is not required.
+- Omit standalone statements such as "I'm based in Paris." Mention location only
+  when it adds a substantive reason or answers a requirement; do not append it
+  as a generic closing sentence. Mention international-team fit when useful.
+  Do not routinely highlight limited French when French is not required.
 - Ask for feedback on the drafts as well as the opportunities. Improve reusable
   guidance here through the same memory-learning process.
 
@@ -126,7 +142,9 @@ job-search preferences, not permanent constraints on every kind of work.
 - Surface published pay bands directly in each opportunity's summary. Include
   the currency and pay period, and distinguish full-time-equivalent pay from
   actual part-time pay. State when pay is not published; do not invent a range.
-- Retrieve current CV evidence through [Philip's background](../ABOUT.md).
+- Retrieve current CV evidence through [Philip's background](../ABOUT.md). Also
+  read [applied AI projects](../about/ai-projects.md) when assessing AI roles or
+  drafting project examples; user-confirmed work need not already be public.
   Do not invent expertise, salary expectations, availability, or eligibility.
 - Philip's Java experience is older, and he has no GPU-scale infrastructure
   experience. Do not treat these as current strengths.

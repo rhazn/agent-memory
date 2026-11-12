@@ -15,3 +15,5 @@
 - [Georg's CV](https://georg-schwarz.com/cv/)
 
 Consult the relevant public references before making experience-specific claims.
+For user-confirmed work not yet published, read [applied AI projects](ai-projects.md),
+including the laboratory-report extraction product and its reported time savings.

@@ -14,6 +14,8 @@ Read these short documents at the start of a session, then use their context:
 ## Read When Relevant
 
 - [Isselthal](about/isselthal.md): company context, ownership, and public references.
+- [Applied AI projects](about/ai-projects.md): user-confirmed implementation,
+  evaluation, and impact evidence for AI roles and application examples.
 - [Writing](working-together/writing.md): editing prose, especially lint fixes.
 - [Coding](working-together/coding.md): implementation scope and dependency choices.
 - [Self-improvement](working-together/self-improvement.md): read when Philip

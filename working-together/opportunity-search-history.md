@@ -69,21 +69,23 @@ User-reported application status, confirmed 2026-11-06:
 
 ## find-job-opportunities
 
-Last run: 2026-11-10T14:55:46+01:00.
+Last run: 2026-11-12 (exact run timestamp not recorded).
 Coverage: Partial. Screened three first LinkedIn result pages for AI product,
 software/data/AI engineering, and French research/data/part-time terms. LinkedIn
-employment filters did not persist reliably; checked vacancy terms individually.
-Replaced Welcome to the Jungle freelance-only preferences with permanent,
-part-time and temporary employment; verified Paris, all remote arrangements,
-junior-to-senior roles and no salary minimum. Checked empty new matches and ten
-Seen cards. Screened all 82 EURAXESS France/computer-science job offers across
-nine pages. Read eight new full vacancies, plus a known excluded repeat.
-Verified the three shown roles on employer sites and inspected all three forms.
-No suitable confirmed part-time employment found. CDI status and some working
-language requirements remain unconfirmed. Search was not exhaustive.
+filters did not persist reliably; checked vacancy terms individually. Welcome
+to the Jungle's shared preferences changed during the search, limiting coverage.
+Screened all 80 EURAXESS France/computer-science job offers across eight pages.
+Read seven full vacancies and three accessible application forms. Inria's Apply
+link stopped at a login gate; the search did not pause for login. Future searches
+must follow the skill's authentication preflight and stop-and-wait rule.
+No confirmed part-time recommendation. Search was not exhaustive. This record
+was saved after the report because that turn was read-only.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-12 (exact time not recorded) | Akur8 - Product Engineer | https://jobs.ashbyhq.com/akur8/bd289e12-03cd-4fc2-96ec-698adc490b3a |
+| 2026-11-12 (exact time not recorded) | Cozycozy - AI Product Builder | https://jobs.cozycozy.com/o/ai-product-builder |
+| 2026-11-12 (exact time not recorded) | Inria WILLOW - Research engineer, perspective-grounded spatial reasoning | https://recrutement.inria.fr/public/classic/en/offres/2026-10630 |
 | 2026-11-10T14:55:46+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
 | 2026-11-10T14:55:46+01:00 | Joko - Lead Product Manager, AI Platform | https://jobs.ashbyhq.com/joko/ad0f0110-4081-4242-9a18-cfcc91a98bde |
 | 2026-11-10T14:55:46+01:00 | Overstory - Staff Product Manager, Machine Learning | https://jobs.ashbyhq.com/overstory/11d1c613-10f4-44a8-8973-44f2f1f710b0 |
@@ -91,9 +93,6 @@ language requirements remain unconfirmed. Search was not exhaustive.
 | 2026-11-06T08:40:10+01:00 | Swile - Senior Data Platform Engineer | https://jobs.lever.co/swile/2883d123-bbd8-4cce-93b3-04b8e387bca8 |
 | 2026-11-06T08:40:10+01:00 | Alan - Product Builder, Mo AI health companion | https://jobs.ashbyhq.com/alan/3c8dfcd2-822e-419e-8c06-1cae00e08aa2 |
 | 2026-11-06T08:40:10+01:00 | Inria - Machine Learning Engineer, DYNASTY | https://jobs.inria.fr/public/classic/en/offres/2026-10601 |
-| 2026-11-06T08:40:10+01:00 | amo - Location Data engineer | https://jobs.ashbyhq.com/amo/6cb7a130-d790-4712-b098-953515c2eb2d |
-| 2026-11-05T08:34:18+01:00 | Brevo - AI Native Product Engineer | https://jobs.lever.co/brevo/13cc40a9-97ed-46e5-a7ac-2e0b1aa99654 |
-| 2026-11-05T08:34:18+01:00 | Click&Boat - Data Product Manager | https://clickboat.teamtailor.com/jobs/8456791-data-product-manager |
 
 ## find-engagement-opportunities
 
