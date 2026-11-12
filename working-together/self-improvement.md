@@ -44,3 +44,11 @@ Check whether useful coding and collaboration lessons reach shared memory withou
 approval prompts, writing omits needless caveats, and agents investigate the real
 goal when context matters without questioning every straightforward task.
 Assess the current programming and testing guidance before adding more procedure.
+
+Review sentence cadence in agent-written prose. Philip flagged paragraphs made
+of uniformly short sentences as choppy and repetitive. Investigate whether the
+writing skills' short-sentence guidance and responses to Vale alerts encourage
+this pattern. Discuss varying sentence length and preserving connected reasoning
+within sentences and paragraphs before changing the shared writing skill.
+Look for prose fixes that preserve rhythm while removing formulaic transitions
+and unnecessary three-part lists, rather than defaulting to lint exceptions.
