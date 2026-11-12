@@ -77,6 +77,15 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   annotation; the latter remain subject to the exclusions below.
 - Georg has extensive university teaching experience with very favourable
   reviews. He has not previously prepared people for certification exams.
+- Within the approved teaching direction, tested practical AI-tool and workflow
+  workshops. Queries included `(Dozent OR Trainer OR Workshop) AND (KI OR LLM
+  OR Softwareentwicklung)` on Freelancermap and `freelance AI coding trainer
+  workshop remote Europe` on LinkedIn. Some briefs offer genuine session-based
+  delivery, but language, UK-only delivery, specialist Microsoft experience,
+  marketing expertise, and certification requirements limited fit. No feedback
+  on this refinement yet. Next approach: seek English/German engineering-led
+  workshops that accept delivery from France or Germany, rather than generic
+  AI-trainer searches dominated by model-rating work.
 - Report the exploratory direction, queries, reason for fit, and results
   separately. If nothing qualifies, explain that rather than padding the report.
   Ask whether to keep, refine, or drop the direction for future searches.

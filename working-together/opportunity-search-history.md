@@ -37,14 +37,16 @@ learnings in their existing domain files, not here.
 
 ## find-agency-opportunities
 
-Last run: 2026-11-06 (exact run timestamp not recorded).
-Coverage: Partial. Checked Welcome to the Jungle's freelance preferences, empty
-new matches and all three Seen pages (28 cards). Screened all five pages of the
-Freelancermap direct-client remote software search and all four pages of a
-delivery-model query. Checked LinkedIn software-delivery and architecture
-searches, plus research/open-data queries on Freelancermap and LinkedIn.
-Read 32 full listings across the three sources. Returned two prospects and three
-non-recommended leads. Search was not exhaustive.
+Last run: 2026-11-12T10:02:04+01:00.
+Coverage: Partial. Set and verified Welcome to the Jungle freelance-only
+preferences with Paris and broad remote/experience options. Checked empty new
+matches and all three Seen pages (24 cards); read eight freelance listings.
+Screened both pages of the Freelancermap direct-client software search, all four
+pages of the delivery-model query, and one AI-teaching query (17 results).
+Read 14 full Freelancermap listings. Verified LinkedIn remote/contract filters
+and screened first result pages for project delivery and AI-tool training;
+read six full listings. No application recommendations; four near-misses shown.
+Search was not exhaustive. No applications or messages sent.
 
 User-reported application status, confirmed 2026-11-06:
 - Fiedler Consulting, ElevenLabs training portal: Philip applied.
@@ -54,16 +56,16 @@ User-reported application status, confirmed 2026-11-06:
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-12T10:02:04+01:00 | Digital Career Institute - Kubernetes CKA training | https://www.freelancermap.de/projekt/kubernetes-cka-dozent-trainer-freelance-100-prozent-remote |
+| 2026-11-12T10:02:04+01:00 | Verlag J. Maiss - Cross-product design system | https://www.freelancermap.de/projekt/ui-ux-designer-in-fuer-produktuebergreifendes-design-system-web-ios-android-windows-macos |
+| 2026-11-12T10:02:04+01:00 | Cambridge Spark - GenAI and automation delivery consultant | https://www.linkedin.com/jobs/view/4424862176/ |
+| 2026-11-12T10:02:04+01:00 | Komodo Consulting - AI tools trainer | https://www.linkedin.com/jobs/view/4485116355/ |
 | 2026-11-06 (exact time not recorded) | Fiedler Consulting - ElevenLabs training portal | https://www.freelancermap.de/projekt/web-portal-um-fertige-elevenlabs-sprachagenten-festpreis-je-baustein |
 | 2026-11-06 (exact time not recorded) | usd AG - AI-enabled Security Intelligence PoC | https://www.freelancermap.de/projekt/proof-of-concept-for-an-ai-enabled-security-intelligence-platform |
 | 2026-11-06 (exact time not recorded) | COS GmbH - Fleet-management software work packages | https://www.freelancermap.de/projekt/freelancer-fuer-zuarbeiten-an-fuhrparkverwaltungs-software-gesucht |
 | 2026-11-06 (exact time not recorded) | MAVI - Agency tooling and AI-agent setup | https://www.freelancermap.de/projekt/agentur-setup-fuer-vibe-coder-llm-erstellen |
 | 2026-11-06 (exact time not recorded) | INTRIK - Prototype-to-production work packages | https://www.linkedin.com/jobs/view/4485352871/ |
 | 2026-11-05T08:33:39+01:00 | DEK Telecom - Central Linux-management platform | https://www.freelancermap.de/projekt/konzeption-und-implementierung-einer-zentralen-linux-management-plattform-suse-umgebung |
-| 2026-11-05T08:33:39+01:00 | Skapa Agency - Agentic SDLC platform validation | https://www.linkedin.com/jobs/view/4485747758/ |
-| 2026-11-05T08:33:39+01:00 | amnia digital - API integration and AI development workflows | https://www.freelancermap.de/projekt/backend-entwickler-fuer-api-anbindung-und-ki-integration-gesucht |
-| 2026-11-05T08:33:39+01:00 | Ticket Tickers - Ticketing platform work packages | https://www.freelancermap.de/projekt/senior-full-stack-entwickler-in-next-js-supabase-stripe-ticketing-plattform-teilzeit-remote |
-| 2026-11-05T08:33:39+01:00 | Simon - SaaS marketing and outbound automation | https://www.freelancermap.de/projekt/automation-gtm-engineer-n8n-clay-llm-apis-komplettes-marketing-und-outbound-system-fuer-b2b-saas |
 
 ## find-job-opportunities
 
