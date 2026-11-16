@@ -16,7 +16,7 @@ Read these short documents at the start of a session, then use their context:
 - [Isselthal](about/isselthal.md): company context, ownership, and public references.
 - [Applied AI projects](about/ai-projects.md): user-confirmed implementation,
   evaluation, and impact evidence for AI roles and application examples.
-- [Writing](working-together/writing.md): editing prose, especially lint fixes.
+- [Writing](working-together/writing.md): prose rhythm, voice preservation, and lint fixes.
 - [Coding](working-together/coding.md): implementation scope and dependency choices.
 - [Self-improvement](working-together/self-improvement.md): read when Philip
   requests a personal setup review, for the latest audit and unresolved checks.
