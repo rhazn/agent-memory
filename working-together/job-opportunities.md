@@ -25,11 +25,17 @@ job-search preferences, not permanent constraints on every kind of work.
 - Target intermediate and more experienced roles appropriate to Philip's
   professional background. Assess research roles by their responsibilities and
   eligibility, not by industry seniority labels alone.
+- For senior and higher industry roles, require clear evidence of the specific
+  experience the role needs. General engineering seniority does not compensate
+  for missing specialist experience, such as production search and retrieval.
+  Omit doubtful senior-plus matches rather than recommending them as stretches.
+  Mid-level roles with learning opportunities remain welcome.
 - Calibrate product-management seniority separately from overall engineering
   and research experience. Philip considers Staff-level product roles a stretch
   given his product experience. Do not make them default shortlist recommendations;
   prefer roles with a closer match to his demonstrated product responsibilities.
-  Keep unusually relevant Staff product roles clearly labelled as stretch options.
+  Consider unusually relevant Staff product roles only when the required
+  experience is clearly supported.
 - Lower-entry roles are also acceptable in data engineering, open data, data
   science, and AI. Do not apply the usual intermediate-plus threshold to these
   tracks. Gaining substantive AI experience for the CV is a positive goal.
@@ -41,6 +47,9 @@ job-search preferences, not permanent constraints on every kind of work.
   exposure and an explicit PhD requirement is an especially strong fit. The
   application domain need not itself be a major personal interest. A PhD is not
   a requirement for every suitable role.
+- Give extra weight to startup roles that combine hands-on engineering with
+  research, especially local Paris roles with explicit English-only compatibility.
+  This is a positive preference, not an exclusion of the other role tracks.
 - Exclude community-building, developer relations, sales, sales-adjacent work,
   and outbound outreach responsibilities. Philip prefers limited interaction
   rather than responsibility for cultivating a community or partner pipeline.
@@ -51,6 +60,12 @@ job-search preferences, not permanent constraints on every kind of work.
   Exclude mandatory French fluency or another explicitly required level above
   A2. Distinguish optional French from required French and flag unclear working
   languages, especially for product stakeholder work or teaching duties.
+- Deprioritize French-language listings that involve interviews, discovery, or
+  other substantive interaction with customers, users, or stakeholders outside
+  the hiring team/company unless they explicitly establish English compatibility.
+  Assume these interactions need French when the listing gives no contrary
+  evidence. Internal engineering teamwork can remain plausible in English;
+  interaction with outside people cannot rely on that assumption.
 
 ## Salary context and suggested answers
 
@@ -95,6 +110,15 @@ job-search preferences, not permanent constraints on every kind of work.
 - [Cozycozy - AI Product Builder](https://jobs.cozycozy.com/o/ai-product-builder):
   Philip reports that he applied, confirmed 12 November 2026. Do not recommend
   again unless he asks to revisit it. The outcome is unknown.
+- [Armature - Founding Engineer, Applied AI Research](https://www.ycombinator.com/companies/armature/jobs/Coplfpy-founding-engineer-applied-ai-research):
+  Philip reports having applied, confirmed 16 November 2026. Do not recommend again
+  unless he asks to revisit it. The exact application date and outcome are unknown.
+- [Modash - Senior Software Engineer, Data Search](https://apply.workable.com/modash/j/5761CCE8F8/):
+  Philip reports having applied, confirmed 16 November 2026. Do not recommend again
+  unless he asks to revisit it. The exact application date and outcome are unknown.
+- [Mozza - Tech Builder, AI Software Engineer](https://www.welcometothejungle.com/fr/companies/mozza-1/jobs/tech-lead-full-stack-genai_paris_MOZZA_RKxoxVo):
+  Philip reports having applied, confirmed 16 November 2026. Do not recommend again
+  unless he asks to revisit it. The exact application date and outcome are unknown.
 
 ## Application Drafts and Cover Letters
 
@@ -110,8 +134,9 @@ job-search preferences, not permanent constraints on every kind of work.
   verified name when available; otherwise address the team.
 - Use the job listing's language, except use English for French-language jobs.
 - Use basic, colloquial language rather than formal application boilerplate.
-  Aim for three to four short body paragraphs, with room to develop the motivation
-  rather than compress it into a brief opening. Add substance, not filler.
+  For industry roles, write somewhat longer letters with three to four developed
+  body paragraphs. Give motivation and relevant experience enough room rather
+  than compressing them into a few brief statements. Add substance, not filler.
 - End every cover letter with "Best," followed by "Philip Heltweg" on the next
   line. Use a literal newline, not two trailing spaces or other Markdown
   hard-break syntax.
@@ -123,6 +148,14 @@ job-search preferences, not permanent constraints on every kind of work.
   Mention verified experience where it explains that motivation and hints at fit.
   Do not recap the CV or make proving his qualifications the main purpose. Ground
   the motivation in the actual vacancy; do not invent a history of admiring a company.
+- For industry roles, lead with industry software engineering and technical
+  product management, including work within and across technical teams. Emphasize
+  the PhD itself only when it directly supports the role. Show that the research
+  years continued his hands-on engineering: he worked at the university's
+  open-source chair, developed software with student teams, and led a team through
+  his Software Campus grant. Do not frame those years as a break from programming
+  or imply that his current technical experience comes only from industry work
+  before the PhD. Connect this evidence to the vacancy rather than listing his CV.
 - Explain why he is interested. For part-time opportunities, say that he likes
   to be flexible. Do not imply that a full-time vacancy offers part-time work.
 - Omit standalone statements such as "I'm based in Paris." Mention location only
