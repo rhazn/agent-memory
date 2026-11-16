@@ -96,17 +96,20 @@ mode ended.
 
 ## find-engagement-opportunities
 
-Last run: 2026-11-12T10:01:22+01:00.
-Coverage: Partial. Screened 54 post-result cards across nine queries with the
-past-week filter, covering software operations, data engineering, laboratory
-workflows, esports software/data/AI, and exploratory parking/mobility data
-integration. Read three direct post threads, three author profiles and one linked
-article. Returned three opportunities, including a newer migration account found
-through an author's profile. No strong esports or exploratory parking match.
-Searches were not exhaustive.
+Last run: 2026-11-16 (exact run timestamp not recorded).
+Coverage: Partial. Screened 66 result cards across 12 searches with the past-week
+filter, covering software operations, data pipelines, laboratory workflows,
+esports, vendor dependence, founder workflows and parking occupancy. Read three
+direct posts, relevant author activity, a linked simulator article and the esports
+data signup terms. LinkedIn failed to load comments, so the three suggestions were
+explicitly provisional. Philip reports commenting on all three. Search was not
+exhaustive. This record was saved after read-only mode ended.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-16 (exact time not recorded) | Equipment manual becomes a training simulator | https://www.linkedin.com/feed/update/urn:li:activity:7527665344954408960/ |
+| 2026-11-16 (exact time not recorded) | GRID esports - Official Riot match data open access | https://www.linkedin.com/feed/update/urn:li:activity:7526678934999142400/ |
+| 2026-11-16 (exact time not recorded) | Property occupancy growth and reserved parking | https://www.linkedin.com/feed/update/urn:li:activity:7525542839603113984/ |
 | 2026-11-12T10:01:22+01:00 | PHABIOC - Automation exposes manual workflow adjustments | https://www.linkedin.com/feed/update/urn:li:activity:7525869914562207744/ |
 | 2026-11-12T10:01:22+01:00 | ClearFeed - Self-hosted agent investigates production alerts | https://www.linkedin.com/feed/update/urn:li:activity:7524399250961666048/ |
 | 2026-11-12T10:01:22+01:00 | Nordstrom - Pipeline migration exposes silent errors and short vendor retention | https://www.linkedin.com/feed/update/urn:li:activity:7525683040375885824/ |
@@ -114,6 +117,3 @@ Searches were not exhaustive.
 | 2026-11-06T08:45:14+01:00 | LabMODO - Tracking method detection limits | https://www.linkedin.com/posts/michaelgaumer_lab-managers-and-qa-professionals-how-are-share-7523435188966662146-ysPK/ |
 | 2026-11-06T08:45:14+01:00 | Wolters Kluwer - Technical debt with AI-assisted development | https://www.linkedin.com/posts/morettilorenzo_safe-agenticai-safe-ugcPost-7523631166806016000-ph19/ |
 | 2026-11-06T08:45:14+01:00 | Benchmark Scientific - Simulation and instrument APIs for lab automation | https://www.linkedin.com/posts/labautomation-robotics-accurisinstruments-ugcPost-7523417674270584832-zTPH/ |
-| 2026-11-06T08:45:14+01:00 | Smash Bros analytics - AI-assisted building and learning | https://www.linkedin.com/posts/jsavaryn_i-vibe-coded-my-first-project-it-was-really-share-7522290767143526402-NVHK/ |
-| 2026-11-03T10:01:50+01:00 | Process workarounds - Bitte nicht noch ein Flussdiagramm | https://www.linkedin.com/posts/florian-fink-25912a17a_bitte-nicht-noch-ein-flussdiagramm-das-share-7523285849271259136-22rh/ |
-| 2026-11-03T10:01:50+01:00 | AI due diligence beyond the demo | https://www.linkedin.com/posts/hugo-carreira-31b18a29_ai-duediligence-privateequity-share-7522693726809530368-kMgv/ |
