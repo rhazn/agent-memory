@@ -42,6 +42,12 @@ Applied and synced locally:
 
 ## Check at the next review
 
+Budget-agent experiment: check whether Philip remembered to request the named
+`budget` subagent, whether that was easier than manual model switching, and how
+GLM-5.3 max performed on the delegated work. Look for bugs, parent review/rework,
+and quota blockers. It has no automatic Luna fallback. Do not infer success from
+configuration alone or add automatic delegation without discussion.
+
 These changes are applied, but their effect across later sessions is not yet known.
 Check whether useful coding and collaboration lessons reach shared memory without
 approval prompts, writing omits needless caveats, and agents investigate the real
