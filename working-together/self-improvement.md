@@ -16,6 +16,10 @@
 - Explicitly review and consolidate shared memory each time, including what
   belongs in `SOUL.md` and `WORKING-TOGETHER.md`. Move important durable lessons
   to their appropriate home without forcing core-document changes at every review.
+- Starting with the next review, make memory consolidation a feedback discussion:
+  read the memory, describe the high-level impression it gives of Philip and how
+  to work with him, then invite his corrections before adapting the memory.
+  Review the resulting understanding, not just file organization.
 
 ## Latest audit
 
@@ -41,6 +45,14 @@ Applied and synced locally:
   or deployment-verification requirement.
 
 ## Check at the next review
+
+Discuss context load from memory retrieval, skill loading, and shared instructions.
+Philip worries that routine tasks read too much, but excess or harm is not yet
+established. Inspect representative task starts and what guidance was actually
+loaded before proposing guardrails. Discuss progressive disclosure, a short
+baseline, selective deeper retrieval, and regular shortening, consolidation, and
+deletion. Assess whether the existing structure achieves that goal. This is an
+agenda item for the next review, not authorization to redesign retrieval now.
 
 Budget-agent experiment: check whether Philip remembered to request the named
 `budget` subagent, whether that was easier than manual model switching, and how
