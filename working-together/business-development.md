@@ -76,6 +76,9 @@ Read this when finding or assessing engagements for Philip or Isselthal.
   assessment/audit terms on LinkedIn. The direction fits Philip's interests;
   next searches should seek engineering-led assessments that can be delivered
   in German or English, including startup and small-company engagements.
+- Do not use AI-platform validation as an agency-search direction. Philip
+  explicitly rejected this experiment. This does not remove the separately
+  approved general architecture-assessment direction.
 - Keep research-data and open-data delivery as an approved search direction.
   Queries tried on Freelancermap and LinkedIn include `Forschungsdaten`,
   `"Research Data"`, `"Open Data"`, and freelance research/open-data terms. Philip
