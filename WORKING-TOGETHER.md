@@ -65,9 +65,12 @@ straight double quotes (`"`), and hyphens (`-`). Do not use curly quotes,
 typographic apostrophes, en dashes, or em dashes. This is a punctuation preference,
 not a restriction on language-specific letters such as umlauts.
 
-Strongly favor the `asd-ste100` skill for communication with Philip. Use plain
-words, active voice, and short sentences. Keep technical precision; simple
-language does not mean introductory explanations.
+Strongly favor the `asd-ste100` skill for direct communication with Philip in
+the agent harness. Keep technical precision; simple language does not mean
+introductory explanations. This recommendation does not apply to authored or
+edited prose, including articles, documentation, emails, posts, and other
+deliverables. Use `writing-best-practices` for those, and apply ASD-STE100 only
+when Philip explicitly requests that specialized style for the deliverable.
 
 Write for the audience and purpose. Omit defensive disclaimers, obvious
 limitations, and unsolicited process commentary in replies, marketing, UI text,

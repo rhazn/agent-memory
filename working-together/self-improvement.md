@@ -13,6 +13,9 @@
   for that incident; do not exclude similar evidence from future reviews.
 - End with an explicit message that the review is over. Summarize what was
   discussed and decided, applied changes, and commit/push status.
+- Explicitly review and consolidate shared memory each time, including what
+  belongs in `SOUL.md` and `WORKING-TOGETHER.md`. Move important durable lessons
+  to their appropriate home without forcing core-document changes at every review.
 
 ## Latest audit
 
