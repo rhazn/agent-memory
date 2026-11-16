@@ -9,6 +9,10 @@
 - Start with freeform feedback, inspect session conversations, and discuss findings
   in small batches. Cover all nine areas, even when opening feedback identifies
   particular priorities. Agree the period and sample with him.
+- Every reply in a guided review must give the current step, what remains to
+  finish it, and the next step. Philip may leave and return after half an hour;
+  status must not depend on remembering the preceding reply. At closure, state
+  that the review is complete and no steps remain.
 - CV publication was a valid example to highlight. Philip did not want a change
   for that incident; do not exclude similar evidence from future reviews.
 - End with an explicit message that the review is over. Summarize what was
@@ -23,26 +27,33 @@
 
 ## Latest audit
 
-11 November 2026. Window: 25 October through 11 November 2026.
+16 November 2026. Window: 11-16 November 2026.
 
-Inventoried 79 local OpenCode root sessions. Inspected user turns and latest
-assistant outcomes in 35 sessions: all 23 tinquiete-pas sessions and 12 varied
-sessions from other work. Read deeper assistant/tool sequences for selected
-findings. This was selective inspection, not full transcript coverage. No local
-Pi entries fell in the window; Agent Box sessions were not inspected.
+Local OpenCode inventory found 30 root sessions updated in the window. Scanned
+user-turn previews in 26 completed candidate sessions and inspected selected
+assistant/tool sequences more deeply, including three coding tasks. This was a
+selective review, not complete transcript coverage. Pi and Agent Box sessions
+were not inspected.
 
-Applied and synced locally:
-- Replaced memory's per-write approval process with cross-project delegated
-  maintenance, including focused commits, pushes, and brief reporting. Updated
-  dependent search and review instructions. No project-local rules were changed.
-- Saved audience-focused writing and goal-discovery preferences in
-  [working together](../WORKING-TOGETHER.md), and updated the writing and
-  programming skills. Preserved useful search preferences and the model setup.
-- Corrected stale Pi documentation. Configuration and shared-memory changes were
-  committed and pushed. Configuration commit permission was task-specific.
-- Clarified this review skill's personal, cross-project scope after meeting
-  feedback and added an explicit completion summary. No new handoff procedure
-  or deployment-verification requirement.
+Decisions and applied changes:
+- Philip reports delegated memory learning works well and needless caveats
+  improved. Sentence cadence remained poor. Kept ASD-STE100 recommended for direct
+  harness replies, excluded it from authored prose unless explicitly requested,
+  required disclosure of actual use, and added natural-rhythm writing guidance.
+- Clarified goal checks before substantial or complex work without adding an
+  approval gate to small tasks or blocking deliberate exploratory research.
+- Preserved progress messages and model defaults. Philip reports bugs after GLM
+  coding but cannot use GPT exclusively because of quota limits.
+- Restored OpenCode transcript detail with `session.verbosity: "high"`. Added an
+  explicitly requested `budget` subagent using GLM-5.3 max without native fallback.
+  Local registration and installed-source checks passed; actual delegated work
+  and visual TUI behavior were not tested in this review.
+- Consolidated overlapping collaboration guidance and improved writing retrieval.
+  Reviewed `SOUL.md`; its existing principles needed no change.
+- Updated the review skill to explicitly inspect core-memory consolidation and
+  require current-step, remaining-work, and next-step status in every reply.
+  Philip otherwise judged this meeting useful, with no further unresolved feedback.
+- Configuration and skills were synced locally. No Agent Box sync was requested.
 
 ## Check at the next review
 
@@ -60,16 +71,7 @@ GLM-5.3 max performed on the delegated work. Look for bugs, parent review/rework
 and quota blockers. It has no automatic Luna fallback. Do not infer success from
 configuration alone or add automatic delegation without discussion.
 
-These changes are applied, but their effect across later sessions is not yet known.
-Check whether useful coding and collaboration lessons reach shared memory without
-approval prompts, writing omits needless caveats, and agents investigate the real
-goal when context matters without questioning every straightforward task.
-Assess the current programming and testing guidance before adding more procedure.
-
-Review sentence cadence in agent-written prose. Philip flagged paragraphs made
-of uniformly short sentences as choppy and repetitive. Investigate whether the
-writing skills' short-sentence guidance and responses to Vale alerts encourage
-this pattern. Discuss varying sentence length and preserving connected reasoning
-within sentences and paragraphs before changing the shared writing skill.
-Look for prose fixes that preserve rhythm while removing formulaic transitions
-and unnecessary three-part lists, rather than defaulting to lint exceptions.
+Check whether the applied writing changes improve sentence rhythm and keep
+ASD-STE100 out of authored prose unless requested. Assess whether earlier goal
+checks prevent wasted substantial work without over-questioning simple tasks.
+The effects of these changes across later sessions are not yet established.
