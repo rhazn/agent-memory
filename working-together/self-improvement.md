@@ -57,6 +57,26 @@ Decisions and applied changes:
 
 ## Check at the next review
 
+Discuss project-management activation and visible task tracking. Philip wants
+ad hoc work to stay off the board unless he explicitly refers to a board task
+at the start of the working session or asks to use the board. Review the shared
+project-management skill, global activation instructions, and project-local
+rules together; current com.isselthal instructions require board tracking and
+conflict with this intended default. This is an agenda item, not authorization
+to change skills or project instructions now.
+
+Bad example: OpenCode session `ses_e15a1d0c8ffeUnN3Enuu3jStDU`, the Desktop PDF
+blog-feedback conversation moved from lizard-savehouse to com.isselthal. During
+ad hoc article revisions, the agent reopened completed cards
+[#4, lasting-investment article](https://tinquiete-pas.apps.heltweg.org/cards/com-isselthal-4-n1s08q96i7mfy382joae6s53)
+and [#5, automation articles](https://tinquiete-pas.apps.heltweg.org/cards/com-isselthal-5-d14t9sghfeuqu0ji2w25mxhqq),
+added revision notes and moved them through DOING to FOR HUMAN REVIEW. Philip
+had not asked to work from the board, and the final replies did not identify or
+link the affected cards. Discuss avoiding unsolicited tracking and reopening of
+completed work. Require final responses to identify and link every task changed
+and summarize the actual operation, including description updates, moves,
+reopening and completion.
+
 Discuss context load from memory retrieval, skill loading, and shared instructions.
 Philip worries that routine tasks read too much, but excess or harm is not yet
 established. Inspect representative task starts and what guidance was actually

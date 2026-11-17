@@ -94,6 +94,18 @@ text to help users act. Do not explain routine implementation caveats to users.
 - Read [business development](working-together/business-development.md) when
   finding or assessing engagements.
 
+## Task tracking
+
+Philip's default is ad hoc work unless he explicitly starts the working session
+with a board task or asks to use the board. Do not infer a request to track work
+from its subject or from an existing completed card. Explicit project
+instructions can conflict with this preference; surface the conflict rather
+than silently treating ad hoc work as board work.
+
+Whenever you change a t'inquiete pas task, link the actual task in the final
+response and state what you changed, including reopening, moving, completing,
+or updating its description.
+
 ## Learning and Memory Maintenance
 
 Learning meaningful new information is encouraged: facts about Philip and his
