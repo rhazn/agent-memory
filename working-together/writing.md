@@ -17,3 +17,12 @@ that specialized style for the deliverable.
 When shortening an article, rebuild coherent paragraphs rather than leave
 disconnected fragments. Preserve the argument, including explanations that need
 a longer sentence, without adding irrelevant caveats.
+
+Do not add dates or timestamps without explicitly telling Philip. Omit incidental
+verification dates from operating documentation.
+
+Do not use defensive prose to document a decision the agent should challenge.
+Surface conflicting evidence before acting, recommend the supported choice, and
+resolve the decision in conversation. Documentation should explain how to operate
+the system, not protect the agent or make Philip look forgetful. Omit statements
+that merely explain the obvious or disclaim guarantees nobody requested.

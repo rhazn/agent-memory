@@ -75,3 +75,20 @@ Check whether the applied writing changes improve sentence rhythm and keep
 ASD-STE100 out of authored prose unless requested. Assess whether earlier goal
 checks prevent wasted substantial work without over-questioning simple tasks.
 The effects of these changes across later sessions are not yet established.
+
+Revisit useless hedging, incidental timestamps and defensive documentation using
+the Frigate pinning example. Philip explicitly wants these exact sentences
+discussed as poor writing:
+
+> On November 17, 2026, the registry manifests for `stable` and `0.18.2` had the same digest.
+> This identifies the current stable release; it does not establish compatibility with this deployment.
+> Earlier local smoke checks used `0.17.2`.
+
+The agent knew `0.17.2` was verified but followed a request to pin current stable
+to `0.18.2`, then documented the mismatch instead of challenging the decision.
+It should have recommended the verified release before editing. Discuss both
+the missed pushback and why the resulting prose was useless, defensive and could
+make Philip look forgetful. Philip corrected the pin to `0.17.2` and required
+shorter documentation without the date. Do not add dates without explicitly
+telling him. Check whether existing guidance prevents this behavior rather than
+merely accumulating more writing rules.
