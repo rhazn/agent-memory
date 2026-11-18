@@ -91,10 +91,25 @@ GLM-5.3 max performed on the delegated work. Look for bugs, parent review/rework
 and quota blockers. It has no automatic Luna fallback. Do not infer success from
 configuration alone or add automatic delegation without discussion.
 
+Evaluate the switch to OpenAI GPT-6.2 on Wednesday morning, 18 November 2026.
+Compare representative sessions before and after the switch. Check answer
+quality, adherence to instructions, and how much correction or rework Philip
+needed. Ask Philip what differences he noticed before drawing a conclusion.
+
 Check whether the applied writing changes improve sentence rhythm and keep
 ASD-STE100 out of authored prose unless requested. Assess whether earlier goal
 checks prevent wasted substantial work without over-questioning simple tasks.
 The effects of these changes across later sessions are not yet established.
+
+Revisit ASD-STE100 activation. Philip clarified that the skill is only for
+writing when he explicitly asks for it, not for replies to him. The previous
+audit and `WORKING-TOGETHER.md` still recommend it for direct replies. Review
+that conflict and the skill's own scope at the next review.
+
+Example from OpenCode session `ses_e11989fa6ffeeS0RCcd9WzPv3H`, recorded on
+18 November 2026 at 14:47 CET: the agent followed the standing memory guidance,
+loaded ASD-STE100 without a request, and disclosed using it in a direct reply
+about the Mac mini setup. Philip flagged that reply as an example to discuss.
 
 Revisit useless hedging, incidental timestamps and defensive documentation using
 the Frigate pinning example. Philip explicitly wants these exact sentences
