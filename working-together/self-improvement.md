@@ -85,6 +85,11 @@ baseline, selective deeper retrieval, and regular shortening, consolidation, and
 deletion. Assess whether the existing structure achieves that goal. This is an
 agenda item for the next review, not authorization to redesign retrieval now.
 
+Discuss which skills should load automatically (always or when relevant) and
+which should load only when Philip explicitly invokes them. Consider moving
+some automatic skills to explicit invocation. Philip hasn't picked any yet;
+discuss candidates before changing how they load.
+
 Budget-agent experiment: check whether Philip remembered to request the named
 `budget` subagent, whether that was easier than manual model switching, and how
 GLM-5.3 max performed on the delegated work. Look for bugs, parent review/rework,
