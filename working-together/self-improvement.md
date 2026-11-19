@@ -148,6 +148,13 @@ Two Git workflow examples from OpenCode session
   including how to handle the staging that `git mv` performs. Git detects
   renames from the committed content either way; the issue was the move and
   handoff, not demonstrated loss of history.
+  Follow-up in the same session, recorded at 10:34 CET: in the next phase,
+  `git mv` staged the test moves automatically, but the agent left the related
+  test and config edits unstaged. Committing just the index would have left
+  out edits needed for the new layout. Philip did not know that `git mv` stages
+  moves and staged the full phase himself. Discuss making the staging side
+  effect explicit and agreeing on who stages the complete phase before using
+  `git mv` in a human-commit workflow.
 - **Keep commit phases in plans.** Philip liked splitting the Frigate testing
   work into a notifier move, existing test cleanup, new behavior tests,
   integration tests, and CI. When planning substantial work together, offer
