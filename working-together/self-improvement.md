@@ -127,3 +127,11 @@ make Philip look forgetful. Philip corrected the pin to `0.17.2` and required
 shorter documentation without the date. Do not add dates without explicitly
 telling him. Check whether existing guidance prevents this behavior rather than
 merely accumulating more writing rules.
+
+Discuss file references in OpenCode review replies. In session
+`ses_e0d00f14cffe5agKVMzPU3CGfW`, recorded on 19 November 2026 at 09:58 CET,
+the Frigate cleanup review linked to local files and line numbers using relative
+Markdown links. Philip could not open them in OpenCode, which said only HTTP
+and HTTPS links could be opened. Check whether the review skill calls for this
+format or the agent chose it, then discuss how to present usable file references.
+This is an agenda item, not a request to change OpenCode or the review skill now.
