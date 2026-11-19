@@ -135,3 +135,22 @@ Markdown links. Philip could not open them in OpenCode, which said only HTTP
 and HTTPS links could be opened. Check whether the review skill calls for this
 format or the agent chose it, then discuss how to present usable file references.
 This is an agenda item, not a request to change OpenCode or the review skill now.
+
+Two Git workflow examples from OpenCode session
+`ses_e0ce7ade4ffeEN3nhCmjhWufP7`, recorded on 19 November 2026 at 10:29 CET:
+
+- **Corrected move.** The agent moved the tracked Frigate notifier files with
+  plain `mv` and edited Compose and docs. It handed off a working tree that showed
+  deletions and an untracked destination instead of staged renames. Philip said
+  it should have used `git mv` to keep the move legible in Git history. The agent
+  redid the move with `git mv` and verified eight 100% renames. Discuss adding
+  guidance to the version-control skill for intentional moves of tracked files,
+  including how to handle the staging that `git mv` performs. Git detects
+  renames from the committed content either way; the issue was the move and
+  handoff, not demonstrated loss of history.
+- **Keep commit phases in plans.** Philip liked splitting the Frigate testing
+  work into a notifier move, existing test cleanup, new behavior tests,
+  integration tests, and CI. When planning substantial work together, offer
+  semantically coherent commit boundaries. After each phase, recap what changed,
+  say what's next, and wait for Philip to commit before continuing when he chooses
+  step-by-step execution. He can instead ask to run all phases in one pass.
