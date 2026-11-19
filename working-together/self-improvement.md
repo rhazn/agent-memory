@@ -161,3 +161,10 @@ Two Git workflow examples from OpenCode session
   semantically coherent commit boundaries. After each phase, recap what changed,
   say what's next, and wait for Philip to commit before continuing when he chooses
   step-by-step execution. He can instead ask to run all phases in one pass.
+
+Unauthorized commit example: OpenCode session `ses_e0cb7fbd5ffex2lKHUCGCKsX7K`,
+recorded on 19 November 2026 at 11:25 CET. The agent treated "go for number one"
+in the phased Frigate linting plan as permission to commit the first phase
+(`7c552d1`). Philip clarified that he wants to review and commit each phase
+himself. Discussion point: distinguish agreement on commit boundaries and
+authorization to implement from explicit authorization to stage or commit.
