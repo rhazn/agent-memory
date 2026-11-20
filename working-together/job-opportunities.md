@@ -18,12 +18,16 @@ job-search preferences, not permanent constraints on every kind of work.
 - Seek technical product management, software engineering, R&D, researcher,
   postdoc, and research-adjacent positions. Data engineering, open data, data
   science, and AI-related work are also exciting directions.
+- Prefer research-adjacent work in industry over academic employment, in part
+  because academic pay is often lower. Keep academic research engineering and
+  postdocs in scope, but rank comparable industry roles higher and surface
+  published pay. Do not infer a salary floor.
 - Give extra weight to work with data and data-driven products. Philip is
   particularly interested in turning data exploration into useful product
   features, not only maintaining data infrastructure.
 - Inria is a particularly attractive employer. Keep suitable Inria research
-  engineering and related roles in the search. A decision not to apply to one
-  vacancy for unrelated reasons is not negative feedback on this direction.
+  engineering and related roles in the search, subject to the same checks for
+  hands-on fit and the preference for industry.
 - Target intermediate and more experienced roles appropriate to Philip's
   professional background. Assess research roles by their responsibilities and
   eligibility, not by industry seniority labels alone.
@@ -122,6 +126,11 @@ job-search preferences, not permanent constraints on every kind of work.
   Philip reports having applied, confirmed 16 November 2026. Do not recommend again
   unless he asks to revisit it. The exact application date and outcome are unknown.
 
+- [Alan - Fullstack Software Engineer, Agentic Platform](https://jobs.ashbyhq.com/Alan/3b78382c-b243-46c1-a22e-a67850b21821):
+  Philip considers this a good fit but asked not to resurface this vacancy
+  because he has already applied to Alan many times. Keep other Alan roles in
+  scope. Do not assume he applied to this exact vacancy.
+
 ## Application Drafts and Cover Letters
 
 - Inspect the application questions before choosing the draft format. When the
@@ -153,11 +162,20 @@ job-search preferences, not permanent constraints on every kind of work.
 - For industry roles, lead with industry software engineering and technical
   product management, including work within and across technical teams. Emphasize
   the PhD itself only when it directly supports the role. Show that the research
-  years continued his hands-on engineering: he worked at the university's
-  open-source chair, developed software with student teams, and led a team through
-  his Software Campus grant. Do not frame those years as a break from programming
-  or imply that his current technical experience comes only from industry work
-  before the PhD. Connect this evidence to the vacancy rather than listing his CV.
+  years continued his hands-on engineering: he coded daily at the university's
+  open-source software chair and managed small teams of research assistants and
+  students. Where the transition matters, explain that he always planned to
+  return to industry. Connect the research to the product problem, such as what
+  domain experts need to see and understand before they can trust a data tool.
+  Do not frame those years as a break from programming.
+- Choose concrete projects that match the role's users and work. For developer
+  products, one example is the API Philip built that powered ESL's competitive
+  matchmaking product and let other engineers use matchmaking in their games.
+  Explain what the tool let people do. When AI-assisted prototyping is central
+  to the role, explain why he likes building and testing ideas quickly rather
+  than spending the time in technical meetings. For customer-hosted
+  infrastructure, his interest is in giving companies control of tools they
+  depend on, including in regulated industries.
 - Explain why he is interested. For part-time opportunities, say that he likes
   to be flexible. Do not imply that a full-time vacancy offers part-time work.
 - Omit standalone statements such as "I'm based in Paris." Mention location only
@@ -185,9 +203,11 @@ job-search preferences, not permanent constraints on every kind of work.
   experience. Do not treat these as current strengths.
 - Philip does not currently have strong SQL skills. He has some Python
   experience and limited PyTorch experience. Keep otherwise suitable roles
-  requiring SQL or PyTorch in the search: he is willing to learn and prepare,
-  including getting familiar with PyTorch before applying. State the gaps
-  accurately; do not claim established expertise in application drafts.
+  requiring SQL or PyTorch in the search when those are learnable gaps. Do not
+  shortlist roles whose core work requires established hands-on experience
+  Philip lacks, such as practical deep learning, specialist model training, or
+  GPU-cluster work. A match on general evaluation or reproducible pipelines does
+  not offset those gaps. Do not claim established expertise in application drafts.
 - Infrastructure as a service is not Philip's area of expertise, including IaaS
   storage products. Do not infer this expertise from general infrastructure,
   software engineering, or data-pipeline work. Deprioritize roles that require
