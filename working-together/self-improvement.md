@@ -57,6 +57,22 @@ Decisions and applied changes:
 
 ## Check at the next review
 
+- **Shared coding standards.** Discuss moving standards out of individual
+  skills into a shared Markdown knowledge base. Coding and review skills would
+  reference the same files. Discuss where the knowledge base belongs and how
+  to organize it so agents can start with an index and read only the short
+  topic files that apply to the task.
+- **Recurring standards discussion.** Discuss adding a step to each
+  self-improvement session for coding process, general programming, software
+  architecture, and individual languages such as TypeScript and Python. For
+  each area, summarize the current guidance and ask Philip what to add,
+  clarify, or change. If he has no topic in mind, offer a candidate for
+  discussion. Record agreed changes so the standards gradually capture
+  Philip's engineering judgment.
+
+These two items are for discussion at the next session, not decisions to
+change the skills or workflow now.
+
 Discuss project-management activation and visible task tracking. Philip wants
 ad hoc work to stay off the board unless he explicitly refers to a board task
 at the start of the working session or asks to use the board. Review the shared
