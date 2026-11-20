@@ -94,24 +94,22 @@ exhaustive. Saved after Plan mode ended.
 
 ## find-engagement-opportunities
 
-Last run: 2026-11-16 (exact run timestamp not recorded).
-Coverage: Partial. Screened 66 result cards across 12 searches with the past-week
-filter, covering software operations, data pipelines, laboratory workflows,
-esports, vendor dependence, founder workflows and parking occupancy. Read three
-direct posts, relevant author activity, a linked simulator article and the esports
-data signup terms. LinkedIn failed to load comments, so the three suggestions were
-explicitly provisional. Philip reports commenting on all three. Search was not
-exhaustive. This record was saved after read-only mode ended.
+Last run: 2026-11-20 (exact run timestamp not recorded).
+Coverage: Partial. Screened 60 result cards across ten past-week LinkedIn
+searches covering software operations, data integration, labs, esports,
+parking, and maintenance reporting. Read seven direct posts and checked author
+activity and relevant replies. Four suggestions shown. Search was not exhaustive.
+Saved after read-only mode ended.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-20 (exact time not recorded) | Lalli Consulting Engineers - Dashboard plans weekly work | https://www.linkedin.com/feed/update/urn:li:activity:7528092784864587776/ |
+| 2026-11-20 (exact time not recorded) | Zeon - Unitick open-source esports replay analysis | https://www.linkedin.com/feed/update/urn:li:activity:7527298290678403072/ |
+| 2026-11-20 (exact time not recorded) | Socar Cape - Operations and finance build internal tools | https://www.linkedin.com/feed/update/urn:li:activity:7528868304313151488/ |
+| 2026-11-20 (exact time not recorded) | Presco Plc - Factory maintenance reporting and overlapping job cards | https://www.linkedin.com/feed/update/urn:li:activity:7527736879669092352/ |
 | 2026-11-16 (exact time not recorded) | Equipment manual becomes a training simulator | https://www.linkedin.com/feed/update/urn:li:activity:7527665344954408960/ |
 | 2026-11-16 (exact time not recorded) | GRID esports - Official Riot match data open access | https://www.linkedin.com/feed/update/urn:li:activity:7526678934999142400/ |
 | 2026-11-16 (exact time not recorded) | Property occupancy growth and reserved parking | https://www.linkedin.com/feed/update/urn:li:activity:7525542839603113984/ |
 | 2026-11-12T10:01:22+01:00 | PHABIOC - Automation exposes manual workflow adjustments | https://www.linkedin.com/feed/update/urn:li:activity:7525869914562207744/ |
 | 2026-11-12T10:01:22+01:00 | ClearFeed - Self-hosted agent investigates production alerts | https://www.linkedin.com/feed/update/urn:li:activity:7524399250961666048/ |
 | 2026-11-12T10:01:22+01:00 | Nordstrom - Pipeline migration exposes silent errors and short vendor retention | https://www.linkedin.com/feed/update/urn:li:activity:7525683040375885824/ |
-| 2026-11-06T08:45:14+01:00 | Arabhardware - Live fantasy league built in one week | https://www.linkedin.com/posts/mirnaihab_ahwesports-pubgmobile-pmgo2026-ugcPost-7523777821224194048-V-Dn/ |
-| 2026-11-06T08:45:14+01:00 | LabMODO - Tracking method detection limits | https://www.linkedin.com/posts/michaelgaumer_lab-managers-and-qa-professionals-how-are-share-7523435188966662146-ysPK/ |
-| 2026-11-06T08:45:14+01:00 | Wolters Kluwer - Technical debt with AI-assisted development | https://www.linkedin.com/posts/morettilorenzo_safe-agenticai-safe-ugcPost-7523631166806016000-ph19/ |
-| 2026-11-06T08:45:14+01:00 | Benchmark Scientific - Simulation and instrument APIs for lab automation | https://www.linkedin.com/posts/labautomation-robotics-accurisinstruments-ugcPost-7523417674270584832-zTPH/ |

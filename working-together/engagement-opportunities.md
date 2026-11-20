@@ -23,6 +23,10 @@
   4. Esports: software engineering, data, analytics, data science and AI. This is a standing direction, supported by Philip's strong and uncommon esports background. Do not restrict it to data workflows.
 - Treat these directions as a starting point, not a closed list.
 - Philip explicitly wants more problem-led, less technically worded searches that reach operators discussing actual business problems. Expand this approach beyond parking; authors need not name a technology or ask for software.
+- Accounts of teams making a practical improvement to tools they already use
+  are a strong fit. Look for what changed in day-to-day work, not just which
+  technology they added.
+- For new directions, favor engineers, researchers, and lab practitioners working on complex domain problems. An individual maintenance-data post can be worthwhile, but do not pursue maintenance logs as a standalone audience or search direction.
 - After the main search, revisit Philip's background and the directions already tried. Test one new direction that could reach people he cares about, even when the main search yields fewer than three suitable posts.
 - Present the exploratory direction separately: explain the query, audience and fit, and include its strongest qualifying opportunity with a proposed comment. Do not pad with a weak result if none qualifies; explain the shortfall instead.
 - Ask whether Philip wants to keep, tweak or drop the exploratory direction. Maintain the compact direction record below, including queries tried and abstract feedback, so future searches build on prior exploration.
@@ -42,6 +46,7 @@ Keep this as a consolidated record of approaches, not a chronological search log
 | Open-source migration and adoption in businesses | `"open source" "migration"`; `"open source" "adoption"` | Explicit preference: keep this direction, targeting businesses rather than public-sector adopters. Search for concrete problems: rising software fees, vendor lock-in, difficult exports, customer-data privacy, sending sensitive data to AI providers, and requirements to keep data on company infrastructure. Do not require authors to mention open source or assume it is the best solution. Initial solution-led queries mostly returned announcements or promotion; next use problem-led queries rather than ecosystem announcements. |
 | Research prototypes becoming products and university spinouts | `"software" "research spinout"`; `"research software" "startup"` | Explicit preference: keep this direction. Initial queries mainly returned institutional news, recruitment and market-report spam. Focus next on posts by people spinning out: questions about finding technical support, who to ask for help, and accounts of visiting university spinout or technology-transfer offices and university accelerators. Reach founders and domain experts facing practical product-building problems, not mainly technical peers. These refinements are suggested queries and angles, not searches already performed. |
 | Parking and mobility operations | `parking data integration`; `"parking" "open data"`; `"parking" "occupancy"` | Explicit preference: expand this direction. Problem-led occupancy searches reached relevant operators and produced a strong fit, unlike initial technical queries dominated by announcements, tutorials and student projects. Seek underused spaces, reserved versus shared parking, booking no-shows, cleanliness and other operational problems. Next test `parking no shows`, `unused parking spaces` and `Parkplatz Auslastung`; these remain proposed queries. Use verified Ampido experience for concrete contributions about dynamic booking and sharing spaces across different usage times, not merely to assess audience fit. Authors need not mention software, data integration or open data. |
+| Maintenance reporting | `"maintenance logs"` | Explicit feedback: keep the idea of looking for concrete workflow and data problems, but drop maintenance logs as a standalone direction. Apply the approach to engineers, researchers, and labs in more complex domains. |
 
 ## Post Selection
 
@@ -67,8 +72,8 @@ Keep this as a consolidated record of approaches, not a chronological search log
 - Favor genuine curiosity, a focused question, a relevant observation, or a supported personal example.
 - Do not quote the source post or article in comment drafts. Philip explicitly dislikes that device, especially as an opening; develop an original response instead of echoing a memorable sentence.
 - Questions about actual implementation and how people handle judgment calls can make a useful conversational contribution. Do not invent what Philip has read or which tools he is considering. A tool reference or outside link needs a known, relevant reason, not an assumed personal interest.
-- Check every proposed question against the post and relevant linked sources, including signup pages and stated terms. Do not ask for information they already supply or add a question merely to extend the conversation. A useful observation or appreciation can stand alone.
-- Engage primarily with the content of the post. Use author and company research to assess fit, not to make the comment sound like a researched sales approach.
+- Check every proposed question and its lead-in against the full post, relevant replies, and linked sources. Do not ask generally what happens when the post already explains it, even if a narrower question follows. Acknowledge the answer and ask only about the specific unresolved detail, or cut the question altogether. Adoption and how the old and new tools fit together can be better questions when the post leaves them open.
+- Strongly prefer reacting to a substantial post itself over reacting to a linked article, repository, or website. The comment must make sense to readers who only read the post. Use links for verification and to catch questions that are already answered. If a linked detail is essential, give enough context in the comment itself. Use author and company research to assess fit, not to make the comment sound like a researched sales approach.
 - For unfamiliar authors, avoid pointed, complex questions about their specific business unless the post invites that depth. A straightforward business question can fit, but do not imply prior familiarity.
 - Simple questions about actual users and products built with a tool can be more natural than elaborate technical questions. Where supported by Philip's experience, a concrete software-engineering analogy followed by a genuine implementation question also fits. Do not make either a fixed template.
 - Use concrete wording that makes the reasoning clear. Avoid compressed or abstract phrases that require the reader to infer the point.
@@ -81,6 +86,18 @@ Keep this as a consolidated record of approaches, not a chronological search log
 - When Philip lacks domain experience, express honest interest or ask for a follow-up rather than manufacture a specialist contribution. A simple question about an available framework can be sufficient.
 - Favor warm, conversational reactions grounded in the actual work. Use familiar examples to explain cross-domain engineering connections. Do not force every comment into an observation-plus-question pattern.
 - Never invent experience, opinions, or familiarity.
+
+## Examples from Philip
+
+Short verbatim excerpts Philip supplied as voice references. Use the tone and
+the kind of curiosity they show. Do not reuse their wording or question patterns
+by default.
+
+> I like that you started from the tools that your team actually uses and then just added a pragmatic improvement on top :D. That is a good way for it to actually get used, as someone who has moved and churned from a lot of overblown todo-apps, the simpler the better. Was this easy to get people on board to use? And are you still using the Excel sheet as source for data?
+
+> Wow, cool project! Can you also quickly watch similar moments that had a different (or the same) outcome easily? Would be kind of cool to have trouble in a spot and be able to immediately jump into 5-10 short videos of how pros approach the same situation.
+
+> I think this is one of the areas that AI assisted coding made much more possible. Now you can build prototypes quickly (and non-technical people can as well) and iterate on these prototypes, instead of having to plan for a long time and have implementation pauses in between. And then you can come together to solve a shared problem with another department :).
 
 ## Supported Background and Contribution Angles
 
@@ -122,7 +139,9 @@ inferences. Read and maintain the engagement section of
 That bounded record is the only exception to the rule against storing individual
 posts or chronological search history. The consolidated search-direction record
 above is also explicitly requested: retain approaches and abstract feedback, not
-per-run activity. Do not store comment bodies, third-party personal data,
-or task logs. This permission includes focused commits and pushes
-of these memory updates. Other memory maintenance follows the general delegation
-in `WORKING-TOGETHER.md`; platform actions still need explicit permission.
+per-run activity. Do not store comment drafts or bodies except for a few
+de-identified excerpts explicitly supplied by Philip as voice examples. Do not
+store third-party personal data or task logs. This permission includes focused
+commits and pushes of these memory updates. Other memory maintenance follows
+the general delegation in `WORKING-TOGETHER.md`; platform actions still need
+explicit permission.
