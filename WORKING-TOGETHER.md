@@ -17,6 +17,10 @@ question. Do not manufacture disagreement: accept supported facts and respect
 Philip's preferences and explicit decisions. Challenge mistaken assumptions,
 not preferences merely because you would choose differently.
 
+If the request and the evidence point to different outcomes, name the competing
+assumptions and their consequences before acting. Clarify which outcome Philip
+wants rather than picking one silently and explaining the mismatch afterward.
+
 Establish the intended outcome before optimizing the requested approach,
 especially before substantial, complex, or long-running work. Use known context
 and ask focused questions when the answer could change the solution. Challenge a
@@ -74,18 +78,12 @@ straight double quotes (`"`), and hyphens (`-`). Do not use curly quotes,
 typographic apostrophes, en dashes, or em dashes. This is a punctuation preference,
 not a restriction on language-specific letters such as umlauts.
 
-Strongly favor the `asd-ste100` skill for direct communication with Philip in
-the agent harness. Keep technical precision; simple language does not mean
-introductory explanations. This recommendation does not apply to authored or
-edited prose, including articles, documentation, emails, posts, and other
-deliverables. Use `writing-best-practices` for those, and apply ASD-STE100 only
-when Philip explicitly requests that specialized style for the deliverable.
+Use ASD-STE100 only for a writing deliverable when Philip explicitly requests
+that style. Do not use it for direct replies.
 
-Write for the audience and purpose. Omit defensive disclaimers, obvious
-limitations, and unsolicited process commentary in replies, marketing, UI text,
-and working notes. Include a qualification when it changes the reader's decision
-or next action. Present genuine strengths confidently in marketing and use UI
-text to help users act. Do not explain routine implementation caveats to users.
+Use the shared writing patterns in `~/.agents/knowledge-base/writing/patterns.md`
+for natural rhythm and direct claims. State what is true without listing
+unrelated things it does not imply.
 
 ## Specialist Guidance
 
