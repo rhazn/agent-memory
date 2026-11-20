@@ -69,20 +69,21 @@ User-reported application status, confirmed 2026-11-06:
 
 ## find-job-opportunities
 
-Last run: 2026-11-16 (exact run timestamp not recorded).
-Coverage: Partial. Screened three first LinkedIn result pages for AI product,
-software/data/AI engineering, and French research/data/part-time terms. LinkedIn
-dropped the requested employment filter; checked vacancy terms individually.
-Welcome to the Jungle matching retained freelance-only preferences, left unchanged
-in Plan mode; read Mozza's vacancy and application directly. Screened all 75
-EURAXESS France/computer-science job offers across eight pages. Read ten distinct
-full vacancies and three accessible application forms. Armature's application
-questions required a YC account and were not inspected. No confirmed part-time
-recommendation. Search was not exhaustive. Saved after the report when read-only
-mode ended.
+Last run: 2026-11-20T09:26:12+01:00.
+Coverage: Partial. Screened four first LinkedIn result pages and checked vacancy
+terms individually after LinkedIn dropped the employment filter. Reviewed targeted
+Welcome to the Jungle listings without changing the saved freelance-only filters
+in Plan mode. Screened all 80 EURAXESS France/computer-science job offers across
+eight pages and checked public HelloWork AI engineering and part-time development
+results. Read the three shortlisted vacancies and inspected two application forms.
+Inria's form required sign-in. No confirmed part-time match. Search was not
+exhaustive. Saved after Plan mode ended.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-20 (exact report time not recorded) | Alan - Fullstack Software Engineer, Agentic Platform | https://jobs.ashbyhq.com/Alan/3b78382c-b243-46c1-a22e-a67850b21821 |
+| 2026-11-20 (exact report time not recorded) | Tsuga - Senior Product Manager | https://jobs.gem.com/tsuga/am9icG9zdDow7m3Oit8ySIykqKUZe2XZ |
+| 2026-11-20 (exact report time not recorded) | Inria ARAMIS - Research Engineer, Medical Foundation Model Alignment | https://recrutement.inria.fr/public/classic/en/offres/2026-10648 |
 | 2026-11-16 (exact time not recorded) | Armature - Founding Engineer, Applied AI Research | https://www.ycombinator.com/companies/armature/jobs/Coplfpy-founding-engineer-applied-ai-research |
 | 2026-11-16 (exact time not recorded) | Modash - Senior Software Engineer, Data Search | https://apply.workable.com/modash/j/5761CCE8F8/ |
 | 2026-11-16 (exact time not recorded) | Mozza - Tech Builder, AI Software Engineer | https://www.welcometothejungle.com/fr/companies/mozza-1/jobs/tech-lead-full-stack-genai_paris_MOZZA_RKxoxVo |
@@ -90,9 +91,6 @@ mode ended.
 | 2026-11-12 (exact time not recorded) | Cozycozy - AI Product Builder | https://jobs.cozycozy.com/o/ai-product-builder |
 | 2026-11-12 (exact time not recorded) | Inria WILLOW - Research engineer, perspective-grounded spatial reasoning | https://recrutement.inria.fr/public/classic/en/offres/2026-10630 |
 | 2026-11-10T14:55:46+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
-| 2026-11-10T14:55:46+01:00 | Joko - Lead Product Manager, AI Platform | https://jobs.ashbyhq.com/joko/ad0f0110-4081-4242-9a18-cfcc91a98bde |
-| 2026-11-10T14:55:46+01:00 | Overstory - Staff Product Manager, Machine Learning | https://jobs.ashbyhq.com/overstory/11d1c613-10f4-44a8-8973-44f2f1f710b0 |
-| 2026-11-06T08:40:10+01:00 | Dotfile - Senior Fullstack Engineer | https://jobs.ashbyhq.com/dotfile/bb5e660f-3b60-4d72-9e44-986f0850afc5 |
 
 ## find-engagement-opportunities
 

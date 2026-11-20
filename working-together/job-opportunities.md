@@ -7,7 +7,9 @@ job-search preferences, not permanent constraints on every kind of work.
 ## Confirmed Preferences
 
 - Seek personal employment, not Isselthal sales or freelance agency engagements.
-- Ideally, find part-time employment under a French CDI. Full-time is acceptable.
+- Full-time employment is the default and a good outcome. Part-time is also
+  welcome when the role fits. Do not prioritize part-time over full-time or
+  treat full-time hours as a downside.
 - Prefer CDI, but CDD is also acceptable, including research and postdoc roles.
 - Paris in-person or hybrid work is acceptable. Remote work is acceptable when
   the employer permits working from Paris, France. No regular office attendance
