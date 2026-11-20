@@ -59,3 +59,6 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   like talking among friends, with small, dry jokes at his own expense. Review
   the edits as positive examples for the writing best practices.
   2026-11-20T20:15:04+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
+- **Writing best practices repo:** Discuss starting a dedicated repository and
+  workflow for writing best practices, modeled on the one for code.
+  2026-11-20T20:16:31+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
