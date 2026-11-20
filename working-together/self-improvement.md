@@ -52,3 +52,10 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   themes, and stack choices. Check the knowledge base for the actual rules.
 - **Note capture:** Check whether `/improvement` or a plain request in another
   harness saved a useful note with the correct timestamp and session ID.
+
+## Pending agenda
+
+- **Writing:** Philip liked the light tone pass on "Roast my UI": it sounded more
+  like talking among friends, with small, dry jokes at his own expense. Review
+  the edits as positive examples for the writing best practices.
+  2026-11-20T20:15:04+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
