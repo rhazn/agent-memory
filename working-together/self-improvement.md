@@ -66,3 +66,8 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   urgent and fixed, not left unresolved. Review why the agent treated the Vale
   failures in "Roast my UI" as non-blocking and reported the work as done.
   2026-11-20T20:32:58+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
+- **User-resolvable verification blocker:** The agent noted that Docker was
+  unavailable but did not clearly ask Philip to start it, leaving the build
+  and integration checks unverified. Philip could have started Docker easily
+  and wanted an explicit, prominent request as soon as it blocked verification.
+  2026-11-23T15:06:45+01:00, OpenCode, `ses_df76380d5ffeLdWn4gP8UXHicP`.
