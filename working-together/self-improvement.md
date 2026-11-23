@@ -71,3 +71,6 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   and integration checks unverified. Philip could have started Docker easily
   and wanted an explicit, prominent request as soon as it blocked verification.
   2026-11-23T15:06:45+01:00, OpenCode, `ses_df76380d5ffeLdWn4gP8UXHicP`.
+- **Agent personality and name:** Philip thinks it would be fun to discuss a
+  personality and name for the shared agent in `SOUL.md`.
+  2026-11-23T15:07:32+01:00, OpenCode, `ses_df76380d5ffeLdWn4gP8UXHicP`.
