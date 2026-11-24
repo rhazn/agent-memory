@@ -81,3 +81,9 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   files grouped in small packages. Use his feedback in this session to discuss
   how to make the guideline apply more consistently.
   2026-11-24T18:24:12+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
+- **Explicit code review invocation:** Focused requests such as reviewing
+  file structure have repeatedly triggered the full multi-agent code review
+  when Philip wanted only the requested check. He wants the full workflow
+  available only via an explicit command such as `/code-review`, not triggered
+  by the word "review" in ordinary requests.
+  2026-11-24T18:27:23+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
