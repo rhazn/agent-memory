@@ -94,3 +94,7 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   the common delivery path instead of rechecking the kind in multiple places.
   Discuss when this pattern helps and which pattern name fits.
   2026-11-24T18:33:29+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
+- **Vale rules and writing guidance:** Discuss how to set up and use Vale,
+  and which rules are useful. Philip wants to keep styles such as `write-good`
+  and `ai-tells` but always disable `write-good.E-Prime`.
+  2026-11-24T19:00:57+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
