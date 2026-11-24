@@ -87,3 +87,10 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   available only via an explicit command such as `/code-review`, not triggered
   by the word "review" in ordinary requests.
   2026-11-24T18:27:23+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
+- **Data classes and shared interfaces:** Use Philip's notification feedback
+  to discuss reinforcing data-only classes for named variants and programming
+  against a shared interface. In the example, select the notification kind
+  once, keep its copy in its own clearly named definition, and pass it through
+  the common delivery path instead of rechecking the kind in multiple places.
+  Discuss when this pattern helps and which pattern name fits.
+  2026-11-24T18:33:29+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
