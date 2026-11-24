@@ -74,3 +74,10 @@ and configuration. Pi and Agent Box sessions were outside this sample.
 - **Agent personality and name:** Philip thinks it would be fun to discuss a
   personality and name for the shared agent in `SOUL.md`.
   2026-11-23T15:07:32+01:00, OpenCode, `ses_df76380d5ffeLdWn4gP8UXHicP`.
+- **Code structure:** Review why the existing coding guidance did not lead the
+  agent to split three Temporal workflow classes into separately named files
+  in one `workflows/` package. Philip wants each file to contain one small,
+  self-contained responsibility, with a filename that names it and related
+  files grouped in small packages. Use his feedback in this session to discuss
+  how to make the guideline apply more consistently.
+  2026-11-24T18:24:12+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
