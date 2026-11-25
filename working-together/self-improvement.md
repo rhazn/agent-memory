@@ -106,3 +106,9 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   folding it into programming best practices. Use the final-summary disclosures
   to find examples and discuss what Ponytail added or duplicated.
   2026-11-25T15:20:44+01:00, OpenCode, `ses_decf3521effeNZG0cef72UkN0Q`.
+- **Ponytail and Impeccable:** Philip installed Ponytail for coding and
+  Impeccable for design on 25 November. Review relevant tasks in other OpenCode
+  sessions, not this note's session. Did agents remember to use each skill when
+  it applied? What changed in the work, what helped or got in the way, and
+  should we keep each one?
+  2026-11-25T15:21:24+01:00, OpenCode, `ses_decf65865ffeWc06LLXQTo1acc`.
