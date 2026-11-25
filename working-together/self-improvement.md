@@ -101,3 +101,8 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   Philip wants to keep styles such as `write-good` and `ai-tells` but always
   disable `write-good.E-Prime`.
   2026-11-24T19:04:26+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
+- **Ponytail evaluation:** Philip asked to use Ponytail as a separate skill
+  on all coding tasks until further notice, rather than making it opt-in or
+  folding it into programming best practices. Use the final-summary disclosures
+  to find examples and discuss what Ponytail added or duplicated.
+  2026-11-25T15:20:44+01:00, OpenCode, `ses_decf3521effeNZG0cef72UkN0Q`.
