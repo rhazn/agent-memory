@@ -69,18 +69,15 @@ User-reported application status, confirmed 2026-11-06:
 
 ## find-job-opportunities
 
-Last run: 2026-11-20T09:26:12+01:00.
-Coverage: Partial. Screened four first LinkedIn result pages and checked vacancy
-terms individually after LinkedIn dropped the employment filter. Reviewed targeted
-Welcome to the Jungle listings without changing the saved freelance-only filters
-in Plan mode. Screened all 80 EURAXESS France/computer-science job offers across
-eight pages and checked public HelloWork AI engineering and part-time development
-results. Read the three shortlisted vacancies and inspected two application forms.
-Inria's form required sign-in. No confirmed part-time match. Search was not
-exhaustive. Saved after Plan mode ended.
+Last run: 2026-11-25T15:11:34+01:00.
+Coverage: Partial, Station F only. Screened both pages of 24 employment results.
+Two leads shown from the initial pass, neither with confirmed English-only
+compatibility. No other sources searched.
 
 | Shown at | Opportunity | Canonical URL or stable ID |
 | --- | --- | --- |
+| 2026-11-25T15:11:34+01:00 | Mayday - Software Engineer, AI Product | https://jobs.stationf.co/companies/mayday/jobs/technical-support-specialist_paris_MAYDA_a5xM747 |
+| 2026-11-25T15:11:34+01:00 | Craft AI - DevOps Engineer | https://jobs.stationf.co/companies/craft-ai/jobs/devops-engineer-h-f_paris |
 | 2026-11-20 (exact report time not recorded) | Alan - Fullstack Software Engineer, Agentic Platform | https://jobs.ashbyhq.com/Alan/3b78382c-b243-46c1-a22e-a67850b21821 |
 | 2026-11-20 (exact report time not recorded) | Tsuga - Senior Product Manager | https://jobs.gem.com/tsuga/am9icG9zdDow7m3Oit8ySIykqKUZe2XZ |
 | 2026-11-20 (exact report time not recorded) | Inria ARAMIS - Research Engineer, Medical Foundation Model Alignment | https://recrutement.inria.fr/public/classic/en/offres/2026-10648 |
@@ -89,8 +86,6 @@ exhaustive. Saved after Plan mode ended.
 | 2026-11-16 (exact time not recorded) | Mozza - Tech Builder, AI Software Engineer | https://www.welcometothejungle.com/fr/companies/mozza-1/jobs/tech-lead-full-stack-genai_paris_MOZZA_RKxoxVo |
 | 2026-11-12 (exact time not recorded) | Akur8 - Product Engineer | https://jobs.ashbyhq.com/akur8/bd289e12-03cd-4fc2-96ec-698adc490b3a |
 | 2026-11-12 (exact time not recorded) | Cozycozy - AI Product Builder | https://jobs.cozycozy.com/o/ai-product-builder |
-| 2026-11-12 (exact time not recorded) | Inria WILLOW - Research engineer, perspective-grounded spatial reasoning | https://recrutement.inria.fr/public/classic/en/offres/2026-10630 |
-| 2026-11-10T14:55:46+01:00 | PayFit - Senior AI Product Engineer | https://careers.payfit.com/jobs/8643460-senior-ai-product-engineer |
 
 ## find-engagement-opportunities
 
