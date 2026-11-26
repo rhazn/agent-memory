@@ -117,3 +117,8 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   explicitly require a controllable clock for time-dependent behavior:
   advance time in the test instead of waiting for real time to pass.
   2026-11-26T17:04:59+01:00, OpenCode, `ses_de76ba7d2ffeIuPhgX1MblymA3`.
+- **Test coverage and unit tests:** A project's `AGENTS.md` prohibited unit tests.
+  Philip wants the testing best practices to encourage focused unit tests where
+  they fit, with small integration and end-to-end tests as the main approach for
+  checking observable behavior rather than implementation details.
+  2026-11-26T17:14:04+01:00, OpenCode, `ses_de76ba7d2ffeIuPhgX1MblymA3`.
