@@ -112,3 +112,8 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   it applied? What changed in the work, what helped or got in the way, and
   should we keep each one?
   2026-11-25T15:21:24+01:00, OpenCode, `ses_decf65865ffeWc06LLXQTo1acc`.
+- **Simulated time in tests:** Some UI tests waited real seconds for timeouts.
+  Fast tests are a priority. Philip wants the testing best practices to
+  explicitly require a controllable clock for time-dependent behavior:
+  advance time in the test instead of waiting for real time to pass.
+  2026-11-26T17:04:59+01:00, OpenCode, `ses_de76ba7d2ffeIuPhgX1MblymA3`.
