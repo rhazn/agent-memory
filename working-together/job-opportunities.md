@@ -130,6 +130,11 @@ job-search preferences, not permanent constraints on every kind of work.
   Philip considers this a good fit but asked not to resurface this vacancy
   because he has already applied to Alan many times. Keep other Alan roles in
   scope. Do not assume he applied to this exact vacancy.
+- Philip confirmed on 26 November 2026 that he applied to the following three
+  vacancies. Do not recommend them again unless he asks to revisit them:
+  - [Pennylane - Senior Product Manager, AI Studio Builder](https://jobs.ashbyhq.com/pennylane/c76653dc-805a-4406-9022-bb589bf3972c)
+  - [Kpler - Engineer II, AI Enablement](https://jobs.lever.co/kpler/e914f4a8-2a6a-41d1-9c0a-51fdd23a5e75)
+  - [Scaleway - Product Manager, AI Inference](https://jobs.lever.co/scaleway/a00c86ba-e7b1-4e46-a023-d98d89ca3eb2)
 
 ## Application Drafts and Cover Letters
 
