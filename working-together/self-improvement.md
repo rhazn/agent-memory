@@ -125,3 +125,8 @@ and configuration. Pi and Agent Box sessions were outside this sample.
 - **Check `/code-review` next week:** Ask whether Philip remembered and used
   the explicit OpenCode entry point for the full multi-agent review.
   2026-11-27T14:55:57+01:00, OpenCode, `ses_de2d4a211ffeoi2HYC2bZAyn67`.
+- **Check L's name and personality next week:** Look for sessions where Philip
+  used the name or interacted with L as a personality. Ask whether it changed
+  the interaction. Discuss a swarm of small, helpful creatures as an alternative
+  to one shared persona.
+  2026-11-27T16:00:30+01:00, OpenCode, `ses_de2d4a211ffeoi2HYC2bZAyn67`.
