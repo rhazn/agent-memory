@@ -17,116 +17,43 @@
 
 ## Latest audit
 
-20 November 2026. Window: 16-20 November. Inventoried local OpenCode sessions
-and inspected selected conversations across writing, implementation, review,
-and configuration. Pi and Agent Box sessions were outside this sample.
+27 November 2026. Window: 21-27 November, plus linked 20 November notes.
+Sampled local Mac OpenCode conversations around saved notes and corroborating
+work. Pi and Agent Box sessions were out of scope.
 
-- Kept GPT-6.2 as the default. Philip confirmed high transcript detail works.
-- Scoped ASD-STE100 to explicitly requested writing. Strengthened guidance to
-  surface conflicting assumptions before acting and to write direct claims.
-- Made board tracking opt-in, with explicit conflict handling and links for
-  changed cards. Standardized OpenCode local file references as `path:line`.
-- Moved coding guidance, writing patterns, and examples to a shared knowledge
-  base. Added phased planning and `git mv` handoff guidance, architecture
-  guidance, and React/frontend practices. Removed the phased procedure from
-  personal memory and left `SOUL.md` unchanged.
-- Added a shared note-capture procedure with `/improvement` as the OpenCode
-  shortcut. Added a recurring knowledge-base discussion and an explicit
-  stage-advance requirement to the review skill.
-- Synced the managed configuration locally. Configuration tests passed and
-  OpenCode listed `/improvement`. A live note save and Agent Box sync were not
-  performed.
+- Kept the budget agent on explicit request after a successful handoff. Kept
+  `/improvement` after checking saved notes against OpenCode turns. Neither
+  needs a standing follow-up.
+- Required coding guidance before coding; added rules and standalone examples
+  for named files, functions, constants, records, and data variants. Clarified
+  test levels, public contracts, and independent controllable clocks.
+- Added first-draft personal blog voice guidance and examples to the shared
+  writing directory. Added automated verification defaults. Vale preserves
+  upstream severity, fails the check on warnings or errors, and disables E-Prime.
+- Required reporting of all remaining check failures and direct requests for
+  help with user-resolvable blockers. Removed the superseded Ruff memory rule.
+- Made full multi-agent review explicit via `/code-review`. Named the shared
+  agent L (she/her). Shortened skill and knowledge-base prose.
+- Retrospective: working through saved notes one by one helped. Updated the
+  review skill to prioritize improving first attempts through reusable
+  guidance. Read the relevant revisions and Philip's corrections before
+  generalizing from an artifact.
+- Synced and checked installed Mac config. Config tests and isolated Vale
+  examples passed; this repository has no configured prose lint. Local
+  configuration changes were not committed or pushed.
 
 ## Check at the next review
 
-- **Budget agent experiment:** Keep it available and explicitly invoked.
-  No use appeared in the local OpenCode sample. Philip considers that an
-  early negative signal but wants to continue the experiment. Ask whether
-  he used it; if so, compare invocation friction, result quality, quota
-  blockers, and rework with manual model switching. If there is still no use,
-  ask whether to retire it.
-- **Coding guidance:** Ask whether Philip noticed the new guidance, what helped,
-  and what felt rigid or added complexity. Look at examples from premise checks
-  and phased Git work; state and provider ownership, connection lifecycle, and
-  small co-located files; and React component boundaries, loading, semantic
-  themes, and stack choices. Check the knowledge base for the actual rules.
-- **Note capture:** Check whether `/improvement` or a plain request in another
-  harness saved a useful note with the correct timestamp and session ID.
-
-## Pending agenda
-
-- **Writing:** Philip liked the light tone pass on "Roast my UI": it sounded more
-  like talking among friends, with small, dry jokes at his own expense. Review
-  the edits as positive examples for the writing best practices.
-  2026-11-20T20:15:04+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
-- **Writing best practices repo:** Discuss starting a dedicated repository and
-  workflow for writing best practices, modeled on the one for code.
-  2026-11-20T20:16:31+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
-- **Failing checks:** Philip wants Vale, code lint, and test errors treated as
-  urgent and fixed, not left unresolved. Review why the agent treated the Vale
-  failures in "Roast my UI" as non-blocking and reported the work as done.
-  2026-11-20T20:32:58+01:00, OpenCode, `ses_e05a00e82ffeDtwX4kbsJB2f9s`.
-- **User-resolvable verification blocker:** The agent noted that Docker was
-  unavailable but did not clearly ask Philip to start it, leaving the build
-  and integration checks unverified. Philip could have started Docker easily
-  and wanted an explicit, prominent request as soon as it blocked verification.
-  2026-11-23T15:06:45+01:00, OpenCode, `ses_df76380d5ffeLdWn4gP8UXHicP`.
-- **Agent personality and name:** Philip thinks it would be fun to discuss a
-  personality and name for the shared agent in `SOUL.md`.
-  2026-11-23T15:07:32+01:00, OpenCode, `ses_df76380d5ffeLdWn4gP8UXHicP`.
-- **Code structure:** Review why the existing coding guidance did not lead the
-  agent to split three Temporal workflow classes into separately named files
-  in one `workflows/` package. Philip wants each file to contain one small,
-  self-contained responsibility, with a filename that names it and related
-  files grouped in small packages. Use his feedback in this session to discuss
-  how to make the guideline apply more consistently.
-  2026-11-24T18:24:12+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
-- **Explicit code review invocation:** Focused requests such as reviewing
-  file structure have repeatedly triggered the full multi-agent code review
-  when Philip wanted only the requested check. He wants the full workflow
-  available only via an explicit command such as `/code-review`, not triggered
-  by the word "review" in ordinary requests.
-  2026-11-24T18:27:23+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
-- **Data classes and shared interfaces:** Use Philip's notification feedback
-  to discuss reinforcing data-only classes for named variants and programming
-  against a shared interface. In the example, select the notification kind
-  once, keep its copy in its own clearly named definition, and pass it through
-  the common delivery path instead of rechecking the kind in multiple places.
-  Discuss when this pattern helps and which pattern name fits.
-  2026-11-24T18:33:29+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
-- **Vale rules and writing guidance:** Discuss which Vale rules to use and
-  how writing guidance should prompt agents to check for Vale and recommend
-  it when absent. Review how the existing repository setup skill can make
-  prose linting part of the standard setup alongside code linting and tests.
-  Philip wants to keep styles such as `write-good` and `ai-tells` but always
-  disable `write-good.E-Prime`.
-  2026-11-24T19:04:26+01:00, OpenCode, `ses_df1700dd4ffewidPET6Ws61CCy`.
-- **Ponytail evaluation:** Philip asked to use Ponytail as a separate skill
-  on all coding tasks until further notice, rather than making it opt-in or
-  folding it into programming best practices. Use the final-summary disclosures
-  to find examples and discuss what Ponytail added or duplicated.
-  2026-11-25T15:20:44+01:00, OpenCode, `ses_decf3521effeNZG0cef72UkN0Q`.
-- **Ponytail and Impeccable:** Philip installed Ponytail for coding and
-  Impeccable for design on 25 November. Review relevant tasks in other OpenCode
-  sessions, not this note's session. Did agents remember to use each skill when
-  it applied? What changed in the work, what helped or got in the way, and
-  should we keep each one?
-  2026-11-25T15:21:24+01:00, OpenCode, `ses_decf65865ffeWc06LLXQTo1acc`.
-- **Simulated time in tests:** Some UI tests waited real seconds for timeouts.
-  Fast tests are a priority. Philip wants the testing best practices to
-  explicitly require a controllable clock for time-dependent behavior:
-  advance time in the test instead of waiting for real time to pass.
-  2026-11-26T17:04:59+01:00, OpenCode, `ses_de76ba7d2ffeIuPhgX1MblymA3`.
-- **Test coverage and unit tests:** A project's `AGENTS.md` prohibited unit tests.
-  Philip wants the testing best practices to encourage focused unit tests where
-  they fit, with small integration and end-to-end tests as the main approach for
-  checking observable behavior rather than implementation details.
-  2026-11-26T17:14:04+01:00, OpenCode, `ses_de76ba7d2ffeIuPhgX1MblymA3`.
-- **Check `/code-review` next week:** Ask whether Philip remembered and used
-  the explicit OpenCode entry point for the full multi-agent review.
+- **`/code-review`:** Did Philip remember and use the command when he wanted
+  a full review? Did ordinary review requests stay focused?
   2026-11-27T14:55:57+01:00, OpenCode, `ses_de2d4a211ffeoi2HYC2bZAyn67`.
-- **Check L's name and personality next week:** Look for sessions where Philip
-  used the name or interacted with L as a personality. Ask whether it changed
-  the interaction. Discuss a swarm of small, helpful creatures as an alternative
-  to one shared persona.
+- **Ponytail and Impeccable:** Ponytail loaded in the coding sample, but its
+  added value was unclear. Look for one decision it improved beyond Programming
+  Best Practices. Reconsider requiring it if none appears. Keep Impeccable
+  opt-in; assess it after a real design session.
+- **Shorter guidance:** Sample a coding or writing task. Did the agent find and
+  follow the guidance? Repair a missing instruction or link if needed.
+- **L's name and personality:** Look for sessions where Philip used the name
+  or treated L as a personality, and ask whether it changed the interaction.
+  Discuss a swarm of small, helpful creatures as an alternative.
   2026-11-27T16:00:30+01:00, OpenCode, `ses_de2d4a211ffeoi2HYC2bZAyn67`.
