@@ -57,3 +57,11 @@ work. Pi and Agent Box sessions were out of scope.
   or treated L as a personality, and ask whether it changed the interaction.
   Discuss a swarm of small, helpful creatures as an alternative.
   2026-11-27T16:00:30+01:00, OpenCode, `ses_de2d4a211ffeoi2HYC2bZAyn67`.
+
+## Pending agenda
+
+- **Answer the explicit question first.** Philip asked whether the time field
+  used a native HTML input and commented on its behavior. The agent changed
+  the input without answering. Philip wanted a direct answer before treating
+  the comment as an implementation request.
+  2026-11-27T20:04:29+01:00, OpenCode, `ses_de224be20ffeoCfkZw722suYkf`.
