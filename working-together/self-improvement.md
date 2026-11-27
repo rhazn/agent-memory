@@ -122,3 +122,6 @@ and configuration. Pi and Agent Box sessions were outside this sample.
   they fit, with small integration and end-to-end tests as the main approach for
   checking observable behavior rather than implementation details.
   2026-11-26T17:14:04+01:00, OpenCode, `ses_de76ba7d2ffeIuPhgX1MblymA3`.
+- **Check `/code-review` next week:** Ask whether Philip remembered and used
+  the explicit OpenCode entry point for the full multi-agent review.
+  2026-11-27T14:55:57+01:00, OpenCode, `ses_de2d4a211ffeoi2HYC2bZAyn67`.
